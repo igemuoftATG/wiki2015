@@ -5,3 +5,4 @@ bower_components
 *.map
 wikigenerator
 phantom/**/*.png
+.yo-rc.json
