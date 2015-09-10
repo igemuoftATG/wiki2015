@@ -1,3 +1,6 @@
+* fix format of references
+* add previous uses/applications of FBA
+
 ### Brief Description: ##
 Whether they be in dirt, in water, in the air, on skin or in the gut, bacteria generally occur in communities. In microbial communities, the survival of all species are interdependent due to the biochemical and behavioral activities of one species that provide the necessary metabolites and living environment for another [1]. Many approaches have been developed for predicting flux distributions in the metabolic network of one species using flux balance analysis (FBA) in order to optimize for biomass or product formation [2,3]. However, algorithms to perform FBA at a community level have been few and complicated (often using non-linear programming and very difficult to solve); since in community FBA (cFBA), the exchange of metabolites between species, the biomass, relative fitness and competitive ability of each species affect metabolic flux within the community and within each individual species [4-6]. MetaFlux, a web tool developed by the Toronto iGEM Team, carries out cFBA between user custom-chosen bacterial species with a linear-programming algorithm and displays the results by an interactive and easily-understandable node-edge visualization.
 
