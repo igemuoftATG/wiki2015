@@ -2,7 +2,7 @@
 * add previous uses/applications of FBA
 
 ### Brief Description: ##
-Whether they be in dirt, in water, in the air, on skin or in the gut, bacteria generally occur in communities. In microbial communities, the survival of all species are interdependent due to the biochemical and behavioral activities of one species that provide the necessary metabolites and living environment for another [1]. Many approaches have been developed for predicting flux distributions in the metabolic network of one species using flux balance analysis (FBA) in order to optimize for biomass or product formation [2,3]. However, algorithms to perform FBA at a community level have been few and complicated (often using non-linear programming and very difficult to solve); since in community FBA (cFBA), the exchange of metabolites between species, the biomass, relative fitness and competitive ability of each species affect metabolic flux within the community and within each individual species [4-6]. MetaFlux, a web tool developed by the Toronto iGEM Team, carries out cFBA between user custom-chosen bacterial species with a linear-programming algorithm and displays the results by an interactive and easily-understandable node-edge visualization.
+Whether they be in dirt, in water, in the air, on skin or in the gut, bacteria generally occur in communities. In microbial communities, the survival of all species are interdependent due to the biochemical and behavioral activities of one species that provide the necessary metabolites and living environment for another [1]. Many approaches have been developed for predicting flux distributions in the metabolic network of one species using flux balance analysis (FBA) in order to optimize for biomass or product formation [2,3]. Flux balance analysis has been used for a variety of applications, including drug target identification by evaluation of gene essentiality, knowledge-gap filling of metabolic models and metabolic engineering of E. coli for lycopene synthesis [4-6]. However, algorithms to perform FBA at a community level have been few and complicated (often using non-linear programming and very difficult to solve); since in community FBA (cFBA), the exchange of metabolites between species, the biomass, relative fitness and competitive ability of each species affect metabolic flux within the community and within each individual species [4-6]. MetaFlux, a web tool developed by the Toronto iGEM Team, carries out cFBA between user custom-chosen bacterial species with a linear-programming algorithm and displays the results by an interactive and easily-understandable node-edge visualization.
 
 ### Web Application: Framework of the MetaFlux Interface #
 MetaFlux was developed using D3.JS, a JavaScript library for creation of interactive networks using nodes and edges. The object of the MetaFlux web tool is to visualize and manipulate community level metabolic networks in the tool’s “extracellular view” in addition to visualizing species-specific cytoplasmic networks in the “cytoplasmic view”, to see flux distributions in each of these views, and to see changes in flux distributions occurring from any alterations made to the metabolic network. Asynchronous calls to the backend optimize the network using an iGEM Toronto Python script which in turn, uses COBRApy, a constraint-based modeling package was used to model metabolic networks from metabolic models in the form of SBML (Synthetic Biology Markup Language) XML data. 
@@ -23,10 +23,11 @@ With MetaFlux, the user has the ability to choose to display the extracellular m
 [3] Jong Min Lee, Erwin P. Gianchandani, and Jason A. Papin 
 Flux balance analysis in the era of metabolomics
 Brief Bioinform 2006 7: 140-150.
+[4] Raman K, Rajagopalan P, Chandra N. Flux balance analysis of mycolic acid pathway: targets for anti-tubercular drugs. PLoS Comput Biol 2005;1:e46.
+[5] Oberhardt MA, Puchalka J, Fryer KE, et al. Genome-scale metabolic network analysis of the opportunistic pathogen Pseudomonas aeruginosa PAO1. J Bacteriol2008;190:2790-803.
+[6] Alper H, Jin Y-S, Moxley JF, et al. Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli. Metab Eng 2005;7:155-64.
+[7] Khandelwal RA, Olivier BG, Röling WFM, Teusink B, Bruggeman FJ (2013) Community Flux Balance Analysis for Microbial Consortia at Balanced Growth. PLoS ONE 8(5): e64567. doi:10.1371/journal.pone.0064567
 
-[4] Khandelwal RA, Olivier BG, Röling WFM, Teusink B, Bruggeman FJ (2013) Community Flux Balance Analysis for Microbial Consortia at Balanced Growth. PLoS ONE 8(5): e64567. doi:10.1371/journal.pone.0064567
-
-[5] http://journal.frontiersin.org/article/10.3389/fmicb.2014.00125/full
-[6] http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002363
-
+[8] http://journal.frontiersin.org/article/10.3389/fmicb.2014.00125/full
+[9] http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002363
 
