@@ -1,5 +1,5 @@
 ## Attributions
-
+Confused already? So are we.
 Each team must clearly attribute work done by the student team members on this
 page. The team must distinguish work done by the students from work done by
 others, including the host labs, advisors, instructors, and individuals not on
