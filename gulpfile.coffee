@@ -399,6 +399,7 @@ login = (cb) ->
                         # Pass cookie jar into callback
                         cb(jar)
                     else
+                        gutil.log('Request fail 1')
                         handleRequestError(err, httpResponse)
             else
                 gutil.log('Incorrect username/password'.red)
@@ -412,6 +413,7 @@ logout = (jar) ->
         if !err and httpResponse.statusCode is 200
             gutil.log('Successfully logged out'.green)
         else
+            gutil.log('Request fail 2')
             handleRequestError(err, httpResponse)
 
 checkIfImageExists = (link, updateImageStores, tryLogout, cb) ->
@@ -545,6 +547,7 @@ visitEditPage = (link, type, jar, cb, tryLogout, updateImageStores, editUrl, pag
 
             cb(url, file, page, type, multiform, jar, tryLogout, updateImageStores)
         else
+            gutil.log('Request fail 3')
             handleRequestError(err, httpResponse)
 
 colourify = (file, url, multiform, type) ->
@@ -569,6 +572,8 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores)
         postUrl = url + '?action=submit'
     else
         postUrl = url
+
+    gutil.log(multiform)
 
     request {
         url      : postUrl
@@ -615,8 +620,11 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores)
                         gutil.log(colourify(file, url, multiform, type))
                         tryLogout()
                 else
+                    gutil.log('Request fail 4')
                     handleRequestError(err, httpResponse)
         else
+            gutil.log('Request fail 5')
+            fs.writeFileSync('body.html', body)
             handleRequestError(err, httpResponse)
 
 upload = (link, type, jar, tryLogout, updateImageStores) ->
@@ -712,6 +720,7 @@ getPageNames = (namespace, cb) ->
 
             cb(pages)
         else
+            gutil.log('Request fail 6')
             handleRequestError(err, httpResponse)
 
 
@@ -749,6 +758,7 @@ downloadPage = (jar, page, namespace, tryLogout) ->
 
             tryLogout()
         else
+            gutil.log('Request fail 7')
             handleRequestError(err, httpResponse)
 
 gulp.task 'pull', ->
