@@ -573,7 +573,7 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores)
     else
         postUrl = url
 
-    gutil.log(multiform)
+    # gutil.log(multiform)
 
     request {
         url      : postUrl
@@ -623,9 +623,9 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores)
                     gutil.log('Request fail 4')
                     handleRequestError(err, httpResponse)
         else
-            gutil.log('Request fail 5')
+            gutil.log('Request fail 5: failed for ' + file)
             fs.writeFileSync('body.html', body)
-            handleRequestError(err, httpResponse)
+            # handleRequestError(err, httpResponse)
 
 upload = (link, type, jar, tryLogout, updateImageStores) ->
     if link isnt '.DS_Store'
