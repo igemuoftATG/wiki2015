@@ -10,6 +10,8 @@
 
 ###### it is
 
+_methinks so too_
+
 {{capitals teamName}}
 
 <div> <img src="{{image "igem_500w.png" "directlink" mode}}" /> </div>
