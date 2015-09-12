@@ -46,6 +46,47 @@ preview as an indication of what to expect as the site content..because it is!
 
 Awesome! Get setup with the repo locally and we can designate some tasks.
 
+
+### Markdown
+
+Markdown is easy to learn. Markdown provides a way to write clunky HTML without
+having to write clunky HTML. Huh?
+
+Consider this html for a level 1 heading:
+
+```html
+<h1> Wheeeeee </h1>
+```
+
+Okay, that works, but in markdown it is sooo much cleaner:
+
+```
+# Wheeeeee
+```
+
+You can use `#` to `######` for `<h1>` to `<h6>`, respectably. Still not convinced?
+
+```html
+<img src="http://45.55.193.224/logo_grey.png" />
+<ul>
+	<li> <a href="http://igemuoft.github.io">iGEM UofT Computational Biology</a> </li>
+	<li> <b>wheeeee</b> </li>
+	<li> <i>wahooooooo</i> </li>
+</ul>
+```
+
+vs.
+
+```md
+![logo](http://45.55.193.224/logo_grey.png)
+* [iGEM UofT Computational Biology](http://igemuft.github.io)
+* **wheeeeee**
+* *wahooooo*
+```
+
+Oh and by the way, you just learned markdown. Still curious? See this [Markdown
+Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 # Remember,
 
 **wiki freeze is on September 18**
