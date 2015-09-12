@@ -104,3 +104,16 @@ body {
         }
     }
 }
+
+p.image-wrapper {
+	text-align: center;
+
+	img {
+		width: 50%;
+		height: auto;
+		background-color: $imageBG;
+		padding: 5px;
+		@include border-radius(5px);
+		border-bottom: 2px solid darken($grey-200, 15%);
+	}
+}
