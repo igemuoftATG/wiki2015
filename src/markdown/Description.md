@@ -1,6 +1,6 @@
 #METAFLUX
 
-##Introduction
+
 
 ##What is FBA and cFBA?
 
@@ -16,7 +16,14 @@ FBA calcultes the flow of metabolites at steady state in which mass balance is n
                                                 Subject to   Sv=0
                                                 Boundaries   lowerbound<v<upperbound
 
-(An image is required)
+(Insert Image: FBA_diagram.jpg)
+Taken from: 
+Title:What is flux balance analysis?
+Author:Jeffrey D Orth, Ines Thiele, Bernhard Ø Palsson
+Publication:Nature Biotechnology
+Publisher:Nature Publishing Group
+Date:Mar 1, 2010
+Copyright © 2010, Rights Managed by Nature Publishing Group
 
 
 ## Background
