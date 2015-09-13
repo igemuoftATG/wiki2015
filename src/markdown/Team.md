@@ -1,21 +1,68 @@
-## Team
+![alt text](http://www.jmazz.me/assets/images/projects/igem.png)
 
-In this page you can introduce your team members, instructors, and advisors.
+![alt text](http://giphy.com/gifs/uHV4veFjX22Pu/html5)
 
-#### Inspiration
+# Our Team
 
-You can look at what other teams did to get some inspiration!
+#### Anthony Zhao - Bioinformatics Team Lead
 
-Here are a few examples:
+Anthony has just finished the 3rd year of his undergraduate degree, majoring in Immunology and Neuroscience. He is involved with the research community at Toronto and wishes to pursue a career in medicine. Anthony has a myriad of interests. He actively keeps up with novel technologies, cutting-edge research, and current events in politics and the economy. As a leader, Anthony strives to motivate, teach and guide the team to success.
 
-* [METU Turkey](http://2014.igem.org/Team:METU_Turkey_team)
-* [Colombia](http://2014.igem.org/Team:Colombia/Members)
-* [Stony Brook](http://2014.igem.org/Team:Stony_Brook/Team)
-* [OUC-China](http://2014.igem.org/Team:OUC-China/Team)
+#### Julian Mazzitelli - Bioinformatics Team Lead
 
-##### What should this page contain?
+Julian is a 2nd year bioinformatics student, and a dry lab team lead for the summer 2015 iGEM U of T team. Julian has always been interested in the success and proper functioning of the iGEM club and team. His interests in web development and computational biology have lead to a strong commitment for this summer's dry lab project, as well as a drive to teach others along the way.
 
-* Include pictures of your teammates, don’t forget instructors and advisors!
-* You can add a small biography or a few words from each team member, to tell us what you like, and what motivated you to participate in iGEM.
-* Take team pictures! Show us your school, your lab and little bit of your city.
-* Remember that image galleries can help you showcase many pictures while saving space.
+#### Ghazal Haddad - Bioinformatics Team
+
+
+#### Seray Çiçek - Wet Lab Team Lead
+
+Seray is a third year Engineering Science- Biomedical Systems Option student. As a wet lab team lead of Toronto iGEM 2015, she played a major role in the project design by bringing in an engineering perspective. Her goal for the summer is to help her team have the best research experience. She is interested in turning synthetic biology research into feasible applications.
+
+#### Umar Owadelly - Wet Lab Team Lead
+
+Umar is a 2nd year specialist in pharmacology and biomedical toxicology. As a wet lab team lead, Umar has used his managerial experience to coordinate the training and experimental design of the 2015 iGEM wet lab project. The unique creativity and knowledge that stems from the diverse backgrounds of iGEM members and graduate advisors as one of his primary motivations for his involvement with U of T iGEM.
+
+#### Shivali Barot -Policy and Practices Team Lead
+
+Shivali completed her first year at the University of Toronto majoring in Molecular Biology, Immunology and Disease & Psychology and aspires towards Medical School. Research is one of her passions and working with people in outreach combines both her interests and gives her an opportunity to do what she loves.
+
+#### Joanna Dowdell - Frontline Community Research
+
+#### Dawood Cheema - Membrane Bioreactor Engineer 
+
+#### Christine Byrd - Wet Lab, Policy and Practices Team
+
+## Team List 
+Cathy Su -	President <br>
+Sarah Bi - Wet Lab Lead  
+Matt D'Iorio	Lab Manager  
+ChungMin Timothy Lee - Lab Manager  
+Aida Liman-Tinguiri	- Lab Manager  
+Albert Calzaretto	- Dry Lab  
+Joshua Efe - Dry Lab  
+Sean Ihn - Dry Lab  
+Joller Wang	- Dry Lab  
+Albert Cui - Dry Lab  
+Albert Xie - Dry Lab  
+Eric Jadidzadeh - Dry Lab  
+Julian Song	- Dry Lab  
+Justin Song -	Dry Lab  
+Marieke de Korte - Dry Lab  
+Waleed Khan -	Wet Lab/Dry Lab  
+Alexander Sullivan	- Wet Lab/Dry Lab  
+Mark Wang	Wet - Lab/Dry Lab  
+Quynh Cao -	Wet Lab  
+Derrick Chan	- Wet Lab  
+Michael Dao	- Wet Lab  
+Heba Farookhi	- Wet Lab/Dry Lab  
+Gargi Ghosh	- Wet Lab/P&P
+Roy Lee	- Wet Lab  
+Fahmeeda Murtaza	- Wet Lab  
+Nirali Patel	- Wet Lab  
+Drupad Rajyaguru - Wet Lab/P&P  
+Urvashi Rathod	- Wet Lab  
+Yixin Zheng	- Wet Lab  
+Vivian Zhou	- Wet Lab  
+Tina Huang	- Wet Lab  
+Helena Lim	- P&P  
