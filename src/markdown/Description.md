@@ -10,15 +10,14 @@ cFBA stands for community based flux-balance analysis. Briefly, it is the FBA in
 
 ##Math Behind the Code
 
-FBA calcultes the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with m unique compounds and n reactions, a stoichiometric matrix(S) with size m*n represents all the reaction set. Vector fluxes to be computed are respresented by a vector v. 
+FBA calcultes the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with m unique compounds and n reactions, a stoichiometric matrix(S) with size m*n represents all the reaction set. Vector fluxes to be computed are respresented by a vector v. An objective function (Z) is set to determine which flux to optimize in a given boundary. Hence following is computed linearly,
 
-\begin{align}
-& \text{maximize} && \mathbf{c}^\mathrm{T} \mathbf{v}\\
-& \text{subject to} && S \mathbf{v} = \mathbf{0} \\
-& \text{and} && \mathbf{lower bound} \le \mathbf{v} \le \mathbf{upper bound}
-\end{align} 
-                                                
-An objective function (Z) is set to determine which flux to optimize.
+                                                Maximize     c^Tv
+                                                Subject to   Sv=0
+                                                Boundaries   lowerbound<v<upperbound
+
+(An image is required)
+
 
 ## Background
 
