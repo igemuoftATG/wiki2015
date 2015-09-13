@@ -8,7 +8,7 @@ FBA stands for flux-balance analysis.It is a tool used to study genome-scale met
 
 cFBA stands for community based flux-balance analysis. Briefly, it is the FBA in community level. cFBA enables predicting outcomes of a genetic modification in a bacterial community.
 
-##Mathematical Behind the code
+##Math Behind the Code
 
 FBA calcultes the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with m unique compounds and n reactions, a stoichiometric matrix(S) with size m*n represents all the reaction set.
 
