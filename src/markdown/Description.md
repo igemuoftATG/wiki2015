@@ -1,3 +1,11 @@
+#METAFLUX
+
+##Introduction
+
+##What is FBA?
+
+FBA stands for flux-balance analysis. 
+
 ## Background
 
 As conventional oil production declines in the coming decades, unconventional
