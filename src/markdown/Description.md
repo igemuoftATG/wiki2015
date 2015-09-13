@@ -26,7 +26,10 @@ Date:Mar 1, 2010
 Copyright © 2010, Rights Managed by Nature Publishing Group
 
 
-## Background
+## Proof-of-Concept: A Genetically Engineered Solution for Oil Sand Tailings
+
+
+###Background
 
 As conventional oil production declines in the coming decades, unconventional
 sources of oil such as bitumen will become increasingly important for supplying
@@ -67,7 +70,7 @@ BTEX can cause damage to:
 * Eyes
 * Central Nervous System
 
-## Current Solutions
+### Current Solutions
 
 The current solutions for BTEX and PAH contamination includes:
 
@@ -100,7 +103,7 @@ The current solutions for BTEX and PAH contamination includes:
 
  This essentially limits the bioremediation process.
 
-## Our Project
+### Our Project
 
 Our project therefore aims to maximize the efficiency of the bioremediation
 process by creating a synthetically engineered microorganism that can degrade
