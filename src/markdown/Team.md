@@ -1,6 +1,7 @@
 ![alt text](http://i.giphy.com/uHV4veFjX22Pu.gif)
 
 # Our Team
+$ git config --global color.ui 
 
 #### Anthony Zhao - Bioinformatics Team Lead  
 Anthony has just finished the 3rd year of his undergraduate degree, majoring in Immunology and Neuroscience. He is involved with the research community at Toronto and wishes to pursue a career in medicine. Anthony has a myriad of interests. He actively keeps up with novel technologies, cutting-edge research, and current events in politics and the economy. As a leader, Anthony strives to motivate, teach and guide the team to success.
