@@ -1,6 +1,6 @@
 #METAFLUX
 
-
+In nature, it is hard to find one strain of bacteria in an isolated region. Bacteria exist in communities called microbiome. In synthetic biology, although one strain of bacteria is used to conduct experiments, application area generally is a microbiome. This requires experiments to be conducted at application site or creation of pseudo microbiomes. There is a need for a tool that can predict effect of a synthetically engineered bacteria within a microbiome. We created a tool called Metaflux that can be used to compute community level flux-balance analysis. This tool allows users to visualize predicted effects of addition of a synthetically engineered bacteria into a defined microbiome.
 
 ##What is FBA and cFBA?
 
