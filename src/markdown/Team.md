@@ -1,6 +1,6 @@
 ![alt text](http://www.jmazz.me/assets/images/projects/igem.png)
 
-![alt text](http://giphy.com/gifs/uHV4veFjX22Pu/html5)
+![alt text](http://gph.is/1auCVx5)
 
 # Our Team
 
