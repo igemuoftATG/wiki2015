@@ -36,6 +36,10 @@ constraint-based modeling package was used to model metabolic networks from
 metabolic models in the form of SBML (Synthetic Biology Markup Language) XML
 data.
 
+### Data Collection
+
+The SBML (Systems Biology Markup Language) and XML (Extension Markup Language) were gathered and obtained from bioinformatics websites such as Model SEED<sup>[10]</sup> and EMBL-EBI<sup>[11-13]</sup> as well as directly from some research articles<sup>[14-19]</sup>. All SBML and XML files collected were used to contribute and help calculate the FBA (Flux Balance Analysis) in MetaFlux. What we looked for when searching for SBML and XML files of our selected species were certain specific compartments such as extracellular ('compartment id=”e”' or 'compartment id=”e0”') or intracellular ('compartment id=”i”').
+
 ### Algorithm
 
 Firstly, we create metabolic models, in SBML file format, for each individual
@@ -106,3 +110,13 @@ Brief Bioinform 2006 7: 140-150.
 7. Khandelwal RA, Olivier BG, Röling WFM, Teusink B, Bruggeman FJ (2013) Community Flux Balance Analysis for Microbial Consortia at Balanced Growth. PLoS ONE 8(5): e64567. doi:10.1371/journal.pone.0064567
 8. http://journal.frontiersin.org/article/10.3389/fmicb.2014.00125/full
 9. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002363
+10. Henry, C.S., et al. High-throughput Generation and Optimization of Genome-scale Metabolic Models. Nature Biotechnology 28, 977-982 (2010)
+11. Li C., Courtot, M., Novere N.L., and Laibe C. BioModels.net Web Services, a free integrated toolkit for computational modeling software. Brief Bioinformatics, 11 (3), 270-277 (2010)
+12. Buchel F., et al. Path2Models: large-scale generation of computational models for biochemical pathway maps. BMC Systems Biolgoy 7 (116), doi:10.1186/1752-0509-7-116 (2013)
+13. Novere, N.L., et al. BioModels Database: a free, centralized database of curated, published quantitative kinetic models of biochemical and cellular systems. Nucleic Acids Res. 34 (Database issue), D689-D691 doi:10.1093/nar/gkj092 (2006)
+14. Orth J.D., et al. A comprehensive genome-scale reconstruction of Escherichia coli metabolism – 2011. Mol Syst Biol. 7 (535), doi: 10.1038/msb.2011.65 (2011)
+15. Sohn S. B., Kim T. Y., Park J. M. and Lee S. Y. In silico genome-scale metabolism analysis of Pseudomonas putida KT2440 for polyhydroxyalkanoate synthesis, degradation of aromatics and anaerobic survival. Biotechnology Journal. 5 (7), doi: 10.1002/biot.2010000124 (2010)
+16. Imam S., et al. iRsp1095: A genome-scale reconstruction of the Rhodobacter sphaeroides metabolic network. BMC Syst Biol. 5 (116), doi: 10.1186/1752-0509-5-116 (2011)
+17. Sengar R. S., and Papoutsakis E. T. Genome-Scale Model for Clostridium acetobutylicum: Part I. Metabolic Network Resolution and Analysis. Biotechnol Bioeng. 101 (5), 1036-1052 (2008)
+18. Nogales J., et al. Detailing the optimality of photosynthesis in cyanobacteria through systems biology analysis. Proc Natl Acad Sci USA. 109 (7), 2678-2683 (2012)
+18. Gonnerman M. C., et al. Genomically and biochemically accurate metabolic reconstruction of Methanosarcina barkeri Fusaro, iMG746. Biotechnology Journal. 8 (9), 1070-1079 (2013)
