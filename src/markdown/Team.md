@@ -47,16 +47,15 @@ Matt is going into his final year of study at the University of Toronto, Mississ
 Tim is entering his 3rd year of a double major in Molecular Biology, Disease and Immunology and in Political Science at the University of Toronto Scarborough. After spending 2 years in the military, where he was awarded the rank of 3rd Sergeant. As lab manager, Tim's regimentation and self- initiative has been instrumental in maintaining laboratory integrity and regulating safety hazards. His passion is for more scientific representation in the government.
 
 ## Faculty Advisors  
-Professor Boris Steipe, MD PhD — Department of Biochemistry
-Professor Krishna Mahadevan, PhD — Biozone Centre for Applied Bioengineering
-Research
-Professor Amy Caudy, PhD — Department of Molecular Genetics and Microbiology, Donnelly Centre for Cellular and Biomolecular Research
-Professor Elizabeth Edwards, PhD P. Eng — Biozone Centre for Applied Bioengi- neering Research
+Professor Boris Steipe, MD PhD — Department of Biochemistry  
+Professor Krishna Mahadevan, PhD — Biozone Centre for Applied Bioengineering Research  
+Professor Amy Caudy, PhD — Department of Molecular Genetics and Microbiology, Donnelly Centre for Cellular and Biomolecular Research  
+Professor Elizabeth Edwards, PhD P. Eng — Biozone Centre for Applied Bioengineering Research  
 
 ## PHD Candidate Advisors
-Naveen Venayak — Biozone Centre for Applied Bioengineering Research
-Victoria Vu — Department of Molecular Genetics and Microbiology
-Oscar Vasquez — Department of Ecology and Evolutionary Biology
+Naveen Venayak — Biozone Centre for Applied Bioengineering Research  
+Victoria Vu — Department of Molecular Genetics and Microbiology  
+Oscar Vasquez — Department of Ecology and Evolutionary Biology  
 ￼
 
 ## Team List 
