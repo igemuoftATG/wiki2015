@@ -1,14 +1,14 @@
-#METAFLUX
+# METAFLUX
 
 In nature, it is hard to find one strain of bacteria in an isolated region. Bacteria exist in communities called microbiome. In synthetic biology, although one strain of bacteria is used for experiments, targetted application area generally is a microbiome. This requires experiments to be conducted at application site or creation of pseudo microbiomes. There is a need for a tool that can predict effect of a synthetically engineered bacteria within a microbiome. We created a tool called Metaflux that can be used to compute community level flux-balance analysis. This tool allows users to visualize predicted effects of addition of a synthetically engineered bacteria into a defined microbiome. Additionally, we generated a detailed framework for the application of synthetically engineered bacteria in bioremediation efforts. To demonstrate the applicability of our framework, we focused on using genetically modified E.coli to remediate toluene in Albertan tailing ponds, to provide a concrete example of how this framework can be applied. Lastly, we conducted further analysis of how to choose the best application method, with respect to the technical, economic, and social aspects of the technology’s application.
 
-##What is FBA and cFBA?
+## What is FBA and cFBA?
 
 FBA stands for flux-balance analysis.It is a tool used to study genome-scale metabolic network reconstructions. By analyzing flow of metabolites within a given network, FBA computes predicted production rate of a metabolite or the growth rate. In synthehtic biology context, this becomes usefull in assesing outcomes of a transformation in silico.
 
 cFBA stands for community based flux-balance analysis. Briefly, it is the FBA in community level. cFBA enables predicting outcomes of a genetic modification in a bacterial community.
 
-##Math Behind the Code
+## Math Behind the Code
 
 FBA calcultes the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with m unique compounds and n reactions, a stoichiometric matrix(S) with size m*n represents all the reaction set. Vector fluxes to be computed are respresented by a vector v. An objective function (Z) is set to determine which flux to optimize in a given boundary. Hence following is computed linearly,
 
@@ -29,7 +29,7 @@ Copyright © 2010, Rights Managed by Nature Publishing Group
 ## Proof-of-Concept: A Genetically Engineered Solution for Oil Sand Tailings
 
 
-###Background
+### Background
 
 As conventional oil production declines in the coming decades, unconventional
 sources of oil such as bitumen will become increasingly important for supplying
