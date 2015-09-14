@@ -600,3 +600,63 @@ properly stored in the fridge.
 ### Acknowledgement
 
 Protocols of previous iGEM teams were used to make this guideline.
+
+
+## Gel Electrophoresis
+_Written by Seray Cicek_
+
+### Part 1: Casting the gel
+1. Add 0.5g of Agarose and 50ml of 1X TAE buffer to an Erlenmeyer flask. (Note that TAE
+buffer in the stock has 50X concentration and needs to be diluted with autoclaved Milli-Q
+water)
+1. Place the flask into the microwave. **After this step flask will be hot. Use heat
+gloves**
+1. Set the timer to 2 min. Start the microwave oven but stop every 30 sec to swirl the
+contents of the flask. This helps suspend the undissolved agarose. Continue until agarose
+particles are dissolved.
+1. While hot, add 5ul of 10,000x SYBR Green into the agarose solution
+and mix throughly.
+- Set the flask aside for cooling. Occasionally swirl to make the cooling even.
+- Set up the gel tray and make sure that there is no leak by testing it with dH20 and kimwipes.
+- When the flask is cool enough for you to handle easily, pour the solution into the tray.
+- Wait until the gel solidifies.
+
+### Part 2: Loading the gel
+1. Make a note of what is going into each well and put that in your lab notebook.
+- Determine the DNA concentrations via Nanodrop. (Approximately 100ng DNA per band
+is required.)
+- Cut a piece of parafilm to use as a mixing surface. Alternatively can use PCR tubes.
+- Mix DNA with loading dye in a 1:1 ratio directly on the parafilm or in the PCR tubes using a pipette tip and gently aspirating. (i.e. 10uL of DNA with 2uL of 6x loading buffer) Mix by pipetting up and down. Avoid bubbles.
+- Carefully remove the comb of the gel.
+- Place the gel into the gel electrophoresis apparatus with its tray.
+- Add more 1X TAE buffer to cover the gel completely. Buffer should be 1-2mm above
+the gel. Make sure that all the wells are submerged.
+1. Load 10uL of DNA ladder to the first well. Add 10uL of your sample DNA
+to corresponding wells. (Remember record which wells you load)
+1. Put the lid on. The negative (-/black) electrode should be closer to the DNA wells as DNA
+migrates towards the positive (+/red) electrode.
+10.Set the rig to 100V & 60 min. Hit start.
+11.Make sure that your DNA does not run off the gel. The loading buffer enables you to track
+the DNA.
+12.The gel apparatus will stop on its own when the time is up. Proceed to imaging the gel. It can sit in the rig overnight if need be.
+
+If DNA is not visible,
+1. In a beaker, add 10 uL of 10,000x SYBR Green solution in DMSO to 100 mL of 1X
+TAE Buffer. Mix thoroughly with spatula, rod, or magnetic stirrer.
+- Pour the diluted SYBR Green solution in appropriate tray or pan.
+- Soak the gel for 5-10 min.
+- View or document the gel using 254 nm low-pressure mercury lamp and orange filter.
+
+### References:
+
+igem wiki: [http://local.biochemistry.utoronto.ca/igem/index.php/Analytical_Gel_Electrophoresis](http://local.biochemistry.utoronto.ca/igem/index.php/Analytical_Gel_Electrophoresis)
+
+jove: [http://www.jove.com/video/3923/agarose-gel-electrophoresis-for-the-separation-of-dna-](http://www.jove.com/video/3923/agarose-gel-electrophoresis-for-the-separation-of-dna-) fragments
+
+open wetware: [http://openwetware.org/wiki/Agarose_gel_electrophoresis](http://openwetware.org/wiki/Agarose_gel_electrophoresis)
+
+lifetechno: [https://www.lifetechnologies.com/ca/en/home/life-science/pcr/elevate-pcr-](https://www.lifetechnologies.com/ca/en/home/life-science/pcr/elevate-pcr-) research/agarose-content-with-tips-and-tricks.html
+
+Syber green catalog: [http://www.lifetechnologies.com/order/catalog/product/S33102](http://www.lifetechnologies.com/order/catalog/product/S33102)
+
+Syber green staining protocols: [http://www.lumiprobe.com/protocols/sybr-green-gel-staining](http://www.lumiprobe.com/protocols/sybr-green-gel-staining)
