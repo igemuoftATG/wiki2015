@@ -1,5 +1,12 @@
 ![alt text](http://i.giphy.com/uHV4veFjX22Pu.gif)
 
+<svg version="1.1" id="eco-system-line-1" class="eco-system-line active" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 2.9 64.5" enable-background="new 0 0 2.9 64.5" xml:space="preserve">
+    <g>
+        <path fill="none" stroke="#1C75BC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M 1.3 63.3 L 1.3 1.2"/>
+    </g>
+</svg>
+
 # Our Team
 
 #### Cathy Su - President  
