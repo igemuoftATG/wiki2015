@@ -26,7 +26,7 @@ Shivali completed her first year at the University of Toronto majoring in Molecu
 #### Joanna Dowdell - Frontline Community Research  
 Joanna is entering her 4th year of study as a Biology specialist, major in Environmental Health and minor in Immunology. Her years of study have included experience in research teams in a variety of areas, and she has been fortunate to have articles published relating to environmental health. Joanna has served on two non-profit exexcutives in relation to Environmental Health, and was excited to work in promoting indigenous solidarity and frontline community awareness through iGEM. 
 
-#### Dawood Cheema - Membrane Bioreactor Prototype Designer 
+#### Dawood Cheema - Bioreactor Prototype Designer 
 
 #### Christine Byrd - Wet Lab, Policy and Practices Team
 
