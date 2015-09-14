@@ -418,3 +418,185 @@ From: Cold Springs Harbour Protocol. King's B Medium. From:
 
 Recipe for King's B medium. Received from Maggie Middleton, Lab technician at the David Guttman
 Lab.
+
+# Antibiotic Stock Preparation
+_Written by Dr. Tim Lee_
+
+### **Background**
+
+  The preparation of antibiotic stock is a relatively simple series of mixing and dilutions. The
+antibiotic stocks are typically made from four antibiotics : Ampicillin, Kanamycin, Tetracycline
+and Chloramphenicol. With the exception of chloramphenicol, the other antibiotics are light
+sensitive and once stock is prepared they are wrapped in foil to reduce light exposure.
+
+  An antibiotic comes in a powder form as the basic stock and is mixed with milli-Q water
+to form a stock solution. Antibiotic stock preparation follows the same basic process for each
+antibiotic, varying only in concentration which is dependent on the type of antibiotic used.
+
+  Antibiotic stocks are prepared for use either in liquid or solid media. In the case of liquid
+media, the antibiotic stock is simply added and mixed in. For solid media, usually agar and LB, the
+media is sent for autoclaving, and while the media is still hot the antibiotic is added and mixed.
+This is to ensure that the antibiotic can be mixed evenly amongst the media before it solidifies into
+a solid state.
+
+Antibiotics are used for the purpose of selection. In terms of synthetic biology, plasmids
+confer selective antibiotic resistance when successfully transformed into their target bacteria.
+Using liquid or solid growth media that has been treated with antibiotics provides a selection
+control for those bacteria that have successfully incorporated the plasmid.
+
+### **Basic Terminology and Concepts**
+
+There are some terms which will be commonly used to describe the preparation of
+antibiotic stocks. Familiarity and understanding of these terms is key to comprehend the protocol.
+
+**Milli-Q**- Water that has been purified through successive steps of filtration and
+deionization. The standard used in our lab is typically 18.2 MΩ·cm at 25 °C, measured in
+resistance due to the lack of ions. The filters used are 0.22 μm in size to ensure a high
+level of purity. This water is used for preparing our antibacterial stock to ensure purity.
+
+**LB** – Lysogeny Broth, is a very standard and simple media to create due to its recipe
+consisting of 3 components - tryptone, yeast extract, and sodium chloride. This mix of
+anhydrous ingredients is added to water and then autoclaved, producing liquid media. The
+production of solid LB for plates is done by adding agar, a protein isolated from certain
+species of seaweed which coagulates the liquid into a gel like form when cooled. This is
+done prior to autoclaving and is poured into the plates while still hot, where it will cool
+into the plate shape.
+
+**Aliquot** - An aliquot is a term to denote a certain quantity of something. In this case an
+aliquot of antibiotic stock would denote either 1mL or 0.5mL, depending on the antibiotic.
+
+**Antibiotic**- Compounds which inhibit bacterial growth. They act either bacteriostatically
+by preventing reproduction of the bacteria, or bacteriocidally where they directly kill the
+bacteria. Generally bacteriocides work by interfering with the synthesis of peptidoglycan in
+the bacteria's cell walls. Tetracycline is an example of a bacteriostatic, where it acts by
+binding to the ribosomes of prokaryotic bacteria and inhibits translation.
+
+**Autoclave**- A piece of equipment used for sterilization. The autoclave performs much like
+a pressure cooker: it subjects the contents inside it to a high temperature and high pressure
+steam bath. Usually the temperature is 121 Celsius and at 15lbs/in2
+20 minutes is enough to kill most microorganisms and render equipment sterile. When
+adding antibiotics to media, it is done after autoclaving so that the heat does not destroy
+the antibiotic activity.
+
+### Safety Precautions
+- Be careful when handling the antibiotic, and avoid contact with eyes, mouth and skin
+- When pouring liquid, commit to the pour to prevent spills.
+- Use proper PPE
+
+### Materials and Equipment
+
+* 100mL Pyrex Bottles
+* Magnetic Stir Bar
+* Magnetic Stirrer
+* Antistatic Weighing Boat
+* Analytical Balance
+* Milli-Q Water Dispenser
+* 50mL Falcon Tubes
+* Aluminum Foil
+* 20mL Syringe
+* 0.22 μm Filter
+* 1mL Microcentrifuge tubes
+
+**Reagents**
+
+* 4g Amphicilin
+* MilliQ water
+* 400mg tetracycline
+* 80mL 70% EtOH
+* 2.72g chloramphenicol
+* 80mL 100% EtOH
+
+### Procedure
+
+#### Ampicillin
+
+* Stocks and Usage Stock Concentration 50 mg/mL in milliQ water
+* Aliquots 500μL (use a P1000 set to 0500)
+* Working Concentration 50 μg/mL
+Preparation of 80mL stock solution
+
+*Ampicillin is kept in the 4°C fridge, and is light sensitive. To ensure your stock solution is not
+degraded, cover all microcentrifuge tubes used for storing the solution with foil.*
+
+1. Weigh 4g ampicillin onto an antistatic weighing boat.
+2. Add 80mL milliQ water to a 100mL Pyrex bottle.
+3. Add the ampicillin to the milliQ.
+4. Place a small magnetic stir bar into the solution and place the Pyrex bottle on the stirrer.
+Set at 300-600 rpm and stir until dissolved.
+5. Filter sterilise the solution into 50mL Falcon tubes using a 20mL syringe outfitted with a
+0.22 μm filter.
+6. Aliquot (500μL) into the appropriate microcentrifuge tubes, labelled with an "A" on top,
+and store in the Nalgene racks found in the 20oC.
+
+#### Kanamycin
+
+* Stocks and Usage Stock Concentration 10 mg/mL in milliQ water
+* Aliquots 1 mL (use a P1000 set to 1000)
+* Working Concentration 50 μg/mL
+* Add 5 mL of stock per litre of LB. Preparation of 80mL stock solution
+
+*Kanamycin is kept in the 4°C fridge, and is light sensitive. To ensure your stock solution is not
+degraded, cover all microcentrifuge tubes used for storing the solution with foil.*
+
+1. Weigh 800mg kanamycin onto an antistatic weighing boat.
+2. Add 80mL milliQ water to a 100mL Pyrex bottle.
+3. Add the kanamycin to the milliQ.
+4. Place a small magnetic stir bar into the solution and place the Pyrex bottle on the stirrer.
+Set at 300-600 rpm and stir until dissolved.
+5. Filter sterilise the solution into 50mL Falcon tubes using a 20mL syringe outfitted with a
+0.22 μm filter
+6. Aliquot (1mL) into the appropriate microcentrifuge tubes, labelled with a "K" on top.
+Store in the Nalgene racks found in the 20oC. (Make sure microcentrifuge tubes are
+covered with foil)
+
+#### Tetracycline
+
+* Stocks and Usage Stock Concentration 5 mg/mL in 70% EtOH (N.B. 70% EtOH, not
+100% EtOH!)
+* Aliquots 1mL (use a P1000 set to 1000)
+* Working Concentration 20 μg/mL
+Preparation of 80mL stock solution
+
+*Tetracycline is kept in the 4°C fridge, and is light sensitive. To ensure your stock solution is not
+degraded, cover all microcentrifuge tubes used for storing the solution with foil.*
+
+1. Weigh 400mg tetracycline onto an antistatic weighing boat.
+2. Add 80mL 70% EtOH to a 100mL Pyrex bottle.
+3. Add the tetracycline to the 70% EtOH.
+4. Place a small magnetic stir bar into the solution and place the Pyrex bottle on the stirrer.
+Set at 300-600 rpm and stir until dissolved.
+5. Recommended, but optional because of storage in 70% EtOH: Filter sterilise the solution
+into 50mL Falcon tubes using a 20mL syringe outfitted with a 0.22 μm filter.
+6. Aliquot into the appropriate microcentrifuge tubes, labelled with a "T" on top. Store in the
+Nalgene racks found in the 20oC.
+
+#### Chloramphenicol
+
+* Stocks and Usage Stock Concentration 34 mg/mL in 100% EtOH (N.B. 100% EtOH, not
+70%!)
+* Aliquots 1 mL (P1000 set to 1000)
+* Working Concentration 25μL/mL. Preparation of 80mL stock solution
+
+*Chloramphenicol is kept with the general chemicals, and is not light sensitive. The microcentrifuge tubes do not need to be covered with foil to store chloramphenicol.*
+
+1. Weigh 2.72g chloramphenicol onto an antistatic weighing boat.
+2. Add 80mL 100% EtOH to a 100mL Pyrex bottle.
+3. Add the chloramphenicol to the 100% EtOH.
+4. Place a small magnetic stir bar into the solution and place the Pyrex bottle on the stirrer.
+Set at 300-600 rpm and stir until dissolved.
+5. Aliquot (1mL) into the appropriate microcentrifuge tubes, labelled with a "C" on top.
+Store in the Nalgene racks found in the 20oC. Note: No filter sterilization is needed
+because it is stored in 100% EtOH.
+
+### Leaving the Lab
+
+Prior to leaving the lab, you should:
+- Clean dirty glassware, or at least set aside the glassware to be cleaned by a designated
+individual.
+- Wipe down your workspace.
+- Ensure that all materials have been returned to their places, and that the plates have been
+properly stored in the fridge.
+
+### Acknowledgement
+
+Protocols of previous iGEM teams were used to make this guideline.
