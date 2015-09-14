@@ -614,7 +614,7 @@ gloves**
 1. Set the timer to 2 min. Start the microwave oven but stop every 30 sec to swirl the
 contents of the flask. This helps suspend the undissolved agarose. Continue until agarose
 particles are dissolved.
-1. While hot, add 5ul of 10,000x SYBR Green into the agarose solution
+1. While hot, add 3ul of 10,000x SYBR Green into the agarose solution
 and mix throughly.
 - Set the flask aside for cooling. Occasionally swirl to make the cooling even.
 - Set up the gel tray and make sure that there is no leak by testing it with dH20 and kimwipes.
