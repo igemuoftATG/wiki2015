@@ -1,67 +1,62 @@
-## Human Practices
+# iGEM Toronto Human Policy and Practices
 
-iGEM teams are unique and leading the field because they "go beyond the lab" to
-imagine their projects in a social/environmental context, to better understand
-issues that might influence the design and use of their technologies.
+## Alberta oil stories 
 
-Teams work with students and advisors from the humanities and social sciences to
-explore topics concerning ethical, legal, social, economic, safety or security
-issues related to their work. Consideration of these Human Practices is crucial
-for building safe and sustainable projects that serve the public interest.
+Our research team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. In exploring the social and environmental connections of our project, particularly how our tool can be applied to bioremediation of Oil Sands tailings pond water in Alberta, we wanted to hear views directly from the most impacted people. The frontline communities dealing with issues of clean water accessibility in the area of Alberta's oil industry are largely indigenous communities who have experienced marginalization and injustice as a result of poor regulations. In August, our Policy and Practices team members went to Alberta to hear the stories of these communities. 
 
-For more information, please see the [Practices
-Hub](http://2015.igem.org/Practices_Hub).
+### Keepers of the Water Conference
 
-#### Note
+##### Testamonials:  
+"I had to move to Fort McMurray, Alberta to find a job, and I worked in the oil sands industry. I never liked it, my dad and grandparents would call me and tell me they had no clean water and fewer and fewer animals to hunt locally, and I knew it was a result of the industry I worked in. After a while, I was laid off due to budget cuts and I moved back to the Dene Tha' land in High Level, Alberta. It's been difficult trying to find a job here without the oil industry, but honestly I'm still happier not working for them. I know what they're doing to our land. For me, it would be great to be able to be employed by something that is solving these problems." 
+-Clara, Dene Tha'   
 
-You must fill out this page in order to be considered for all
-[awards](http://2015.igem.org/Judging/Awards) for Human Practices:
+Many First Nations are employed by the oil sands industry but not necessarily in support of the industry. As Chief Allan Adam of Fort Chipewyan has said, many of these indigenous workers are  "economic hostages" of this industry.   
 
-* Human Practices silver medal criterion
-* Human Practices gold medal criterion
-* Best Integrated Human Practices award
-* Best Education and Public Engagement award
+"When I saw [the Toronto iGEM team], I saw a glimmer of hope for us."  
+-Sam Gargan, former Chief of the DehCho First Nation
 
-##### Some Human Practices topic areas
+### Further Research Collaboration
+The leader of Treaty 8 First Nations of Alberta also asked us to follow up with research regarding a synthetic biology invention to detect water toxins and show their presence in a cost-effective design so all families could test their own water. 
 
-* Philosophy
-* Public Engagement / Dialogue
-* Education
-* Product Design
-* Scale-Up and Deployment Issues
-* Environmental Impact
-* Ethics
-* Safety
-* Security
-* Public Policy
-* Law and Regulation
-* Risk Assessment
 
-##### What should we write about on this page?
+#banner {
+  margin-bottom: 50px;
+	overflow: hidden;
+	width: 100%;
+	height: 500px;
+	position: relative;
+	clear: both;
+	background: transparent url(http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg) center center no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='path/to/image/1.jpg',sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='path/to/image/1.jpg',sizingMethod='scale')";
+}
 
-On this page, you should write about the Human Practices topics you considered
-in your project, and document any special activities you did (such as visiting
-experts, talking to lawmakers, or doing public engagement).
+.wrap-center{
+	margin: 0 auto;
+	position: relative;
+	max-width: 73.231em;
+}
 
-##### Inspiration
+.banner-centered {
+	text-align: center;
+	position: absolute;
+	display: block;
+	max-width: 75.231em;
+	height: inherit;
+	overflow: hidden;
+	margin-top: 100px;
+}
 
-Read what other teams have done:
-
-* [2014 Dundee](http://2014.igem.org/Team:Dundee/policypractice/experts)
-* [2014 UC Davis](http://2014.igem.org/Team:UC_Davis/Policy_Practices_Overview)
-* [2013 Manchester](http://2013.igem.org/Team:Manchester/HumanPractices)
-* [2013 Cornell](http://2013.igem.org/Team:Cornell/outreach)
-
-### Integrated Human Practices
-
-Do you want to be considered for the [Best Integrated Human Practices
-award](http://2015.igem.org/Judging/Awards#SpecialPrizes)? Make it easy for the
-judges to find any wiki content that is relevant to this prize. Highlight this
-content with a header or separate section.
-
-### Education and Public Engagement
-
-Do you want to be considered for the [Best Education and Public Outreach
-award](http://2015.igem.org/Judging/Awards#SpecialPrizes)? Make it easy for the
-judges to find any wiki content that is relevant to this prize. Highlight this
-content with a header or separate section.
+.banner-centered h2 {
+	font-size: 5.385em;
+	line-height: 1.5;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #fafafa;
+	font-weight: 100;
+	display: block;
+}
