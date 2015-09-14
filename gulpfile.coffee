@@ -545,7 +545,7 @@ visitEditPage = (link, type, jar, cb, tryLogout, updateImageStores, editUrl, pag
                 multiform['wpUploadFile'] = fs.createReadStream(file)
                 multiform['wpDestFile'] = "#{teamName}_#{year}_#{page}"
 
-            cb(url, file, page, type, multiform, jar, tryLogout, updateImageStores)
+            cb(url, file, page, type, multiform, jar, tryLogout, updateImageStores, link)
         else
             gutil.log('Request fail 3')
             handleRequestError(err, httpResponse)
@@ -566,7 +566,7 @@ colourify = (file, url, multiform, type) ->
         return "Uploaded #{file} → #{url}"
 
 # **postEdit**
-postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores) ->
+postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores, link) ->
 
     if type isnt 'image'
         postUrl = url + '?action=submit'
@@ -622,10 +622,22 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores)
                 else
                     gutil.log('Request fail 4')
                     handleRequestError(err, httpResponse)
+        else if httpResponse.statusCode is 200
+            gutil.log('Upload failed for '.yellow + file + ', trying again.'.yellow)
+            # if type is 'page'
+            #     upload(link, 'page', jar, tryLogout)
+            # else if type is 'template'
+            #     upload(link, 'template', jar, tryLogout)
+            # else if type is 'stylesheet'
+            #     upload(link, 'stylesheet', jar, tryLogout)
+            # else if type is 'script'
+            #     upload(link, 'script', jar, tryLogout)
+            # else if type is 'image'
+            #     upload(link, 'image', jar, tryLogout, updateImageStores)
+            upload(link, type, jar, tryLogout, updateImageStores)
         else
-            gutil.log('Request fail 5: failed for ' + file)
-            fs.writeFileSync('body.html', body)
-            # handleRequestError(err, httpResponse)
+            gutil.log('Request fail 5')
+            handleRequestError(err, httpResponse)
 
 upload = (link, type, jar, tryLogout, updateImageStores) ->
     if link isnt '.DS_Store'
