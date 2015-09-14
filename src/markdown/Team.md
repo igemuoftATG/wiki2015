@@ -23,17 +23,14 @@ Katarina is a second year student in Immunology and Mo- lecular Genetics & Micro
 #### Shivali Barot -Policy and Practices Team Lead  
 Shivali completed her first year at the University of Toronto majoring in Molecular Biology, Immunology and Disease & Psychology and aspires towards Medical School. Research is one of her passions and working with people in outreach combines both her interests and gives her an opportunity to do what she loves.
 
-
-![alt text](https://cloud.githubusercontent.com/assets/12903630/9839839/9e7b58d6-5a52-11e5-9232-8840f17de9f2.jpg) <br>
-
 #### Joanna Dowdell - Frontline Community Research  
-Joanna is entering her 4th year of study as a Biology specialist, major in Environmental Health and minor in Immunology. Her years of study have included experience in research teams in a variety of areas, and she has been fortunate to have articles published relating to environmental health. Joanna has served on two non-profit exexcutives in relation to Environmental Health, and was excited to work in promoting indigenous solidarity and frontline community awareness through iGEM.
+Joanna is entering her 4th year of study as a Biology specialist, major in Environmental Health and minor in Immunology. Her years of study have included experience in research teams in a variety of areas, and she has been fortunate to have articles published relating to environmental health. Joanna has served on two non-profit exexcutives in relation to Environmental Health, and was excited to work in promoting indigenous solidarity and frontline community awareness through iGEM. 
 
-#### Dawood Cheema - Membrane Bioreactor Engineer
+#### Dawood Cheema - Membrane Bioreactor Engineer 
 
 #### Christine Byrd - Wet Lab, Policy and Practices Team
 
-## Team List
+## Team List 
 Cathy Su -	President <br>
 Sarah Bi - Wet Lab Lead  
 Matt D'Iorio	Lab Manager  
