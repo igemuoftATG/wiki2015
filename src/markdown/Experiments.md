@@ -817,3 +817,171 @@ _In preparation have the desired cells grown out on plates, with single colonies
 6. Transfer to 2mL eppendorf tubes
 7. Pellet in microcentrifuge at 13000g for 10 minutes at 4C.
 
+## SDS-PAGE Protocol
+_Written by Kayla Nemr, with Seray Cicek, Sarah Bi, and Roy Lee_
+
+### **Introduction**
+Sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) is a technique commonly used in molecular biology which allows for the separation of proteins depending on the size of each protein and helps identify the proteins that are being separated.
+
+Please watch videos shown below to understand the protocol more in depth.
+
+Making the gel: [https://www.youtube.com/watch?v=EDi_n_0NiF4](https://www.youtube.com/watch?v=EDi_n_0NiF4)
+
+Running the gel: [https://www.youtube.com/watch?v=XUjLO-ek2C8](https://www.youtube.com/watch?v=XUjLO-ek2C8)
+
+Staining the gel: [https://www.youtube.com/watch?v=b-1dXzU4iOw](https://www.youtube.com/watch?v=b-1dXzU4iOw)
+
+### **Basic Terminology and Concepts**
+**Protein ladder:** a premade solution containing proteins of known sizes. Analyzing the electrophoresis alongside the ladder makes it easier to identify the various sizes of the fragments in the tested protein samples by comparing them to the known protein sizes of the ladder.
+
+**Resolving gel:** this section of the gel will be the section that separates the proteins based on weight.
+
+**Stacking gel:** this section of the gel will be the section where the protein samples are loaded. This section does not separate the proteins based on weight and after the electrophoresis is complete, provides no information and may be thrown out.
+
+**Buffer:** the buffer allows for current to run through the gel Materials and Equipment
+
+### **Materials**
+- 6.04g of Tris base
+- 28.8g of glycine
+- 2g SDS
+- ddH2O
+- 1.5 M Tris, pH 8.8
+- 1.0 M Tris, pH 6.8
+- 30% bis-acrylamide
+- 10% SDS
+- 10% APS
+- TEMED
+- 30% Isopropanol
+- Methanol
+- Coomassie Brilliant Blue R250
+- 100% ethanol
+- Glacial acetic acid
+- Protein samples
+- Protein ladder
+- SDS loading dye 6x
+
+### Equipment
+- Micropipette and tips
+- Glass plates
+- Casting frame
+- Casting stand
+- Gel comb
+- Tweezers/spatula
+- Filter paper/nitrocellulose membrane
+- Erlenmeyer flasks
+- Electrophoresis apparatus (Gel apparatus/Cassette/Tank)
+- Power supply
+- Wide containers
+
+### Lab Protocol
+#### **Preparation of 1X SDS-PAGE Running Buffer.**
+_This recipe makes 2L of 1X SDS-PAGE running buffer._
+
+** CAUTION **  - SDS powder is hazardous. Prepare solution in a ventilated fume hood.
+- Dissolve 6.04g of Tris base and 28.8g of glycine together in 1.8 L of ddH2O.
+- Add 2g SDS and mix.
+- Add ddH2O to a final volume of 2 L.
+
+#### **Preparation of SDS-PAGE gel**
+- Insert glass plates (0.75 mm) into the casting frame and secure them into place. Make sure that the shorter
+- plate is in front and that the bottom is flat.
+- Put the casting frame on the casting stand.
+- Insert the comb in between the glass plates. Take a marker and make a mark approximately 1
+- cm beneath the comb. Take the comb out.
+- If necessary, test the leakiness of the apparatus by adding water. Draw out the water using filter
+- paper.
+- Start making the resolving gel in a separate flask
+
+The recipe for the **resolving/separating gel** (10mL, 12%) is as follows:
+
+_This will create 10 mL of gel. Around >3.5 mL is needed for each gel.TEMED must be added last and the gel should be casted immediately after its addition._
+- 3.35mL of dH2O (milliQ)
+- 2.5 mL of 1.5 M Tris, pH 6.8
+- 100 uL of 10% SDS
+- 4mL of 30% bis-acrylamide
+- 50 uL of 10% Ammonium persulfate (APS)
+- 5 uL of TEMED
+
+  Add gel into the apparatus until it reaches the previously created mark
+
+- Remove any air bubbles by adding a layer of isopropanol on top of the gel. Wait until the
+- resolving gel has polymerized (usually takes 30-45 minutes) and remove the isopropanol by pouring it or by using filter paper.
+- Start making stacking gel in a separate flask
+
+The recipe for the **stacking gel** (10mL, 4%) is as follows:
+
+_This will create 10 mL of gel. Around 1.2 mL is needed for each gel. TEMED must be added last and the gel should be casted immediately after its addition._
+- 7.3 mL of dH20
+- 1.25 mL of 1.0 M Tris, pH 6.8
+- 100uL of 10% SDS
+- 1.34 mL of 30% bis-acrylamide
+- 50uL of 10% APS
+- 10uL of TEMED
+- Fill the rest of the apparatus with stacking gel and place the gel comb in. Ensure that there are
+
+  no air bubbles. Wait until the gel solidifies (around 30-45 minutes).
+
+### **Running the SDS-PAGE gel**
+1. Take out the gel (with the plates) from the casting apparatus and place it in the gel apparatus.
+2. Make sure that the short plate faces inwards to the apparatus. If only one gel is being run, make
+3. sure to close the other side of the apparatus with a dummy plate.
+4. Once the two plates are secured, insert them into the cassette and lock the apparatus in place.
+5. Insert the cassette into the tank.
+6. Prepare the samples. Add 3uL of 6x sample buffer to 15uL of sample, then boil the samples. This can be done by setting a thermocycler to 95C for 10 minutes.
+7. Meanwhile, fill the inner chamber (in between the glass plates) with buffer until the buffer
+8. reaches the top of the inner chamber. Fill the bottom of the outer chambers with more buffer
+9. so that it covers the bottom of the gels by at least 2cm. A large amount is not needed. Take the
+10. gel comb out gently. straighten any lopsided well walls with
+11. pipette tip.
+12. Add the protein ladder to the first well and the protein samples in the other
+13. wells. Load 10-20ul per well (same volume for every well). Be careful not to overfill a well!
+14. Record order of loading in lab notebook!
+15. Dip the pipette tip through the surface of the buffer, centre it near the bottom of the well and
+16. SLOWLY depress the pipette plunger into the well. Make sure all of the solution actually goes
+17. into the well as to not contaminate the other wells.
+18. Place the lid on the apparatus and connect the apparatus to the power supply.
+19. Make sure the cathode and anode are connected correctly (black to black, red to red)
+20. Set the voltage to 140 and run the gel for around 70 minutes.
+21. Monitor movement of loading dye through gel. Stop running when dye front reaches bottom of
+22. gel. Once the process is finished, take off the lid, remove the inner chamber and pour out the
+23. buffer carefully.
+24. Remove the glass carefully.
+25. Rinse the plates with water and separate the plates
+26. The stacking gel should be removed by cutting with a spatula or razor blade. Try not to tear the
+27. resolving gel.
+
+### **Staining the SDS-PAGE gel**
+1. Fill a wide container with deionized water and separate the resolving gel from the glass plate. Leave the
+2. gel in the container.
+3. Rinse the gel with deionized water gently. Repeat 2-3 times.
+4. In a container with deionized water, microwave the gel for 30 seconds.
+5. Transfer the gel to the staining solution and microwave for 30 seconds.
+
+**To make the staining solution:**
+- In a new container, add 2.5 g of Coomassie Brilliant Blue R250 to 450mL 100% ethanol. Dissolve
+- the Brilliant Blue with a magnetic stir bar.
+- Add 100 mL of glacial acetic acid
+- Add 450 mL dH2O
+- Optional: filter through Whatman No.1 filter
+- Leave the gel on an orbital shaker for 20-60 minutes, until strong bands are visible.
+
+**To make the staining solution**
+- In a new container, add 800 mL of 100% ethanol and 400 mL of glacial acetic acid to 2800 mL of
+
+  dH2O (destaining solution)
+
+- Transfer the gel to the new destaining solution. Add kimwipes to aid in the destaining process.
+
+### **Leaving the lab**
+- Ensure that the gels are disposed of in the proper waste bins
+- Dispose of any excess buffer according to regulations
+- Disconnect power supply and ensure that all machinery is turned off
+
+### References
+Protocol for separating and stacking gels, sample preparation and gel staining obtained from Kayla Nemr.
+
+Preparing gels: [http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2a.html](http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2a.html)
+
+Assembling, loading, running gels: [http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2b.html](http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2b.html)
+
+Jove: [http://www.jove.com/science-education/5058/separating-protein-with-sds-page](http://www.jove.com/science-education/5058/separating-protein-with-sds-page)
