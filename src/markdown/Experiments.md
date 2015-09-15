@@ -786,3 +786,34 @@ designated individual.
 have been properly stored in the fridge.
 - Dispose of all disposable tubes and pipette tips used in biohazard containers.
 - Make sure your plates are labelled and put in a place they can be found.
+
+## Cell Lysis Protocol
+_Written by Kayla Nemr_
+
+_In preparation have the desired cells grown out on plates, with single colonies._
+
+### Day 1
+1. Create overnight cultures of each from a single colony in 5mL of LB + antibiotic at 37C and 300rpm
+
+### Day 2
+1. label 250mL (or larger) baffled flasks, pre-autoclaved.
+2. Add 50mL of LB + antibiotic
+3. Add 500uL of starter culture to the corresponding flask.
+4. Grow at  37C until the OD is approximately 0.1-0.6
+5. Reduce the temperature to 30C (can go as low as 16C)
+6. At the end of the day, add 1mM IPTG
+
+### Day 3 - Extraction of cell lysates
+1. Pellet 25mL in 50mL falcon tubes at 5000g for 10 min at 4C.
+2. Resuspend in 2mL of lysis buffer
+  - 50mM tris-HCl pH 7.5
+  - 50-200mM NaCl
+  - 5% glycerol (v/v)
+  - 1mM DTT
+
+3. Add 20uL 100mM PMSF
+4. Add lysozyme to final concentration of 300ug/mL
+5. Incubate tubes on ice horizontally in ice buckets and place on orbiter (for 3 hours)
+6. Transfer to 2mL eppendorf tubes
+7. Pellet in microcentrifuge at 13000g for 10 minutes at 4C.
+
