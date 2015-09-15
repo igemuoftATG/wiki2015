@@ -1,11 +1,5 @@
 ![alt text](http://i.giphy.com/uHV4veFjX22Pu.gif)
 
-<svg version="1.1" id="eco-system-line-1" class="eco-system-line active" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
- viewBox="0 0 2.9 64.5" enable-background="new 0 0 2.9 64.5" xml:space="preserve">
-    <g>
-        <path fill="none" stroke="#1C75BC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M 1.3 63.3 L 1.3 1.2"/>
-    </g>
-</svg>
 
 # Our Team
 
@@ -20,7 +14,8 @@ Anthony has just finished the 3rd year of his undergraduate degree, majoring in 
 Julian is a 2nd year bioinformatics student, and a dry lab team lead for the summer 2015 iGEM U of T team. Julian has always been interested in the success and proper functioning of the iGEM club and team. His interests in web development and computational biology have lead to a strong commitment for this summer's dry lab project, as well as a drive to teach others along the way.
 
 #### Ghazal Haddad - Bioinformatics Team  
-
+Ghazal is a second year student studying Molecular Genetics and Immunology at the University of Toronto. She is thrilled to have had to opportunity to be part of the Computational Biology and Bioinformatics team at iGEM Toronto and to have had the chance to work alongside and learn from the aspiring scientists and brilliant computer programmers of the team. Other than anything science-related, she enjoys dancing, reading, being involved with theater, 
+and learning foreign languages.
 
 #### Seray Çiçek - Wet Lab Team Lead  
 Seray is a third year Engineering Science- Biomedical Systems Option student. As a wet lab team lead of Toronto iGEM 2015, she played a major role in the project design by bringing in an engineering perspective. Her goal for the summer is to help her team have the best research experience. She is interested in turning synthetic biology research into feasible applications.
@@ -34,13 +29,19 @@ Katarina is a second year student in Immunology and Mo- lecular Genetics & Micro
 #### Sarah Bi - Wet Lab Team Lead  
 Sarah is thrilled to be part of the University of Toronto’s iGEM 2015 Summer Team as a Wet Lab Team Lead. She has just completed her fourth year of undergraduate studies in immunology, and hopes to pursue research as a career down the line. In her spare time, she enjoys exploring the city, attending live music shows, and be- friending cats.
 
+#### Alexander Sullivan - Wet Lab Experienced Member  
+Alexander is a second year student majoring in Cells & Molecular Biology and Biotechnology. Enjoying his experience in the lab only made his passion for becoming a researcher grew stronger.  He is excited for the future of synthetic and molecular biology and hopes to learn more in the future and apply it further. He has contributed to both the wet lab with lab experiments and procedures and dry lab by data collection.
+
+#### Quynh Cao - Wet Lab Experienced Member  
+Quynh is a second year student majoring in Biochemistry and Health & Disease. As a member of the wet lab team, she thoroughly enjoys working together with her team to complete the project. She hopes to learn more about synthetic biology and the microbiome inside and outside of the lab, as she participates in University of Toronto's iGEM 2015 summer team. 
+
 #### Shivali Barot -Policy and Practices Team Lead  
 Shivali completed her first year at the University of Toronto majoring in Molecular Biology, Immunology and Disease & Psychology and aspires towards Medical School. Research is one of her passions and working with people in outreach combines both her interests and gives her an opportunity to do what she loves.
 
 #### Joanna Dowdell - Frontline Community Research, Co-Treasurer
-Joanna is entering her 4th year of study as a Biology specialist, major in Environmental Health and minor in Immunology. Her years of study have included experience in research teams in a variety of areas, and she has been fortunate to have articles published relating to environmental health. Joanna has served on two non-profit exexcutives in relation to Environmental Health, and was excited to work in promoting indigenous solidarity and frontline community awareness through iGEM. 
+Joanna is entering her 4th year of study as a Biology specialist, major in Environmental Health and minor in Immunology. Her years of study have included experience in research teams in a variety of areas, and she has been fortunate to have articles published relating to environmental health. Joanna has served on two non-profit exexcutives in relation to Environmental Health, and is excited to work in promoting indigenous solidarity and frontline community awareness through iGEM. 
 
-#### Dawood Cheema - Bioreactor Prototype Designer 
+#### Dawood Cheema - Bioreactor Prototype Design
 
 #### Christine Byrd - Wet Lab, Policy and Practices Team  
 
@@ -77,9 +78,7 @@ Julian Song	- Dry Lab
 Justin Song -	Dry Lab  
 Marieke de Korte - Dry Lab  
 Waleed Khan -	Wet Lab/Dry Lab  
-Alexander Sullivan	- Wet Lab/Dry Lab  
-Mark Wang	Wet - Lab/Dry Lab  
-Quynh Cao -	Wet Lab  
+Mark Wang	- Wet Lab/Dry Lab  
 Derrick Chan	- Wet Lab  
 Michael Dao	- Wet Lab  
 Heba Farookhi	- Wet Lab/Dry Lab  
