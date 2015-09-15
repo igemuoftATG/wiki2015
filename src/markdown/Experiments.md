@@ -660,3 +660,59 @@ lifetechno: [https://www.lifetechnologies.com/ca/en/home/life-science/pcr/elevat
 Syber green catalog: [http://www.lifetechnologies.com/order/catalog/product/S33102](http://www.lifetechnologies.com/order/catalog/product/S33102)
 
 Syber green staining protocols: [http://www.lumiprobe.com/protocols/sybr-green-gel-staining](http://www.lumiprobe.com/protocols/sybr-green-gel-staining)
+
+## Making Chemically Competent Cells
+*Protocol obtained from openwetware:* <http://openwetware.org/wiki/Preparing_chemically_competent_cells>
+
+### Materials
+- Plate of cells to be made competent
+- TSS buffer
+- LB media
+- Ice
+
+### Glassware & Equipment
+- Falcon tubes
+- 500μl Eppendorf tubes, on ice
+- 200ml conical flask
+- 200μl pipetman or repeating pipettor
+- 5ml pipette
+
+### Protocol
+**Part 1: TSS Buffer**
+
+To make 50 mL:
+
+* 5g PEG 8000
+* 1.5 mL 1M MgCl2 (or 0.30g MgCl2*6H20)
+* 2.5 mL DMSO
+* Add LB to 50 mL
+* Filter sterilize (0.22 μm filter)
+
+**Part 2: Making Chemically Competent Cells**
+
+1. Grow a 5ml overnight culture of cells in LB media. In the morning, dilute this culture
+back into 25-50ml of fresh LB media in a 200ml conical flask. You should aim to dilute
+the overnight culture by at least 1/100.
+1. Grow the diluted culture to an OD600 of 0.2 - 0.5. (You will get a very small pellet if you
+grow 25ml to OD600 0.2)
+1. Put eppendorf tubes on ice now so that they are cold when cells are aliquoted into them
+later. If your culture is X ml, you will need X tubes. At this point you should also make
+sure that your TSS is being chilled (it should be stored at 4
+fresh then put it in an ice bath).
+1. Split the culture into two 50ml falcon tubes and incubate on ice for 10 min.
+All subsequent steps should be carried out at 4
+wherever possible
+- Centrifuge for 10 minutes at 3000 rpm and 4
+- Remove supernatant. The cell pellets should be sufficiently solid that you can just pour
+off the supernatant if you are careful. Pipette out any remaining media.
+1. Resuspend in chilled TSS buffer. The volume of TSS to use is 10% of the culture volume
+that you spun down. You may need to vortex gently to fully resuspend the culture, keep
+an eye out for small cell aggregates even after the pellet is completely off the wall.
+1. Add 100 μl aliquots to your chilled eppendorfs and store at − 80oC.
+
+  o Freeze the cells immediately using a dry ice bath.
+
+  o If you run a control every time you clone (i.e. a vector-only ligation), you can as
+  you can as
+  well freeze cells in 200 μl aliquots. Unused cells can be frozen back once and
+  reused, albeit with some loss of competence.
