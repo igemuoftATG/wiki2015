@@ -11,7 +11,7 @@ As President for 2015 Cathy has helped organize the Bio-hackathon and Design Com
 Anthony has just finished the 3rd year of his undergraduate degree, majoring in Immunology and Neuroscience. He is involved with the research community at Toronto and wishes to pursue a career in medicine. Anthony has a myriad of interests. He actively keeps up with novel technologies, cutting-edge research, and current events in politics and the economy. As a leader, Anthony strives to motivate, teach and guide the team to success.
 
 #### Julian Mazzitelli - Bioinformatics Team Lead  
-Julian is a 2nd year bioinformatics student, and a dry lab team lead for the summer 2015 iGEM U of T team. Julian has always been interested in the success and proper functioning of the iGEM club and team. His interests in web development and computational biology have lead to a strong commitment for this summer's dry lab project, as well as a drive to teach others along the way.
+Julian is a 3rd year bioinformatics student, and a dry lab team lead for the summer 2015 iGEM U of T team. Julian has always been interested in the success and proper functioning of the iGEM club and team. His interests in web development and computational biology have lead to a strong commitment for this summer's dry lab project, as well as a drive to teach others along the way.
 
 #### Ghazal Haddad - Bioinformatics Team  
 Ghazal is a second year student studying Molecular Genetics and Immunology at the University of Toronto. She is thrilled to have had to opportunity to be part of the Computational Biology and Bioinformatics team at iGEM Toronto and to have had the chance to work alongside and learn from the aspiring scientists and brilliant computer programmers of the team. Other than anything science-related, she enjoys dancing, reading, being involved with theater, 
@@ -21,19 +21,19 @@ and learning foreign languages.
 Seray is a third year Engineering Science- Biomedical Systems Option student. As a wet lab team lead of Toronto iGEM 2015, she played a major role in the project design by bringing in an engineering perspective. Her goal for the summer is to help her team have the best research experience. She is interested in turning synthetic biology research into feasible applications.
 
 #### Umar Owadelly - Wet Lab Team Lead  
-Umar is a 2nd year specialist in pharmacology and biomedical toxicology. As a wet lab team lead, Umar has used his managerial experience to coordinate the training and experimental design of the 2015 iGEM wet lab project. The unique creativity and knowledge that stems from the diverse backgrounds of iGEM members and graduate advisors as one of his primary motivations for his involvement with U of T iGEM.
+Umar is a 3rd year specialist in pharmacology and biomedical toxicology. As a wet lab team lead, Umar has used his managerial experience to coordinate the training and experimental design of the 2015 iGEM wet lab project. The unique creativity and knowledge that stems from the diverse backgrounds of iGEM members and graduate advisors as one of his primary motivations for his involvement with U of T iGEM.
  
 #### Katariina Jaenes - Wet Lab Team Lead  
-Katarina is a second year student in Immunology and Mo- lecular Genetics & Microbiology at the University of Toron- to. As one of the wet lab team leads for the 2015 iGEM project, she is excited to engage with emerging topics in synthetic biology, and to work with a passionate team of budding researchers. As a leader, she strives to maintain an open and curious mind and to inspire others to do the same.
+Katarina is a third year student studying Immunology and Molecular Genetics & Microbiology at the University of Toronto. As one of the wet lab team leads for the 2015 iGEM project, she was excited to have been able to engage with emerging topics in synthetic biology, and to have worked with a passionate team of budding researchers. As a leader, she strives to maintain an open and curious mind and to inspire others to do the same. 
 
 #### Sarah Bi - Wet Lab Team Lead  
-Sarah is thrilled to be part of the University of Toronto’s iGEM 2015 Summer Team as a Wet Lab Team Lead. She has just completed her fourth year of undergraduate studies in immunology, and hopes to pursue research as a career down the line. In her spare time, she enjoys exploring the city, attending live music shows, and be- friending cats.
+Sarah is thrilled to be part of the University of Toronto’s iGEM 2015 Summer Team as a Wet Lab Team Lead. She has just completed her fourth year of undergraduate studies in immunology, and hopes to pursue research as a career down the line. In her spare time, she enjoys exploring the city, attending live music shows, and befriending cats.
 
 #### Alexander Sullivan - Wet Lab Experienced Member  
-Alexander is a second year student majoring in Cells & Molecular Biology and Biotechnology. Enjoying his experience in the lab only made his passion for becoming a researcher grew stronger.  He is excited for the future of synthetic and molecular biology and hopes to learn more in the future and apply it further. He has contributed to both the wet lab with lab experiments and procedures and dry lab by data collection.
+Alexander is a third year student majoring in Cells & Molecular Biology and Biotechnology. Enjoying his experience in the lab only made his passion for becoming a researcher grew stronger.  He is excited for the future of synthetic and molecular biology and hopes to learn more in the future and apply it further. He has contributed to both the wet lab with lab experiments and procedures and dry lab by data collection.
 
 #### Quynh Cao - Wet Lab Experienced Member  
-Quynh is a second year student majoring in Biochemistry and Health & Disease. As a member of the wet lab team, she thoroughly enjoys working together with her team to complete the project. She hopes to learn more about synthetic biology and the microbiome inside and outside of the lab, as she participates in University of Toronto's iGEM 2015 summer team. 
+Quynh is a third year student majoring in Biochemistry and Health & Disease. As a member of the wet lab team, she thoroughly enjoys working together with her team to complete the project. She hopes to learn more about synthetic biology and the microbiome inside and outside of the lab, as she participates in University of Toronto's iGEM 2015 summer team. 
 
 #### Shivali Barot -Policy and Practices Team Lead  
 Shivali completed her first year at the University of Toronto majoring in Molecular Biology, Immunology and Disease & Psychology and aspires towards Medical School. Research is one of her passions and working with people in outreach combines both her interests and gives her an opportunity to do what she loves.
@@ -60,10 +60,11 @@ Professor Krishna Mahadevan, PhD — Biozone Centre for Applied Bioengineering R
 Professor Amy Caudy, PhD — Department of Molecular Genetics and Microbiology, Donnelly Centre for Cellular and Biomolecular Research  
 Professor Elizabeth Edwards, PhD P. Eng — Biozone Centre for Applied Bioengineering Research  
 
-## PHD Candidate Advisors
+## Graduate Advisors
 Naveen Venayak — Biozone Centre for Applied Bioengineering Research  
+Kayla Nemr - Biozone Centre for Applied Bioengineering Research
 Victoria Vu — Department of Molecular Genetics and Microbiology  
-Oscar Vasquez — Department of Ecology and Evolutionary Biology  
+ 
 ￼
 
 ## Team List 
@@ -74,21 +75,19 @@ Joller Wang	- Dry Lab
 Albert Cui - Dry Lab  
 Albert Xie - Dry Lab  
 Eric Jadidzadeh - Dry Lab  
-Julian Song	- Dry Lab  
-Justin Song -	Dry Lab  
-Marieke de Korte - Dry Lab  
-Waleed Khan -	Wet Lab/Dry Lab  
-Mark Wang	- Wet Lab/Dry Lab  
+Julian Song*	- Dry Lab  
+Justin Song* -	Dry Lab  
+Waleed Khan -	Wet Lab & Dry Lab  
+Mark Wang	- Wet Lab & Dry Lab  
 Derrick Chan	- Wet Lab  
 Michael Dao	- Wet Lab  
-Heba Farookhi	- Wet Lab/Dry Lab  
-Gargi Ghosh	- Wet Lab/P&P
+Heba Farookhi	- Wet Lab & Dry Lab  
+Gargi Ghosh	- Wet Lab & P&P
 Roy Lee	- Wet Lab  
 Fahmeeda Murtaza	- Wet Lab  
 Nirali Patel	- Wet Lab  
-Drupad Rajyaguru - Wet Lab/P&P  
+Drupad Rajyaguru - Wet Lab & P&P  
 Urvashi Rathod	- Wet Lab  
-Yixin Zheng	- Wet Lab  
 Vivian Zhou	- Wet Lab  
-Tina Huang	- Wet Lab  
+Tina Huang*	- Wet Lab  
 Helena Lim	- P&P  
