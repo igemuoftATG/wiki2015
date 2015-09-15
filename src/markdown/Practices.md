@@ -1,5 +1,7 @@
 # iGEM Toronto Human Policy and Practices
 
+![alt text](http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg)
+
 ## Alberta oil stories 
 
 Our research team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. In exploring the social and environmental connections of our project, particularly how our tool can be applied to bioremediation of Oil Sands tailings pond water in Alberta, we wanted to hear views directly from the most impacted people. The frontline communities dealing with issues of clean water accessibility in the area of Alberta's oil industry are largely indigenous communities who have experienced marginalization and injustice as a result of poor regulations. In August, our Policy and Practices team members went to Alberta to hear the stories of these communities. 
@@ -19,44 +21,3 @@ Many First Nations are employed by the oil sands industry but not necessarily in
 The leader of Treaty 8 First Nations of Alberta also asked us to follow up with research regarding a synthetic biology invention to detect water toxins and show their presence in a cost-effective design so all families could test their own water. 
 
 
-#banner {
-  margin-bottom: 50px;
-	overflow: hidden;
-	width: 100%;
-	height: 500px;
-	position: relative;
-	clear: both;
-	background: transparent url(http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg) center center no-repeat fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='path/to/image/1.jpg',sizingMethod='scale');
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='path/to/image/1.jpg',sizingMethod='scale')";
-}
-
-.wrap-center{
-	margin: 0 auto;
-	position: relative;
-	max-width: 73.231em;
-}
-
-.banner-centered {
-	text-align: center;
-	position: absolute;
-	display: block;
-	max-width: 75.231em;
-	height: inherit;
-	overflow: hidden;
-	margin-top: 100px;
-}
-
-.banner-centered h2 {
-	font-size: 5.385em;
-	line-height: 1.5;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	color: #fafafa;
-	font-weight: 100;
-	display: block;
-}
