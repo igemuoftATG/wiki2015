@@ -1,6 +1,6 @@
 # iGEM Toronto Human Policy and Practices
 
-![alt text](http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg)
+![alt text](http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg =100x20)
 
 ## Alberta oil stories 
 
