@@ -614,7 +614,7 @@ gloves**
 1. Set the timer to 2 min. Start the microwave oven but stop every 30 sec to swirl the
 contents of the flask. This helps suspend the undissolved agarose. Continue until agarose
 particles are dissolved.
-1. While hot, add 3ul of 10,000x SYBR Green into the agarose solution
+1. While hot, add 3ul of 10,000x SYBR Safe into the agarose solution
 and mix throughly.
 - Set the flask aside for cooling. Occasionally swirl to make the cooling even.
 - Set up the gel tray and make sure that there is no leak by testing it with dH20 and kimwipes.
@@ -640,12 +640,6 @@ migrates towards the positive (+/red) electrode.
 the DNA.
 12.The gel apparatus will stop on its own when the time is up. Proceed to imaging the gel. It can sit in the rig overnight if need be.
 
-If DNA is not visible,
-1. In a beaker, add 10 uL of 10,000x SYBR Green solution in DMSO to 100 mL of 1X
-TAE Buffer. Mix thoroughly with spatula, rod, or magnetic stirrer.
-- Pour the diluted SYBR Green solution in appropriate tray or pan.
-- Soak the gel for 5-10 min.
-- View or document the gel using 254 nm low-pressure mercury lamp and orange filter.
 
 ### References:
 
