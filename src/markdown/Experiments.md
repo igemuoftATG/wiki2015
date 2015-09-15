@@ -716,3 +716,79 @@ an eye out for small cell aggregates even after the pellet is completely off the
   you can as
   well freeze cells in 200 μl aliquots. Unused cells can be frozen back once and
   reused, albeit with some loss of competence.
+
+## Lab protocol for bacterial transformation
+_Written by Matt D'Iorio_
+
+### Introduction
+In this protocol, you will be using chemically competent E coli that have been
+placed in a calcium chloride solution prior to freezing. The solution acts to
+neutralize the cells so that they don't repel each other. The bacteria and plasmid
+mixture will be chilled on an ice for 30 minutes. Placing the mixture in a 42
+degrees Celsius water bath for 30 seconds will heat shock the mixture, which will
+cause the transformation. Once the LB is added and mixed with the transformed
+bacteria, it can be plated on the LB plate with an antibiotic. Since a lot of the
+bacteria will not be transformed after the heat shock, plating E. coli with an
+antibiotic will ensure only the transformed E. coli survive.
+Separate reagents from materials
+
+### Basic Terminology and concepts
+**Transformation** – The process in which the genetic makeup of a cell is changed
+by introduction of DNA from the surrounding environment.
+
+**Competent E. coli** – E. coli in a state where it can allow the uptake of DNA
+
+**Heat Shock** – A sudden increase in temperature used to propel a plasmid into a
+bacterium
+
+### Safety precautions
+This is a benign lab protocol, but don't forget that PPE is necessary at all times.
+The E. coli you will be working with will be non-pathogenic but it should still be
+handled properly, which means it should not come into contact with your skin or
+gloves. If you are removing materials from the -80 degrees Celsius freezer, do not
+use your bare hands or regular lab gloves, use gloves designated specifically for
+the freezer.
+
+### Reagents
+- Competent E. coli cells
+- 250 μL of SOC
+- LB plate supplemented with antibiotics
+- Materials and equipment
+- Set of micropipettes and pipette tips
+- 5 x1.5mL – microcentrifuge tube
+- Ice bath
+- Thermomixer
+- Streaker/Glass beads
+
+### Lab protocol
+1. Thaw competent E. coli on ice
+  * Competent cells till be in the -80 degrees Celsius freezer
+  * Do NOT thaw cells by hand, if they are warmed by hand they will
+no longer be competent
+- Mix the cells gently with a pipette tip (do not pipette up and down)
+- Aliquot 50μL of bacteria into a pre-chilled 1.5mL-microcentrifuge tube.
+- Add 1-2 μL of the plasmid to the bacterial sample, and mix gently with the
+pipette tip (don't pipette up and down)
+- Incubate the tube on ice for 30 minutes.
+- While the bacteria are on ice, ensure the water bath is set to 42°C
+- Put 250μL of LB in a microcentrifuge tube and place it in the 37°C
+incubator to warm up during this time
+1. After the 30 minute incubation period, place the tube in the 42°C water bath
+(mixing OFF) for exactly 30 seconds (45 seconds for E.coli DH10 beta)
+1. Place the tube on ice for two (2) minutes
+10.Add 250μL of pre-warmed SOC
+- Shake in 37°C incubator, 300 rpm, for 1-2 hours
+- Spread 100μL of the transformed bacteria on an LB plate supplemented
+with the appropriate antibiotic
+1. Label plate with name, date, and what it is (iGEM 2015 – Transformed E.
+Coli – Your Name)
+- Allow the plates to dry inverted, then place in the 37°C incubator O/N
+
+### Leaving the lab
+- Clean dirty glassware, or at least set aside the glassware to be cleaned by a
+designated individual.
+- Wipe down your workspace.
+- Ensure that all materials have been returned to their places, and that the plates
+have been properly stored in the fridge.
+- Dispose of all disposable tubes and pipette tips used in biohazard containers.
+- Make sure your plates are labelled and put in a place they can be found.
