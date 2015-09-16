@@ -93,7 +93,7 @@ Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Cheers.
 
-Joanna's icons for tabs which need adding:   
+# Joanna's icons for tabs which need adding:   
 homepage = h-square  
 Dry lab = code-fork  
 Wet lab = eyedropper  
