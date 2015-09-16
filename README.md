@@ -92,3 +92,10 @@ Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 **wiki freeze is on September 18**
 
 Cheers.
+
+Joanna's icons for tabs which need adding:   
+homepage = h-square  
+Dry lab = code-fork  
+Wet lab = eyedropper  
+P+P mainpage = users  
+bioreactor design = cogs  
