@@ -22,6 +22,7 @@ between user custom-chosen bacterial species with a linear-programming algorithm
 and displays the results by an interactive and easily-understandable node-edge
 visualization.
 
+
 ### Web Application: Framework of the MetaFlux Interface
 
 MetaFlux was developed using D3.JS, a JavaScript library for creation of
