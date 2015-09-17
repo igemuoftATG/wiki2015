@@ -17,6 +17,9 @@ Julian is a 3rd year bioinformatics student, and a dry lab team lead for the sum
 Ghazal is a second year student studying Molecular Genetics and Immunology at the University of Toronto. She is thrilled to have had to opportunity to be part of the Computational Biology and Bioinformatics team at iGEM Toronto and to have had the chance to work alongside and learn from the aspiring scientists and brilliant computer programmers of the team. Other than anything science-related, she enjoys dancing, reading, being involved with theater,
 and learning foreign languages.
 
+#### Mark Wang - Bioinformatics Team  
+Mark is a second year student studying Molecular Genetics at the University of Toronto. He is, as he put it, fortunate enough to meet and work alongside other dry lab team members, who are passionate about computational biology and motivated to finish the project. He is amazed at how computer can be used to model and analyze biological data.
+
 #### Seray Çiçek - Wet Lab Team Lead  
 Seray is a third year Engineering Science- Biomedical Systems Option student. As a wet lab team lead of Toronto iGEM 2015, she played a major role in the project design by bringing in an engineering perspective. Her goal for the summer is to help her team have the best research experience. She is interested in turning synthetic biology research into feasible applications.
 
