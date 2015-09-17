@@ -1,6 +1,6 @@
 ## TodE and TodF Plasmid Design
 
-Pseudomonas Putida F1 species degrade toluene with the help of tod operon. To achieve degradation of toluene down to carbon dioxide and water, we focused on degradation of 3-methyl catechol via todE and todF genes. After transformation of DH10B cells, E.Coli theoretically should contain all the genes required to achieve complete degradation.
+Pseudomonas Putida F1 species degrade toluene with the help of tod operon. Toluene dioxygenase and toluene cis-dihydrodiol dehydroxygenase transcribed from transcribed from todC1C2BA and todD genes respectively facilitate break down of toluene to 3-methylcatechol. Gerben J. Zylstra et al successfully constructed the plasmid pTDG602 containing todC1C2BAD genes. To achieve complete degradation of toluene down to carbon dioxide and water, we focused on designing a plasmid containing todE and todF genes. After cotransformation of DH10B cells with pTDG602 and our plasmid, E.Coli theoretically should contain all the genes required to achieve complete degradation.
 
 (Pathway.png)
 
@@ -11,6 +11,8 @@ In order to achieve the best protein production efficiency, we codon optimized o
 We also used BioBricks in the registry to design plasmids with different efficiency by using RDP kit as shown below.
 
 (TodEplasmid.png , TodFplasmid.png)
+
+
 
 #### Note
 
