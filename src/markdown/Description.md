@@ -1,4 +1,4 @@
-# METAFLUX
+# ConsortiaFlux
 
 Within nature, it is practically impossible to find a single bacterial species on its own. This is because bacteria exist in communities called a microbiome. However, in synthetic biology, a single strain is often grown independently in a laboratory setting for the intended use in a natural environment. Experimentally, this would require the creation of an isolated microbiome or a simulation of one.
 
