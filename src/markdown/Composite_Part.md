@@ -1,10 +1,10 @@
 ## TodE and TodF Plasmid Design
 
-Pseudomonas Putida F1 species degrade toluene with the help of the tod operon. To achieve degradation of toluene down to carbon dioxide and water, we focused on degradation of 3-methyl catechol via todE and todF genes.
+Pseudomonas Putida F1 species degrade toluene with the help of tod operon. To achieve degradation of toluene down to carbon dioxide and water, we focused on degradation of 3-methyl catechol via todE and todF genes.
 
 (insert an operon image)
 
-In order to achieve the best protein production efficiency, we codon optimized our todE and todF sequences. We used Salis RBS calculator to optimize translation efficiency. We used a tunable promoter to adjust efficiency of our plasmid.
+In order to achieve the best protein production efficiency, we codon optimized our todE and todF sequences. We used Salis RBS calculator to optimize translation efficiency. We used a tunable promoter to determine optimum transcription for DH10B cells.
 
 (insert a plasmid map of LCR)
 
