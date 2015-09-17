@@ -20,11 +20,11 @@ and learning foreign languages.
 #### Seray Çiçek - Wet Lab Team Lead  
 Seray is a third year Engineering Science- Biomedical Systems Option student. As a wet lab team lead of Toronto iGEM 2015, she played a major role in the project design by bringing in an engineering perspective. Her goal for the summer is to help her team have the best research experience. She is interested in turning synthetic biology research into feasible applications.
 
-#### Umar Owadelly - Wet Lab Team Lead  
+#### Umar Owadally - Wet Lab Team Lead  
 Umar is a 3rd year specialist in pharmacology and biomedical toxicology. As a wet lab team lead, Umar has used his managerial experience to coordinate the training and experimental design of the 2015 iGEM wet lab project. The unique creativity and knowledge that stems from the diverse backgrounds of iGEM members and graduate advisors as one of his primary motivations for his involvement with U of T iGEM.
  
 #### Katariina Jaenes - Wet Lab Team Lead  
-Katarina is a third year student studying Immunology and Molecular Genetics & Microbiology at the University of Toronto. As one of the wet lab team leads for the 2015 iGEM project, she was excited to have been able to engage with emerging topics in synthetic biology, and to have worked with a passionate team of budding researchers. As a leader, she strives to maintain an open and curious mind and to inspire others to do the same. 
+Katariina is a third year student studying Immunology and Molecular Genetics & Microbiology at the University of Toronto. As one of the wet lab team leads for the 2015 iGEM project, she was excited to have been able to engage with emerging topics in synthetic biology, and to have worked with a passionate team of budding researchers. As a leader, she strives to maintain an open and curious mind and to inspire others to do the same. 
 
 #### Sarah Bi - Wet Lab Team Lead  
 Sarah is thrilled to be part of the University of Toronto’s iGEM 2015 Summer Team as a Wet Lab Team Lead. She has just completed her fourth year of undergraduate studies in immunology, and hopes to pursue research as a career down the line. In her spare time, she enjoys exploring the city, attending live music shows, and befriending cats.
