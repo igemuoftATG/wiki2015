@@ -1,3 +1,13 @@
+#Thanks to
+##Rebecca Parales
+##Gerben J. Zylstra
+##Elizabeth Edwards
+##Krishna Mahadevan
+##iGem team that we sent dna to
+
+
+
+
 ## Collaborations
 
 Sharing and collaboration are core values of iGEM. We encourage you to reach out
