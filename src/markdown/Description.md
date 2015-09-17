@@ -25,6 +25,8 @@ Publisher:Nature Publishing Group
 Date:Mar 1, 2010
 Copyright © 2010, Rights Managed by Nature Publishing Group
 
+Note: See software section for more
+
 
 ## Proof-of-Concept: A Genetically Engineered Solution for Oil Sand Tailings
 
@@ -108,7 +110,7 @@ The current solutions for BTEX and PAH contamination includes:
 Our project therefore aims to maximize the efficiency of the bioremediation
 process by creating a synthetically engineered microorganism that can degrade
 these toxic compounds. Our team focused specifically on toluene since it is one
-of the major PAHs present in these oil sand tailings and is one of the most
+of the major BTEXs present in these oil sand tailings and is one of the most
 studied one’s.
 
 ### Toluene degradation in microbial communities
@@ -123,9 +125,9 @@ is a well-studied biosafety level 1 organism and some studies suggest it is one
 of the most efficient at toluene degradation.   _P. putida F1_ degrades toluene
 through an aerobic pathway. In its pathway the reactions involving _todC1C2BA_,
 _todD_, _todE_ and _todF_ are specific to _P. putida F1_ and are the limiting
-steps of this pathway. Once 2-Hydroxy-2,4-pentadienoate is formed it can be
+steps of this pathway. Especially accumulation of 3-methylcatechol is known to have severe toxic effects for bacteria. Once 2-Hydroxy-2,4-pentadienoate is formed it can be
 degraded by enzymes that can are present in most species including _E.coli_.   A
-bio brick, pTDG602, for the first part of the pathway involving _todC1C2BA_ and
+plasmid, pTDG602, for the first part of the pathway involving _todC1C2BA_ and
 _todD_ has already been created by Zylstra, from whom we then obtained it. This
 only leaves _todE_ and _todF_ for which no such biobrick exists that has been
 well characterized and so we chose to focus on that part of the pathway.
@@ -143,7 +145,7 @@ well characterized and so we chose to focus on that part of the pathway.
 ### Plasmid Design
 
 <p class="image-wrapper">
-{{image "plasmid.jpg" directlink mode}}
+{{image "lcrconstruct.png" directlink mode}}
 </p>
 
 The diagram above shows the plasmid that we designed. We used psB1C3, in green,
@@ -162,27 +164,18 @@ To create our plasmid we used Synbiota’s RDP protocol that allowed us to
 assemble our _todE_ and _todF_ constructs. We confirmed the identity of our
 constructs by using gel electrophoresis to compare our constructs against the
 _todE_ and _todF_ genes we purified from _P. putida F1_. Once the _todE_ and
-_todF_ genes have been assembled they will be inserted into the psB1C3 backbone
+_todF_ genes have been assembled they are be inserted into the psB1C3 backbone
 using Ligase Chain Reaction (LCR). Gel electrophoresis will once again be used
 to ensure that our plasmid has been correctly assembled. Once our plasmid is
-assembled we will then transform _E.coli_ that we will make chemically competent
-for transformation. Antibiotic selection will be used to identify the
+assembled we then transformed _E.coli_ that we will make chemically competent
+for transformation. Antibiotic selection is  used to identify the
 transformed colonies. To test for the synthesis of the enzymes, the transformed
-colonies will be lysed and SDS-PAGE and western blotting will be used.   After
+colonies will be lysed and SDS-PAGE.   After
 confirming the production of the enzymes, the transformed _E.coli_ will be grown
 on a 3-methyl catechol rich media and then a colorimetric assay will be used to
 identify the formation of 2-Hydroxy-6-keto-2,4-heptadienoate (substrate of
 _todE_); and 2-Hydroxy-2,4-pentadienoate substrate of _todF_). Also, if time
-permits Gas Chromatography and Mass spectrometry will also be used to
-characterize the activity of these enzymes.   Furthermore, we will co-transform
+permits Gas Chromatography and Mass spectrometry can also be used to
+characterize the activity of these enzymes.   Furthermore, we aimed to co-transform
 the bacteria with our designed plasmid and pTDG602 to observe a complete
 degradation of toluene to carbon dioxide and water.
-
-### Progress
-
-We have currently assembled our _todE_ and _todF_ genes using the symbiota
-protocol. To add the _todE_ and _todF_ genes into the plasmid we tried to use
-LCR; however, due to contamination it did not work hence we used Gibson to
-assemble it. Currently, we are in the process of transforming our _E.coli_ with
-our assembled plasmid after which we will proceed to verify the production of
-our enzymes and to characterize their activity.  
