@@ -131,5 +131,3 @@ Urvashi Rathod	- Wet Lab
 Vivian Zhou	- Wet Lab  
 Tina Huang - Wet Lab  
 Helena Lim	- P&P  
-
-![alt text](http://i.giphy.com/uHV4veFjX22Pu.gif)
