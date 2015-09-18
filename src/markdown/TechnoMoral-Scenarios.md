@@ -27,10 +27,12 @@ Dopfer, Kurt, J. Foster, & J. Potts, (2004). Micro-meso-macro. Journal of Evolut
  
 ## Scenario Two:
 
-<insert corporate presentation here>
+**insert corporate presentation here**
 
-> F: Son, your mother told me about it earlier today - you are going to be a father! That’s the reason I wanted to speak to you. You know our people always put our families first. Always first! You are my son, and protecting your future guides me more than being chief . I know that you will feel the same towards your son in time.  
-> S: What do you mean, Dad?  
+## Scenario Three: Father and Son from directly affected First Nation
+
+> Father: Son, your mother told me about it earlier today - you are going to be a father! That’s the reason I wanted to speak to you. You know our people always put our families first. Always first! You are my son, and protecting your future guides me more than being chief . I know that you will feel the same towards your son in time.  
+> Son: What do you mean, Dad?  
 > F: One day you will have this conversation again with your son. He will sit down with you and tell you that he is going to have a son. What kind of person will you son be then?  
 > S: One can hardly know themselves in the future, how can I expect to know him then.
 > F: Will he be like us? Will he walk in the way of his father and grandfather, or will he be swept into the tides of the settler’s world?  
