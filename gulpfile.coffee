@@ -388,21 +388,21 @@ login = (cb) ->
         },
         jar: jar
     }, (err, httpResponse, body) ->
-            if !err and httpResponse.statusCode is 302
-                # Follow redirects to complete login
-                request {
-                    url: httpResponse.headers.location
-                    jar: jar
-                }, (err, httpResponse, body) ->
-                    if !err and httpResponse.statusCode is 200
-                        gutil.log('Successfully logged in'.green + ' as ' + "#{username}".magenta)
-                        # Pass cookie jar into callback
-                        cb(jar)
-                    else
-                        gutil.log('Request fail 1')
-                        handleRequestError(err, httpResponse)
-            else
-                gutil.log('Incorrect username/password'.red)
+        if !err and httpResponse.statusCode is 302
+            # Follow redirects to complete login
+            request {
+                url: httpResponse.headers.location
+                jar: jar
+            }, (err, httpResponse, body) ->
+                if !err and httpResponse.statusCode is 200
+                    gutil.log('Successfully logged in'.green + ' as ' + "#{username}".magenta)
+                    # Pass cookie jar into callback
+                    cb(jar)
+                else
+                    gutil.log('Request fail 1')
+                    handleRequestError(err, httpResponse)
+        else
+            gutil.log('Incorrect username/password'.red)
 
 # **logout**
 logout = (jar) ->
@@ -424,21 +424,24 @@ checkIfImageExists = (link, updateImageStores, tryLogout, cb) ->
         else
             images = JSON.parse(data)
 
-            fileStream = fs.createReadStream("images/#{link}")
+            if not images[link]?
+                cb(false)
+            else
+                fileStream = fs.createReadStream("images/#{link}")
 
-            streamEqual request(images[link]), fileStream, (err, equal) ->
-                if err?
-                    gutil.log(err)
-                else
-                    if equal
-                        imageStore = new Object()
-                        imageStore[link] = images[link]
-                        gutil.log("Skipping upload of ".yellow + "#{link}".magenta + " since live version is identical".yellow)
-                        updateImageStores(imageStore)
-                        tryLogout()
-                        cb(equal)
+                streamEqual request(images[link]), fileStream, (err, equal) ->
+                    if err?
+                        gutil.log(err)
                     else
-                        cb(equal)
+                        if equal
+                            imageStore = new Object()
+                            imageStore[link] = images[link]
+                            gutil.log("Skipping upload of ".yellow + "#{link}".magenta + " since live version is identical".yellow)
+                            updateImageStores(imageStore)
+                            tryLogout()
+                            cb(equal)
+                        else
+                            cb(equal)
 
 # Calls cb(url, file, multiform, jar)
 prepareUploadForm = (link, type, jar, cb, tryLogout, updateImageStores) ->
@@ -449,7 +452,7 @@ prepareUploadForm = (link, type, jar, cb, tryLogout, updateImageStores) ->
     if type is 'image'
         checkIfImageExists link, updateImageStores, tryLogout, (equal) ->
             if equal
-                return;
+                return
             else
                 BASE_URL = "http://#{year}.igem.org/Special:Upload"
                 page = link
@@ -526,7 +529,7 @@ visitEditPage = (link, type, jar, cb, tryLogout, updateImageStores, editUrl, pag
             }, {decodeEntites: true}
 
             parser.write(body)
-            parser.end();
+            parser.end()
 
             if type is 'page'
                 file = "#{dests.live.folder}/#{page}.html"
@@ -547,8 +550,9 @@ visitEditPage = (link, type, jar, cb, tryLogout, updateImageStores, editUrl, pag
 
             cb(url, file, page, type, multiform, jar, tryLogout, updateImageStores, link)
         else
-            gutil.log('Request fail 3')
-            handleRequestError(err, httpResponse)
+            gutil.log('Request fail 3, trying again')
+            upload(link, type, jar, tryLogout, updateImageStores)
+            # handleRequestError(err, httpResponse)
 
 colourify = (file, url, multiform, type) ->
     if type is 'image'
@@ -581,12 +585,21 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores,
         formData : multiform
         jar      : jar
     }, (err, httpResponse, body) ->
+        if not httpResponse?
+            gutil.log('Trying again')
+            upload(link, type, jar, tryLogout, updateImageStores)
+
+
         if !err and httpResponse.statusCode is 302
             # Follow redirect to new page
             request {
                 url: httpResponse.headers.location
                 jar: jar
             }, (err, httpResponse, body) ->
+                if not httpResponse?
+                    console.log('Got an undefined httpResponse')
+                    upload(link, type, jar, tryLogout, updateImageStores)
+
                 if !err and httpResponse.statusCode is 200
                     if fs.readdirSync(__dirname).indexOf(paths.responses) is -1
                         fs.mkdirSync(paths.responses)
@@ -622,7 +635,7 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores,
                 else
                     gutil.log('Request fail 4')
                     handleRequestError(err, httpResponse)
-        else if httpResponse.statusCode is 200
+        else if httpResponse? and httpResponse.statusCode is 200
             gutil.log('Upload failed for '.yellow + file + ', trying again.'.yellow)
             # if type is 'page'
             #     upload(link, 'page', jar, tryLogout)
@@ -637,14 +650,15 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores,
             upload(link, type, jar, tryLogout, updateImageStores)
         else
             gutil.log('Request fail 5')
-            handleRequestError(err, httpResponse)
+            upload(link, type, jar, tryLogout, updateImageStores)
+            # handleRequestError(err, httpResponse)
 
 upload = (link, type, jar, tryLogout, updateImageStores) ->
     if link isnt '.DS_Store'
         prepareUploadForm(link, type, jar, postEdit, tryLogout, updateImageStores)
 
 # **push**
-gulp.task 'push', ['build:live'], ->
+gulp.task 'push', ->
     login (jar) ->
         templateData = JSON.parse(fs.readFileSync(files.template))
         stylesheets  = fs.readdirSync(dests.live.css)
@@ -675,6 +689,8 @@ gulp.task 'push', ['build:live'], ->
         updateImageStores = (imageStore) ->
             key = Object.keys(imageStore)[0]
             imageStores[key] = imageStore[key]
+
+            fs.writeFileSync(imageStoresFile, JSON.stringify(imageStores))
 
             if '.DS_Store' in fs.readdirSync(files.imagesFolder)
                 len = images.length - 1
