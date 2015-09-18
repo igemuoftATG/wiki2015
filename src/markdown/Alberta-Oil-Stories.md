@@ -22,7 +22,7 @@ The leader of Treaty 8 First Nations of Alberta also asked us to follow up with 
 # University of Alberta Collaborations
 On our first day in Alberta(August 25, 2015), we met professors at __University of Alberta__ who are currently doing research on land reclamation of __Oil Sands Tailings Ponds__.We were honoured to acquire his deep insight about the liquid tailings ponds. The adverse effects of tailings ponds how they have affected our land, air and water are well-known facts. The major issue we come across when talking about oil sands tailings pond is their density. Tailings water is thick dark liquid filled primarily with organic toxins. The thickness of the liquid makes it hard to use and reclaim as clean water. 
 
--add picture- Professor Thundat teaching(Dawood's head)
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/dr-thundat-and-dawood.jpg)
 
 Above picture shows __Dr. Thundat__ explaining his work with tailings water.
 
@@ -44,4 +44,15 @@ He acknowledged that technology like ours which is cheap and effective can not o
 
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Indigenous%20art%201.jpg)
 
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/KOTW%20poster%20p%2Bp.png)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Screen%20Shot%202015-08-27%20at%2011.15.50%20PM.jpg)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Sam%20gargon%20and%20P%2Bp.JPG)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/crude%20oil.JPG)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/joanna%20and%20oil%20pump.JPG)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Oil%20pumps.JPG)
 
