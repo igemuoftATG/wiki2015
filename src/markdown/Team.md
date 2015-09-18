@@ -17,6 +17,11 @@ Julian is a 3rd year bioinformatics student, and a dry lab team lead for the sum
 Ghazal is a second year student studying Molecular Genetics and Immunology at the University of Toronto. She is thrilled to have had to opportunity to be part of the Computational Biology and Bioinformatics team at iGEM Toronto and to have had the chance to work alongside and learn from the aspiring scientists and brilliant computer programmers of the team. Other than anything science-related, she enjoys dancing, reading, being involved with theater,
 and learning foreign languages.
 
+<p class="image-wrapper">
+{{image "Albert.jpg" directlink mode}}
+</p> #### Albert Cui - Bioinformatics Team
+Albert is a third year Computer Science student minoring in mathematics, with a strong interest in algorithm designs and complexities. Joining iGEM was a turning point for his interests moving towards applying Mathematics and Computer Science to new areas of interdisciplinary research. His major role in the project is the software development, and bioinformatics within the dry lab team.
+
 #### Mark Wang - Bioinformatics Team  
 Mark is a second year student studying Molecular Genetics at the University of Toronto. He is, as he put it, fortunate enough to meet and work alongside other dry lab team members, who are passionate about computational biology and motivated to finish the project. He is amazed at how computer can be used to model and analyze biological data. He is also equally passionate about photography in his free time.
 
@@ -80,13 +85,11 @@ Albert Calzaretto	- Dry Lab
 Joshua Efe - Dry Lab  
 Sean Ihn - Dry Lab  
 Joller Wang	- Dry Lab  
-Albert Cui - Dry Lab  
 Albert Xie - Dry Lab  
 Eric Jadidzadeh - Dry Lab  
 Julian Song*	- Dry Lab  
 Justin Song* -	Dry Lab  
 Waleed Khan -	Wet Lab & Dry Lab  
-Mark Wang	- Wet Lab & Dry Lab  
 Derrick Chan	- Wet Lab  
 Michael Dao	- Wet Lab  
 Heba Farookhi	- Wet Lab & Dry Lab  
