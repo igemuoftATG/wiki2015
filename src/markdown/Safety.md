@@ -24,6 +24,12 @@ The major safety concern in use of synthetic biology is it's exposure to the nat
 
 
 
+### References:
+
+
+
+
+
 
 
 ## Safety in iGEM
