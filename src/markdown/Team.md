@@ -107,7 +107,6 @@ Victoria Vu — Department of Molecular Genetics and Microbiology
 ￼
 
 ## Team List
-Albert Calzaretto	- Dry Lab  
 Joshua Efe - Dry Lab  
 Sean Ihn - Dry Lab  
 Joller Wang	- Dry Lab  
