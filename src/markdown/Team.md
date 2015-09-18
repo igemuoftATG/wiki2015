@@ -1,5 +1,5 @@
-![alt text](http://i.giphy.com/uHV4veFjX22Pu.gif)
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/2/28/1DNA.gif)
 
 # Our Team
 
@@ -74,7 +74,7 @@ Shivali completed her first year at the University of Toronto majoring in Molecu
 
 Joanna is entering her 4th year of study as a Biology specialist, major in Environmental Health and minor in Immunology. Her years of study have included experience in research teams in a variety of areas, and she has been fortunate to have articles published relating to environmental health. Joanna has served on two non-profit exexcutives in relation to Environmental Health, and is excited to work in promoting indigenous solidarity and frontline community awareness through iGEM.
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/joanna.jpg)
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/joanna%20jd.jpg)
 
 #### Dawood Cheema - Bioreactor Prototype Design
 
@@ -116,8 +116,8 @@ Joller Wang	- Dry Lab
 Albert Xie - Dry Lab  
 Albert Cui - Dry Lab
 Eric Jadidzadeh - Dry Lab  
-Julian Song*	- Dry Lab  
-Justin Song* -	Dry Lab  
+Julian Song	- Dry Lab  
+Justin Song -	Dry Lab  
 Waleed Khan -	Wet Lab & Dry Lab  
 Derrick Chan	- Wet Lab  
 Michael Dao	- Wet Lab  
@@ -129,5 +129,5 @@ Nirali Patel	- Wet Lab
 Drupad Rajyaguru - Wet Lab & P&P  
 Urvashi Rathod	- Wet Lab  
 Vivian Zhou	- Wet Lab  
-Tina Huang*	- Wet Lab  
+Tina Huang - Wet Lab  
 Helena Lim	- P&P  
