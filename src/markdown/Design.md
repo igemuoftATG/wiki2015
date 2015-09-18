@@ -1,9 +1,9 @@
 # Bioreactor Design
-We are working on creation of a synthetic bacteria which can efficiently degrade toluene. At the same time we are aware of the safety concerns and public perception of the potential for introduction of synthetic organisms into the environment.
+The goal of our project is to sunthesize bacteria that can effectively degrade Toluene. At the same time we are aware of the safety concerns and public perception  of introduction of synthetic organisms into the environment.
 
  We have tried to address this issue in two ways:
 
-* __Public engagement__ and education about our project
+* __Public engagement__ and education about our project(mentioned in community-outreach.md)
 * __A Novel bioreactor__ design that can efficiently use bacteria to degrade toluene while keeping it separate from the environment.
 
 Below is the design of our bioreactor along with it's functionality explanation.
