@@ -1,49 +1,27 @@
-## Attributions
+# Attributions
 
-Each team must clearly attribute work done by the student team members on this
-page. The team must distinguish work done by the students from work done by
-others, including the host labs, advisors, instructors, and individuals not on
-the team roster.
 
-#### Can we base our project on a previous one?
 
-Yes! You can have a project based on a previous team, or based on someone else's
-idea, **as long as you state this fact very clearly and give credit for the
-original project.**
 
-#### Why is this page needed?
+## Fundraising Donations
+The following organizations have donated to help us raise a total of $22,000 for our research:  
 
-sdssds
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/immu.jpg)
 
-The Attribution requirement helps the judges know what you did yourselves and
-what you had help with. We don't mind if you get help with difficult or complex
-techniques, but you must report what work your team did and what work was done
-by others.
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/bch.png)
 
-For example, you might choose to work with an animal model during your project.
-Working with animals requires getting a license and applying far in advance to
-conduct certain experiments in many countries. This is difficult to achieve
-during the course of a summer, but much easier if you can work with a postdoc or
-PI who has the right licenses.
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/Synenergene%20logo.png)
 
-##### What should this page have?
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/IBBME%20logo.png)
 
-* General Support
-* Project support and advice
-* Fundraising help and advice
-* Lab support
-* Difficult technique support
-* Project advisor support
-* Wiki support
-* Presentation coaching
-* Human Practices support
-*  Thanks and acknowledgements for all other people involved in helping make a successful iGEM team
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/Trowbridge%20logo.png)
 
-#### Inspiration
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/CSB%20logo.png)
 
-Take a look at what other teams have done:
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/synbiota%20logo.png)
 
-* [2011 Imperial College London](http://2011.igem.org/Team:Imperial_College_London/Team) (scroll to the bottom)
-* [2014 Exeter](http://2014.igem.org/Team:Exeter/Attributions)
-* [2014 Melbourne](http://2014.igem.org/Team:Melbourne/Attributions)
-* [2014 Valencia Biocampus](http://2014.igem.org/Team:Valencia_Biocampus/Attributions)
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/CAGEF%20logo.png)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/glse%201.jpg)
+
+As well as CUPE440, Laboratory Medicine and Pathobiology, You're Next Career Network, and DIYbio in kind donation of lab space. 
