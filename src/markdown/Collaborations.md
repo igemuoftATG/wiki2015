@@ -3,7 +3,7 @@
 ##Gerben J. Zylstra
 ##Elizabeth Edwards
 ##Krishna Mahadevan
-##iGem team that we sent dna to
+##iGem team that we sent DNA to
 
 
 
