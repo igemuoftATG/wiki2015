@@ -8,7 +8,7 @@ The goal of our project is to sunthesize bacteria that can effectively degrade T
 
 Below is the design of our bioreactor along with it's functionality explanation.
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Membrane-bioreactor-2.0.png)
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/bioreactor%20updated%20design.jpg)
 
 
 
