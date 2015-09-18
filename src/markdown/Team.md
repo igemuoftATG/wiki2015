@@ -18,8 +18,10 @@ Ghazal is a second year student studying Molecular Genetics and Immunology at th
 and learning foreign languages.
 
 <p class="image-wrapper">
-{{image "Albert.jpg" directlink mode}}
-</p> #### Albert Cui - Bioinformatics Team
+{image "Albert.jpg" directlink mode}
+</p> 
+
+#### Albert Cui - Bioinformatics Team
 Albert is a third year Computer Science student minoring in mathematics, with a strong interest in algorithm designs and complexities. Joining iGEM was a turning point for his interests moving towards applying Mathematics and Computer Science to new areas of interdisciplinary research. His major role in the project is the software development, and bioinformatics within the dry lab team.
 
 #### Mark Wang - Bioinformatics Team  
