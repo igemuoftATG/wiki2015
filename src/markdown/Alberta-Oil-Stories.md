@@ -2,6 +2,9 @@
 
 Our research team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. In exploring the social and environmental connections of our project, particularly how our tool can be applied to bioremediation of Oil Sands tailings pond water in Alberta, we wanted to hear views directly from the most impacted people. The frontline communities dealing with issues of clean water accessibility in the area of Alberta's oil industry are largely indigenous communities who have experienced marginalization and injustice as a result of poor regulations. In August, our Policy and Practices team members went to Alberta to hear the stories of these communities. 
 
+![alt text](<img src="http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg" alt="Drawing" style="width: 200px;"/>)
+
+
 ### Keepers of the Water Conference
 
 ##### Testamonials:  
