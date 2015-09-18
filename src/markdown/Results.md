@@ -19,7 +19,7 @@ This software can be applied in the future to many aspects of bacterial communit
 Our system of community flux balance analysis (cFBA) used the specific example of optimiziation for maximal toluene degradation within the microbial system of Athabasca oil sands tailings pond water, in order to best detoxify this water to be potable to inhabitants living downstream. However, the future uses for this tool could be far-reaching in nature.  
 This system has already been used for a wide range of projects including pinpointing pathogenicity islands in strains of bacteria which can be harmful to human populations (Raman and Chandra, 2009), assessing how rice plants can be optimized to best respond to flooding (Lakshmanan et al. 2013), and achieving spatiotemporal amalgamation of overall metabolism in other crop plants (Grafahrend-Belau et al. 2013). Even more significant achievements could prevail with this technology, such as further simple analysis of gut microbiomes in patients with gastrointestinal illness. With the future of cFBA and metabolic mapping, biological and medical research will no doubt leap forward with innovation.
 
-# Wetlab Results
+## Wetlab Results
 
 ### Wetlab Goals:
 
