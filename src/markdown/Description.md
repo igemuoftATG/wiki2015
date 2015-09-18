@@ -1,8 +1,12 @@
 # ConsortiaFlux
 
-Within nature, it is practically impossible to find a single bacterial species on its own. This is because bacteria exist in communities called a microbiome. However, in synthetic biology, a single strain is often grown independently in a laboratory setting for the intended use in a natural environment. Experimentally, this would require the creation of an isolated microbiome or a simulation of one.
+Within nature, it is practically impossible to find a single bacterial species on its own. This is because bacteria exist in communities called a microbiome. However, in synthetic biology, a single strain is often grown independently in a laboratory setting for the intended use in a natural environment. Experimentally, this would require the creation of an isolated microbiome, or a simulation of one.
 
-We created a tool called Metaflux that can be used to compute community level flux-balance analysis. This tool allows users to visualize predicted effects of addition of a synthetically engineered bacteria into a defined microbiome. Additionally, we generated a detailed framework for the application of synthetically engineered bacteria in bioremediation efforts. To demonstrate the applicability of our framework, we focused on using genetically modified E.coli to remediate toluene in Albertan tailing ponds, to provide a concrete example of how this framework can be applied. Lastly, we conducted further analysis of how to choose the best application method, with respect to the technical, economic, and social aspects of the technology’s application.
+Our iGEM team created a web-based tool, 'ConsortiaFlux,' to run a microbiome simulation. The tool allows a user to visualize the effect of the addition of a synthetically engineered bacteria into a predefined microbiome. This visualization is generated through a process called community flux-balance analysis, or cFBA.
+
+To demonstrate our web-based tool, we genetically engineered an E. coli bacteria for bioremediation. This engineered E. coli remediates toluene in Albertan tailing ponds, supplementing the existing microbiome, and providing a concrete example of how our tool can be applied.
+
+Tying it all together is an analysis of the best technical, economic, and social applications of our technology within a solid framework.
 
 ## What is FBA and cFBA?
 
