@@ -48,11 +48,9 @@ Quynh is a third year student majoring in Biochemistry and Health & Disease. As 
 #### Shivali Barot -Policy and Practices Team Lead  
 Shivali completed her first year at the University of Toronto majoring in Molecular Biology, Immunology and Disease & Psychology and aspires towards Medical School. Research is one of her passions and working with people in outreach combines both her interests and gives her an opportunity to do what she loves.
 
-#### Joanna Dowdell - Frontline Community Research, Co-Treasurer
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/joanna.jpg)
 
-<p class="image-wrapper">
-{{image "joanna.jpg" directlink mode}}
-</p>
+#### Joanna Dowdell - Frontline Community Research, Co-Treasurer
 
 Joanna is entering her 4th year of study as a Biology specialist, major in Environmental Health and minor in Immunology. Her years of study have included experience in research teams in a variety of areas, and she has been fortunate to have articles published relating to environmental health. Joanna has served on two non-profit exexcutives in relation to Environmental Health, and is excited to work in promoting indigenous solidarity and frontline community awareness through iGEM.
 
