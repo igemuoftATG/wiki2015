@@ -10,7 +10,7 @@ The following organizations have donated to help us raise a total of $24,000 for
 
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/bch.png)
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/cssu%20logo.png)
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/cs%20logo.jpeg)
 
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/Synenergene%20logo.png)
 
