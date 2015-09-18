@@ -26,4 +26,10 @@ The following organizations have donated to help us raise a total of $24,000 for
 
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/physics.jpg)
 
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/idt%20logo.png)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/TCAG%20logo.png)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/igem%20logos/bio-rad%20logo.jpg)
+
 As well as CUPE440, Laboratory Medicine and Pathobiology, You're Next Career Network, and DIYbio in kind donation of lab space. 
