@@ -1,3 +1,20 @@
+# Safety issues and proposed solutions
+
+### Synthetic bacterias safety concerns:
+The major safety concern in use of synthetic biology is it's exposure to the natural environment, where synthetic organisms could impact the the ecosystem in unpredictable and unidentified ways. For the purpose of our reasearch, our goal is to devalop synthetic bacteria that can effectibely degrade Toluene in the tailings water. However, synthetic bacteria can not be directly injected into the natural ecosystem due to following reasons:
+* Synthetic bacteria can disrupt the food chains and food webs in natural ecosystem
+* Synthetic bacteria could be beneficial, at the same time could be lethal to other species living in the same community
+* Mutations in synthtic bacteria can be lethal and irrevesible
+* Synthtic bacteria would compete with pre-existing species, which can potentially lead to extinction of native species
+
+### Propositions for addressingsafety concerns
+
+
+
+
+
+
+
 ## Safety in iGEM
 
 Please visit [the main Safety page](http://2015.igem.org/Safety) to find this
