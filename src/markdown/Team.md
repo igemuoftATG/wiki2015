@@ -1,5 +1,5 @@
-![alt text](http://i.giphy.com/uHV4veFjX22Pu.gif)
 
+![alt text](https://commons.wikimedia.org/wiki/Category:DNA_animations#/media/File:1DNA.gif)
 
 # Our Team
 
@@ -131,3 +131,5 @@ Urvashi Rathod	- Wet Lab
 Vivian Zhou	- Wet Lab  
 Tina Huang*	- Wet Lab  
 Helena Lim	- P&P  
+
+![alt text](http://i.giphy.com/uHV4veFjX22Pu.gif)
