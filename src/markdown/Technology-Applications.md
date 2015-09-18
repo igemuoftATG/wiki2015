@@ -1,5 +1,5 @@
 # Bioreactor Design
-Since we are working on creation of a synthetic bacteria which can efficiently degrade toluene. At the same time we are aware of the safety concerns and public perception of introduction of synthetic organisms into the environment.
+We are working on creation of a synthetic bacteria which can efficiently degrade toluene. At the same time we are aware of the safety concerns and public perception of the potential for introduction of synthetic organisms into the environment.
 
  We have tried to address this issue in two ways:
 
@@ -46,3 +46,12 @@ The toxic water is pumped into the reaction chamber from the top. The water ente
 
 ### Conclusion:
 This novel design of bioreactor can confidently address the public concerns and safety issues of keeping synthetic bacteria separate from the water. Furthermore, it operates at lower cost while effectively degrading Toluene in comparison to conventional bioreactors.
+
+### References:
+* World Health Organization. Toluene in drinking water:  background document for development of WHO guidelines for drinking-water quality. 2004.
+* L. van Dijk, G.Roncken, Membrane bioreactor for wastewater treatment: the state of the art and new developments. Water Science and Technology, 1997.35:10; pg.35-41
+* Shah, Pranjul. Microfluidic bioreactors for culture of non-adherent cells
+* Montseny, Emmanuel. Control of fed-batch bioreactors models by means of dynamic time-scale transformation and operatorial parametrization
+* Gagliardo, P. Water reclamation with membrane bioreactors
+* Chang et al. Carbon nutrition of Escherichia coli in the mouse intestine. Proceedings of the National Academy of Sciences of the United States of America, 2004. 101:19,  pp. 7427-7432
+

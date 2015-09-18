@@ -1,7 +1,28 @@
+# Alberta Oil Stories 
+
+Our research team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. In exploring the social and environmental connections of our project, particularly how our tool can be applied to bioremediation of Oil Sands tailings pond water in Alberta, we wanted to hear views directly from the most impacted people. The frontline communities dealing with issues of clean water accessibility in the area of Alberta's oil industry are largely indigenous communities who have experienced marginalization and injustice as a result of poor regulations. In August, our Policy and Practices team members went to Alberta to hear the stories of these communities. 
+
+![alt text](http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg)
+
+
+### Keepers of the Water Conference
+
+##### Testamonials:  
+"I had to move to Fort McMurray, Alberta to find a job, and I worked in the oil sands industry. I never liked it, my dad and grandparents would call me and tell me they had no clean water and fewer and fewer animals to hunt locally, and I knew it was a result of the industry I worked in. After a while, I was laid off due to budget cuts and I moved back to the Dene Tha' land in High Level, Alberta. It's been difficult trying to find a job here without the oil industry, but honestly I'm still happier not working for them. I know what they're doing to our land. For me, it would be great to be able to be employed by something that is solving these problems." 
+-Clara, Dene Tha'   
+
+Many First Nations are employed by the oil sands industry but not necessarily in support of the industry. As Chief Allan Adam of Fort Chipewyan has said, many of these indigenous workers are  "economic hostages" of this industry.   
+
+"When I saw [the Toronto iGEM team], I saw a glimmer of hope for us."  
+-Sam Gargan, former Chief of the DehCho First Nation
+
+### Further Research Collaboration
+The leader of Treaty 8 First Nations of Alberta also asked us to follow up with research regarding a synthetic biology invention to detect water toxins and show their presence in a cost-effective design so all families could test their own water. 
+
 # University of Alberta Collaborations
 On our first day in Alberta(August 25, 2015), we met professors at __University of Alberta__ who are currently doing research on land reclamation of __Oil Sands Tailings Ponds__.We were honoured to acquire his deep insight about the liquid tailings ponds. The adverse effects of tailings ponds how they have affected our land, air and water are well-known facts. The major issue we come across when talking about oil sands tailings pond is their density. Tailings water is thick dark liquid filled primarily with organic toxins. The thickness of the liquid makes it hard to use and reclaim as clean water. 
 
--add picture- Professor Thundat teaching(Dawood's head)
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/dr-thundat-and-dawood.jpg)
 
 Above picture shows __Dr. Thundat__ explaining his work with tailings water.
 
@@ -20,3 +41,18 @@ The part of the meeting that really resonated most with many of us was when Read
 Water has been continually depleting in the rivers at an alarming rate to meet the requirements of water consumption in order to extract oil from sub earthen oil reserves. After being used in the process of extraction, this water mixed with toxic compounds is left in the form of a __thick dark liquid in tailings ponds__. No effective water reclamation techniques have been in effect so far, despite regulations from the government. Since, the oil industries have not played a crucial role in water and land reclamation, the responsibility falls onto the government to restore the water and land. When we talk about government being responsible for this job, we really are talking about money out of the pockets of taxpayers to clean up the mess that they had nothing to do with. If we take a moment to consider this, it seems likely that the oil extraction industry which was supposed to be building the economy will soon lead us under huge environmental stress, destroying nature, and any effort to restore this will have to be paid by people who didn’t choose this upon themseleves.
 
 He acknowledged that technology like ours which is cheap and effective can not only reclaim the tailings water, but also lessen the stress of increasing depletion of water in Albertan rivers. However, as of now there has been considerably low amount of tailings water that has actually been reclaimed.
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Indigenous%20art%201.jpg)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/KOTW%20poster%20p%2Bp.png)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Screen%20Shot%202015-08-27%20at%2011.15.50%20PM.jpg)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Sam%20gargon%20and%20P%2Bp.JPG)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/crude%20oil.JPG)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/joanna%20and%20oil%20pump.JPG)
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Oil%20pumps.JPG)
+
