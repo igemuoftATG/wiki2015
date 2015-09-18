@@ -3,9 +3,7 @@
 
 ### Brief Description:
 
-Whether they be in dirt, in water, in the air, on skin or in the gut, bacteria
-generally occur in communities. In microbial communities, the survival of all
-species are interdependent; the biochemical and behavioral activities of
+Bacteria generally occur in communities, whether they be in dirt, in water, in the air, on skin or in the gut. In microbial communities, the survival of all species are interdependent; the biochemical and behavioral activities of
 one species provides the necessary metabolites and living environment for
 another [1]. Many approaches have been developed for predicting flux
 distributions in the metabolic network of one species using flux balance
@@ -19,7 +17,7 @@ In community FBA (cFBA), the exchange of metabolites between species, the
 biomass, relative fitness, and competitive ability of each species affects
 metabolic flux within the community as well as within each individual species [4-6].
 MetaFlux, a web tool developed by the Toronto iGEM Team, carries out cFBA
-between bacterial species custom-chosen by the user via a linear-programming algorithm,
+between bacterial species custom-chosen by the user via a __linear-programming algorithm__,
 and displays the results through an interactive and easily-understandable node-edge
 visualization.
 
@@ -28,8 +26,8 @@ visualization.
 MetaFlux was developed using D3.JS, a JavaScript library for creation of
 interactive networks using nodes and edges. The object of the MetaFlux web tool
 is to visualize and manipulate community level metabolic networks in the tool’s
-“extracellular view” in addition to visualizing species-specific cytoplasmic
-networks in the “cytoplasmic view”, to present flux distributions in each of these
+_“extracellular view”_ in addition to visualizing species-specific cytoplasmic
+networks in the _“cytoplasmic view”_, to present flux distributions in each of these
 views, and to present changes in flux distributions occurring from any alterations
 made to the metabolic network. Asynchronous calls to the backend optimize the
 network using an iGEM Toronto Python script, which in turn, uses COBRApy, and a

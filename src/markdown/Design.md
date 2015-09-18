@@ -6,11 +6,10 @@ The goal of our project is to sunthesize bacteria that can effectively degrade T
 * __Public engagement__ and education about our project(mentioned in community-outreach.md)
 * __A Novel bioreactor__ design that can efficiently use bacteria to degrade toluene while keeping it separate from the environment.
 
-Below is the design of our bioreactor along with it's functionality explanation.
-
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Membrane-bioreactor-2.0.png)
 
 
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/bioreactor%20updated%20design.jpg)
+Above is the diagram for the membrane bioreactor.
 
 ### Design:
 As shown in the image the middle chamber is the reaction chamber, separated into multiple shelves.	 Each shelf has a discrete colony of bacteria(shown in red) along with natural bacteria(shown in green) that originally degraded toluene in the environment. On each side of the shelves we have a 0.2 µm pore size membrane. The purpose of these membranes is to confine bacteria into each compartment. The inlets and outlets of water on each side of the shelves is guarded by automatic water shut off valves.
@@ -32,8 +31,7 @@ Our team has built a functional prototype of the bioreactor design shown above. 
 | Safety issues associated with cleaning of the bioreactor after prolonged periods of time | For the maintenance of the bioreactor, each shelf can be maintained separately while keeping the rest of the shelves working. For this reason, bioreactor does not need to be shut off for maintenance. Hence, bacteria and other compounds can be safely discarded without disrupting the flow of water | 
 
 
-
- ### Advantages over conventional bioreactor:
+### Advantages over conventional bioreactor:
  * 	__Multi-stage purification of water__ allows thorough contact between bacteria and the water. Water being purified in multiple smaller loads of water is more effective than bulk amount of water with all the bacteria in it. Bulk amount of water with bacteria requires mixing of water.
  * 	__0.2 µm pore size__ membranes allow no bacteria to escape each bacteria. Thus ensuring no bacteria enters fresh water.
  * __Better control__ – Automated gates control two way flow of water, ensuring no overflow of water in each shelf.
@@ -44,7 +42,7 @@ Our team has built a functional prototype of the bioreactor design shown above. 
   * __Direct surface contact with air__ requires no addition of oxygen, since bioreactor does not need to be sealed.
   * __Cheaper maintenance__ – Due to alternating flow of water, the life span of membranes is considerably longer, hence requiring less maintenance.
 
-### __Challenges faced and proposd solutions__:
+### Challenges faced and proposd solutions:
 |                                   Challenges                                    |                                                                                                                              Proposed Solutions                                                                                                                              |
 |:-------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Direct air contact can allow __volatile toxins__ to escape into the environment | We check the amount of toxins in water to not surpass the saturation point(by obtaining the top layer of water resting above thick cake of toxins). Hence, least amount of vapors are released in the air, which turns out to be negligible amount as per __WHO standards__. |
