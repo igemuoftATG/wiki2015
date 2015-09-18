@@ -1,5 +1,5 @@
 
-![alt text](https://commons.wikimedia.org/wiki/File:1DNA.gif#/media/File:1DNA.gif)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/2/28/1DNA.gif)
 
 # Our Team
 
