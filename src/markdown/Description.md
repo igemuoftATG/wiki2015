@@ -10,9 +10,9 @@ Tying it all together is an analysis of the best technical, economic, and social
 
 ## What is FBA and cFBA?
 
-FBA stands for flux-balance analysis.It is a tool used to study genome-scale metabolic network reconstructions. By analyzing flow of metabolites within a given network, FBA computes predicted production rate of a metabolite or the growth rate. In synthehtic biology context, this becomes usefull in assesing outcomes of a transformation in silico.
+FBA, or flux-balance analysis, is a tool used to study genome-scale metabolic network reconstructions. By analyzing flow of metabolites within a given network, FBA computes the predicted production rate of a metabolite, or the growth rate. In a synthetic biology context, this becomes useful for assessing outcomes of a transformation in silico.
 
-cFBA stands for community based flux-balance analysis. Briefly, it is the FBA in community level. cFBA enables predicting outcomes of a genetic modification in a bacterial community.
+cFBA, or community based flux-balance analysis, is FBA at the community level. cFBA allows for the prediction of a genetic modification in a bacterial community.
 
 ## Math Behind the Code
 
