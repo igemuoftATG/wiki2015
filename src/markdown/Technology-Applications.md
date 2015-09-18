@@ -47,7 +47,7 @@ The toxic water is pumped into the reaction chamber from the top. The water ente
 ### Conclusion:
 This novel design of bioreactor can confidently address the public concerns and safety issues of keeping synthetic bacteria separate from the water. Furthermore, it operates at lower cost while effectively degrading Toluene in comparison to conventional bioreactors.
 
-### Refferences:
+### References:
 * World Health Organization. Toluene in drinking water:  background document for development of WHO guidelines for drinking-water quality. 2004.
 * L. van Dijk, G.Roncken, Membrane bioreactor for wastewater treatment: the state of the art and new developments. Water Science and Technology, 1997.35:10; pg.35-41
 * Shah, Pranjul. Microfluidic bioreactors for culture of non-adherent cells
