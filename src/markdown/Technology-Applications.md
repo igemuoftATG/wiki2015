@@ -11,6 +11,7 @@ Below is the design of our bioreactor along with it's functionality explanation.
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Membrane-bioreactor-2.0.png)
 
 
+
 ### Design:
 As shown in the image the middle chamber is the reaction chamber, separated into multiple shelves.	 Each shelf has a discrete colony of bacteria(shown in red) along with natural bacteria(shown in green) that originally degraded toluene in the environment. On each side of the shelves we have a 0.2 µm pore size membrane. The purpose of these membranes is to confine bacteria into each compartment. The inlets and outlets of water on each side of the shelves is guarded by automatic water shut off valves.
 
