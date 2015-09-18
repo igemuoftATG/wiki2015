@@ -17,7 +17,35 @@ Initially the plan to approach this hyper-graph like structure was to apply a ne
 ### Computational Biology Future Applications
 This software can be applied in the future to many aspects of bacterial community studies, including numerous applications in human health and medicine. 
 Our system of community flux balance analysis (cFBA) used the specific example of optimiziation for maximal toluene degradation within the microbial system of Athabasca oil sands tailings pond water, in order to best detoxify this water to be potable to inhabitants living downstream. However, the future uses for this tool could be far-reaching in nature.  
-This system has already been used for a wide range of projects including pinpointing pathogenicity islands in strains of bacteria which can be harmful to human populations (Raman and Chandra, 2009), assessing how rice plants can be optimized to best respond to flooding (Lakshmanan et al. 2013), and achieving spatiotemporal amalgamation of overall metabolism in other crop plants (Grafahrend-Belau et al. 2013). Even more significant achievements could prevail with this technology, such as further simple analysis of gut microbiomes in patients with gastrointestinal illness. With the future of cFBA and metabolic mapping, biological and medical research will no doubt leap forward with innovation.  
+This system has already been used for a wide range of projects including pinpointing pathogenicity islands in strains of bacteria which can be harmful to human populations (Raman and Chandra, 2009), assessing how rice plants can be optimized to best respond to flooding (Lakshmanan et al. 2013), and achieving spatiotemporal amalgamation of overall metabolism in other crop plants (Grafahrend-Belau et al. 2013). Even more significant achievements could prevail with this technology, such as further simple analysis of gut microbiomes in patients with gastrointestinal illness. With the future of cFBA and metabolic mapping, biological and medical research will no doubt leap forward with innovation.
+
+## Wetlab Results
+
+### Wetlab Goals:
+
+Our main goal in this project was to increase the efficiency of toluene degradation by creating a plasmid that produces the tod E and tod F gene that are crucial steps in the toluene degradation pathway. This process required the design and assembly of a plasmid optimized for E.coli, the transformation of E.coli with the plasmid, the confirmation of protein formation and the subsequent characterization of enzymatic activity. We subsequently also aimed to incorporate the complete toluene degradation pathway in E.coli to observe the complete degradation of toluene to carbon-dioxide and water, which would essentially further verify the success of our created plasmid.
+
+### Achieved:
+Following are listed the goals we are able to accomplish
+__Plasmid design__:  
+--Add picture--[Plasmid](one I sent you before)
+
+* This was perhaps one of the most critical stages of the project since only a correctly designed plasmid would ultimately allow E.coli to successfully degrade toluene. For this purpose, we sought extensive guidance from our graduate and faculty supervisors who have had extensive experience in these areas.
+
+
+* __Plasmid creation__:  
+We were able to successfully create our plasmid by using the backbone obtained from the igem registry. This process involved continuous use of microbiology techniques to assemble each part. At the same time, we needed to verify the correct assembly of our plasmid by repeatedly using techniques like electrophoresis. This was a bit challenging given that we are creating a completely new kind of plasmid hence the standard protocols used in these experiments were not always completely effective so we had to modify our protocols to achieve the best possible results with respect to plasmid design. This did provide us with major insight regarding how standard protocols need to be modified in novel situations.
+
+* __E.coli transformation__:
+We have been able to transform E.coli with our plasmid and we have obtained colonies on antibiotic selection media which indicates that our plasmids have been transformed.
+
+### Challenges faced:
+* __Time Management__:  
+This is where we struggled the most. This year we had recruited a fresh team and each member had to be trained in biosafety. At the same time the department had several administrative procedures that took long to clear and hence we were not able to work in lab on time. This has allowed us to formulate a concrete strategy for next year, so we can make best use of our time in the lab.
+
+* __Division of labour__:  
+Due to the relative inexperience of many newer members in the lab, team leads had to take on the role of performing the tasks themselves. This disrupted the structure of the team.
+
 
 ###References: 
 Ramen and Chandra. Flux balance analysis of biological systems: Applications and challenges. *Brief Bioinform*, 10:4, pg.435-449. 2009.   
