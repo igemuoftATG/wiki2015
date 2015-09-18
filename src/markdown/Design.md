@@ -20,15 +20,6 @@ The toxic water is pumped into the reaction chamber from the top. The water ente
 ### Prototype:
 Our team has built a functional prototype of the bioreactor design shown above. We intend to demonstrate the working ability of our prototype during our presentation. However, for demonstration purposes we have chosen to not use bacteria since bacteria is not conspicous to the naked eye as well as we can not visually asses the effictiveness of the bacteria. Hence, we have decided to use beeds instead of bacteria, and wire gauze instead of 0.2 µm membranes. This would allow us to demonstarate the working ability of our bioreactor, however our prototype allows the use of bacteria and membranes in order to degrade Toluene.
 
-### Safety concerns:
-|                                     Safety concerns                                      |                                                                                                                                            Proposed Solutions                                                                                                                                            |
-|:----------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|             Introduction of synthetic organisms into the natural environment             |                                                                                                     Use of 0.2 µm pore size membranes effectively keeps all the bacteria confined inside each shelf                                                                                                      |
-|                         Public perception of synthetic organisms                         |                                                                                                                 Public outreach and educating people about our project and its viability                                                                                                                 |
-|                   How effective is membrane at confining the bacteria                    |                                                                                          Size of E-Coli on average is 0.5µm x 2µm.Hence using 0.2µm pore size membrane, ensures essentially no bacteria escapes                                                                                          |
-|                      What if some shelves fail to confine bacteria                       |                                   If one of the shelves fails to confine bacteria, the bacteria will be caught back into the next membrane in the following shelf. An extra membrane will be installed at the exit of the bioreactor, to make sure no bacteria escapes                                   |
-|                            What happens if shelves over flow                             |                                      Each shelf has its automatic water shut off mechanism which is connected to water level monitor in each shelf. If ever there is an overflow of water, the shut off valves will prevent any water from escaping the bioreactor                                       |
-| Safety issues associated with cleaning of the bioreactor after prolonged periods of time | For the maintenance of the bioreactor, each shelf can be maintained separately while keeping the rest of the shelves working. For this reason, bioreactor does not need to be shut off for maintenance. Hence, bacteria and other compounds can be safely discarded without disrupting the flow of water | 
 
 
 ### Advantages over conventional bioreactor:
@@ -59,41 +50,3 @@ This novel design of bioreactor can confidently address the public concerns and 
 * Gagliardo, P. Water reclamation with membrane bioreactors
 * Chang et al. Carbon nutrition of Escherichia coli in the mouse intestine. Proceedings of the National Academy of Sciences of the United States of America, 2004. 101:19,  pp. 7427-7432
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Design
-
-By talking about your design work on this page, there is one medal criterion
-that you can attempt to meet, and one award that you can apply for. If your team
-is going for a gold medal by building a functional prototype, you should tell us
-what you did on this page. If you are going for the [Applied Design
-award](http://2015.igem.org/Judging/Awards#SpecialPrizes), you should also
-complete this page and tell us what you did.
-
-#### Note
-
-In order to be considered for the [Best Applied Design
-award](http://2015.igem.org/Judging/Awards#SpecialPrizes) and/or the [functional
-prototype gold medal criterion](http://2015.igem.org/Judging/Awards#Medals), you
-must fill out this page.
-
-This is a prize for the team that has developed a synthetic biology product to
-solve a real world problem in the most elegant way. The students will have
-considered how well the product addresses the problem versus other potential
-solutions, how the product integrates or disrupts other products and processes,
-and how its lifecycle can more broadly impact our lives and environments in
-positive and negative ways.
-
-If you are working on art and design as your main project, please join the art
-and design track. If you are integrating art and design into the core of your
-main project, please apply for the award by completing this page.

@@ -969,3 +969,141 @@ Preparing gels: [http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2a.htm
 Assembling, loading, running gels: [http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2b.html](http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2b.html)
 
 Jove: [http://www.jove.com/science-education/5058/separating-protein-with-sds-page](http://www.jove.com/science-education/5058/separating-protein-with-sds-page)
+
+## PureLink® PCR Purification protocol
+
+*Minor changes were made to the protocol supplied with the Invitrogen PureLink® PCR Purification Kit*
+
+1. Add 4 volumes of PureLink
+®
+ Binding Buffer (B2)
+with isopropanol to
+1
+ volume of
+ the PCR product (50–100 μL).
+Mix well.  
+
+2. Remove a PureLink
+®
+ Spin Column in a Collection
+Tube from the package.  
+
+3. Add the sample with the appropriate Binding
+Buffer (from step 1 of this procedure) to the
+PureLink
+®
+ Spin Column.  
+
+4. Centrifuge the column at room temperature at
+13,000 ×
+ g
+for 1 minute.   
+
+5. Discard the flow through and place the spin
+column into the collection tube.  
+
+6. Add 650 μL of Wash Buffer with ethanol to the column.  
+
+7. Centrifuge th
+e column at
+room temperature at
+13,000 ×
+ g
+for 1 minute. Discard the flow through
+from the collection tube and place the column
+into the tube.  
+
+8. Centrifuge the column at maximum speed (15, 000 x g)at
+room temperature for 2–3
+minutes to remove any
+residual Wash Buffer. Discard the collection tube.
+
+9. Place the spin column in a clean 1.7-mL
+PureLink
+®
+ Elution Tube supplied with the kit.  
+
+10. Add 50 μL of Elution Bu
+ffer (10 mM Tris-HCl,
+pH 8.5) or sterile, distilled water (pH >7.0) to the
+center of the column.  
+
+11. Incubate the column at room temperature for
+1 minute.  Centrifuge the column at maximum speed for
+2 minutes.  
+
+12. The elution tube contains the purified PCR product.
+Remove and discard the column. Store the purified PCR product at –20°C or use
+the PCR product for the desired downstream
+application.  
+
+### References
+
+PureLink® PCR Purification protocol. From: <http://tools.thermofisher.com/content/sfs/manuals/purelink_pcr_man.pdf>
+
+## Quantum Prep Plasmid Miniprep Protocol
+
+*Minor changes were made to the protocol supplied with the Bio-Rad Quantum Prep Plasmid Miniprep Kit*
+
+All centrifugation steps are performed at maximum speed
+(12,000–14,000 x g) unless otherwise stated.
+
+1. Transfer an overnight culture (1–2 ml) of plasmid-containing
+cells to a microcentrifuge tube. Pellet the cells by centrifugation
+for 15–30 secs. If the overnight culture is larger than 2mL, centrifuge the falcon tubes at 3000g for 10 minutes and proceed. Remove all of the supernatant by pipeting.
+
+2. Add 200 μl of the cell resuspension solution and vortex until the cell pellet is completely resuspended.
+
+3. Add 250 μl of the cell lysis solution and mix by gently inverting
+the capped tube about ten times (do not vortex). The solution should become viscous and slightly clear if cell lysis has occurred.
+
+4. Add 250 μl of the neutralization solution and mix by gently
+inverting the capped tube about ten times (do not vortex). A
+visible precipitate should form.
+
+5. Pellet the cell debris for 5 mins in a microcentrifuge. (If used falcon tubes centrifuge for the same amount of time.) A
+compact white debris pellet will form along the side or at the
+bottom of the tube. The supernatant (cleared lysate) at this
+step contains the plasmid DNA.
+
+6. While waiting for the centrifugation step at step 5, insert a spin
+filter into one of the 2 ml microcentrifuge wash tubes supplied
+with the kit. Mix the Quantum Prep matrix by vortexing or
+repeated shaking and inversion of the bottle to insure that it is
+completely suspended.
+
+7. Transfer the cleared lysate (supernatant) from step 5 to a spin
+filter. Split the total volume (700uL) into two, adding 350uL of lysate into each filter. Add 100 μl of thoroughly suspended Quantum Prep
+matrix to each, then pipet up and down to mix. If you have multiple
+samples, transfer the lysates first, then add matrix and mix.
+When matrix has been added to all samples and mixed,
+centrifuge for 30 secs.
+
+8. Remove the spin filter from the 2 ml tube, discard the filtrate at
+the bottom of the tube, and replace the spin filter in the same
+tube. Add 250 μl of wash buffer and wash the matrix by
+centrifugation for 30 seconds.
+
+9. Remove the spin filter from the 2 ml tube, discard the filtrate
+at the bottom of the tube and replace the spin filter in the
+same tube. Add 250 μl of wash buffer and wash the matrix
+by centrifugation for a full
+2 mins
+ to remove residual traces
+of ethanol.
+
+10. Remove the spin filter and discard the microcentrifuge tube. Place
+the spin filter in one of the 1.5 ml collection tubes supplied with
+the kit or in any standard 1.5 ml microcentrifuge tube that will
+accomodate the spin filter. Add 50 μl of nuclease free H
+2
+O or TE.
+Elute the DNA by centrifugation for 1 min at top speed.
+
+
+11. Discard the spin filter and store the eluted DNA at -20°. Make sure to label properly.
+
+### References
+
+Bio-Rad Quantum Prep Plasmid Miniprep Kit Instruction Manual. From: <http://www.bio-rad.com/webroot/web/pdf/lsr/literature/MS4100066F.pdf>
+

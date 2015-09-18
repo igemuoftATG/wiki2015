@@ -8,7 +8,6 @@ Our TechnoMoral Scenarios aim to explore the soft impacts of our technology - th
 ## Scenario One: 
 
 Natural scientists seek to understand natural reality by observing the parts that make it up separately. However, to fully understand human reality, individuals must examine the larger structures they are a part of. Individuals often develop an instinctual sense of others’ self by observing, using the individual's five senses, the signals provided by others’ behavior (Blackmore, 1999). Preference is developed as the quantity of signals between selves increases (Zajonc, 2001). Akin to the development of sensory memory, two “I”s learn each other and develop certain kinds of patterned relationships such as bonds (friendship, marriage), ranks (hierarchy, order), competitions (sport, market), and contracts (employment, fife) (Fiske, 1991). These patterned relations are the micro foundation of society, and serve specific functions in organizations, such as the family, community, and workplace, which form the meso level of society. In turn, organizations group to form more complex macro organizations - families group into tribes or ethnicities, communities group into cultures, and workplaces group into firms (Dopfer et al., 2004). Analogous to our genetically engineered bacterium, the three level of social relationship may be thought of as separate functional parts in the large cell we call “society”. We explored the effect our synthetically engineered bacterium may have on these different levels of society, by developing a hypothetical scenario to match each of the three level.
- 
 	
 >	I am the mother of all things green that grow from the soil of this land. I have been reborn onto these lands, bringing fertile life and reclaiming these lakes of blackened ooze. Lakes that seeped from deep within earth and stone onto the surface of green and blue. I have seen time come and time not pass, time mired in stand still seconds, standing stiller in years and decades into eternities. Memories washed upon memories, memories primordial in the slumbering forests, memories etching itself into existence from the stirring present.  
 >	In the waking dawn of this once crimson land, I remember my birth bed a palette of rose petals blossoming overhead while the shifting red sands crept over land. As the cool winds mend the fiery red into a burning black, from burning black to cold dull earth.  Soon the earth turned to green when I took form, like the creatures who would come to live upon land I was not given a choice on whether I should come to be. Neither an origin I have known nor a purpose for what I am, only stark and naked existence.  
@@ -18,8 +17,11 @@ Natural scientists seek to understand natural reality by observing the parts tha
 >	Those who wear the feathers of the sky upon their heads, had long ago entered into my domain. They who have heard my voice echo and offered only their ears. Who hold reverence for both time that passes and time that does not, folding themselves into the fabric, the layers of these lands. Heeding to my own warnings, to neither disturb the cycles of life and death, of the timeless essence that governs this land. I have seen them come and go, as is the fate of all creatures born into time.  
 >  Oh these waterfalls that now dot these lands, nesting creatures invisible to the eyes of man. Like a fountain of life, they breath upon the murky blue, letting shimmer again the deep blue lakes. These creatures I cannot come to understand, with mastery over life that the spirits have command. Like the movement of the clouds, or the shining of the sun, their intentions neither good nor bad. Only to their ends do they serve, to not disturb the cycles that will harbinger their end. And now I can reclaim these lands once again, in unison with my eternal companion, the spirits of clouds that overhang. Bear to existence offspring of our union, the seeds of these lands, the forests immaculate shall once again stand.  
  
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Indigenous%20art%201.jpg)
- 
+ ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Bay%20of%20the%20Brown%20Beaver.jpg)  
+ Traditional Anishnaabe artwork, "Bay of the Brown Beaver" from the Mountain Series Art Collection,
+Acrylic on Canvas, 24"x32", ©1985 James A. Simon. MISHIBINIJIMA.
+
+
 ## Scenario Two:
 
 **insert corporate presentation here**
@@ -45,6 +47,7 @@ Natural scientists seek to understand natural reality by observing the parts tha
 > S: But we will not forget our culture. Change is modification, not deletion. We will continue to guard our land as zealously as you have. With the new technologies of the settlers, we will form new traditions to reflect our changing world. This is still OUR land!  
 > F: And it will always be...  
 
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Indigenous%20art%201.jpg)
 
 ## References in order of appearance:  
 Smit, W., & Oost, E. (1999). De wederzijdse beïnvloeding van technologie en maatschappij: Een Technology Assessment-benadering. Bussum: Coutinho.
