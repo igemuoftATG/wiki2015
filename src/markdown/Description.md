@@ -1,6 +1,8 @@
-# METAFLUX
+# ConsortiaFlux
 
-In nature, it is hard to find one strain of bacteria in an isolated region. Bacteria exist in communities called microbiome. In synthetic biology, although one strain of bacteria is used for experiments, targetted application area generally is a microbiome. This requires experiments to be conducted at application site or creation of pseudo microbiomes. There is a need for a tool that can predict effect of a synthetically engineered bacteria within a microbiome. We created a tool called Metaflux that can be used to compute community level flux-balance analysis. This tool allows users to visualize predicted effects of addition of a synthetically engineered bacteria into a defined microbiome. Additionally, we generated a detailed framework for the application of synthetically engineered bacteria in bioremediation efforts. To demonstrate the applicability of our framework, we focused on using genetically modified E.coli to remediate toluene in Albertan tailing ponds, to provide a concrete example of how this framework can be applied. Lastly, we conducted further analysis of how to choose the best application method, with respect to the technical, economic, and social aspects of the technology’s application.
+Within nature, it is practically impossible to find a single bacterial species on its own. This is because bacteria exist in communities called a microbiome. However, in synthetic biology, a single strain is often grown independently in a laboratory setting for the intended use in a natural environment. Experimentally, this would require the creation of an isolated microbiome or a simulation of one.
+
+We created a tool called Metaflux that can be used to compute community level flux-balance analysis. This tool allows users to visualize predicted effects of addition of a synthetically engineered bacteria into a defined microbiome. Additionally, we generated a detailed framework for the application of synthetically engineered bacteria in bioremediation efforts. To demonstrate the applicability of our framework, we focused on using genetically modified E.coli to remediate toluene in Albertan tailing ponds, to provide a concrete example of how this framework can be applied. Lastly, we conducted further analysis of how to choose the best application method, with respect to the technical, economic, and social aspects of the technology’s application.
 
 ## What is FBA and cFBA?
 
@@ -17,7 +19,7 @@ FBA calcultes the flow of metabolites at steady state in which mass balance is n
                                                 Boundaries   lowerbound<v<upperbound
 
 (Insert Image: FBA_diagram.jpg)
-Taken from: 
+Taken from:
 Title:What is flux balance analysis?
 Author:Jeffrey D Orth, Ines Thiele, Bernhard Ø Palsson
 Publication:Nature Biotechnology
