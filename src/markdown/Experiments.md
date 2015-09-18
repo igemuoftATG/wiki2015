@@ -969,3 +969,74 @@ Preparing gels: [http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2a.htm
 Assembling, loading, running gels: [http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2b.html](http://www.ruf.rice.edu/~bioslabs/studies/sds-page/gellab2b.html)
 
 Jove: [http://www.jove.com/science-education/5058/separating-protein-with-sds-page](http://www.jove.com/science-education/5058/separating-protein-with-sds-page)
+
+## PureLink® PCR Purification protocol
+
+*Minor changes were made to the protocol supplied with the Invitrogen PureLink® PCR Purification Kit*
+
+1. Add 4 volumes of PureLink
+®
+ Binding Buffer (B2)
+with isopropanol to
+1
+ volume of
+ the PCR product (50–100 μL).
+Mix well.  
+
+2. Remove a PureLink
+®
+ Spin Column in a Collection
+Tube from the package.  
+
+3. Add the sample with the appropriate Binding
+Buffer (from step 1 of this procedure) to the
+PureLink
+®
+ Spin Column.  
+
+4. Centrifuge the column at room temperature at
+10,000 ×
+ g
+for 1 minute.   
+
+5. Discard the flow through and place the spin
+column into the collection tube.  
+
+6. Add 650 μL of Wash Buffer with ethanol to the column.  
+
+7. Centrifuge th
+e column at
+room temperature at
+10,000 ×
+ g
+for 1 minute. Discard the flow through
+from the collection tube and place the column
+into the tube.  
+
+8. Centrifuge the column at maximum speed at
+room temperature for 2–3
+minutes to remove any
+residual Wash Buffer. Discard the collection tube.
+
+9. Place the spin column in a clean 1.7-mL
+PureLink
+®
+ Elution Tube supplied with the kit.  
+
+10. Add 50 μL of Elution Bu
+ffer (10 mM Tris-HCl,
+pH 8.5) or sterile, distilled water (pH >7.0) to the
+center of the column.  
+
+11. Incubate the column at room temperature for
+1 minute.  Centrifuge the column at maximum speed for
+2 minutes.  
+
+12. The elution tube contains the purified PCR product.
+Remove and discard the column. Store the purified PCR product at –20°C or use
+the PCR product for the desired downstream
+application.  
+
+### References
+
+PureLink® PCR Purification protocol. From: <http://tools.thermofisher.com/content/sfs/manuals/purelink_pcr_man.pdf>
