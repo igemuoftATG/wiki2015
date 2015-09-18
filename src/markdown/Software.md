@@ -5,22 +5,22 @@
 
 Whether they be in dirt, in water, in the air, on skin or in the gut, bacteria
 generally occur in communities. In microbial communities, the survival of all
-species are interdependent due to the biochemical and behavioral activities of
-one species that provide the necessary metabolites and living environment for
+species are interdependent; the biochemical and behavioral activities of
+one species provides the necessary metabolites and living environment for
 another [1]. Many approaches have been developed for predicting flux
 distributions in the metabolic network of one species using flux balance
 analysis (FBA) in order to optimize for biomass or product formation [2,3]. Flux
 balance analysis has been used for a variety of applications, including drug
 target identification by evaluation of gene essentiality, knowledge-gap filling
 of metabolic models and metabolic engineering of E. coli for lycopene synthesis
-[4-6]. However, algorithms to perform FBA at a community level have been few and
-complicated (often using non-linear programming and very difficult to solve);
-since in community FBA (cFBA), the exchange of metabolites between species, the
-biomass, relative fitness and competitive ability of each species affect
-metabolic flux within the community and within each individual species [4-6].
+[4-6]. However, algorithms to perform FBA at a community level have been rare and
+complex (often using non-linear programming and presenting high difficulty for solvers).
+In community FBA (cFBA), the exchange of metabolites between species, the
+biomass, relative fitness, and competitive ability of each species affects
+metabolic flux within the community as well as within each individual species [4-6].
 MetaFlux, a web tool developed by the Toronto iGEM Team, carries out cFBA
-between user custom-chosen bacterial species with a linear-programming algorithm
-and displays the results by an interactive and easily-understandable node-edge
+between bacterial species custom-chosen by the user via a linear-programming algorithm,
+and displays the results through an interactive and easily-understandable node-edge
 visualization.
 
 ### Web Application: Framework of the MetaFlux Interface
@@ -29,10 +29,10 @@ MetaFlux was developed using D3.JS, a JavaScript library for creation of
 interactive networks using nodes and edges. The object of the MetaFlux web tool
 is to visualize and manipulate community level metabolic networks in the tool’s
 “extracellular view” in addition to visualizing species-specific cytoplasmic
-networks in the “cytoplasmic view”, to see flux distributions in each of these
-views, and to see changes in flux distributions occurring from any alterations
+networks in the “cytoplasmic view”, to present flux distributions in each of these
+views, and to present changes in flux distributions occurring from any alterations
 made to the metabolic network. Asynchronous calls to the backend optimize the
-network using an iGEM Toronto Python script which in turn, uses COBRApy, a
+network using an iGEM Toronto Python script, which in turn, uses COBRApy, and a
 constraint-based modeling package was used to model metabolic networks from
 metabolic models in the form of SBML (Synthetic Biology Markup Language) XML
 data.
@@ -43,36 +43,36 @@ The SBML (Systems Biology Markup Language) and XML (Extension Markup Language) w
 
 ### Algorithm
 
-Firstly, we create metabolic models, in SBML file format, for each individual
-species that are present in the community. Each metabolic model is tailored to
-contain extra external metabolites and reactions that are contributed from other
+Firstly, we create metabolic models in SBML file format for each individual
+species that are present in the community. Each metabolic model is tailored for
+content, and include external metabolites and reactions contributed from other
 species in the community. Thus, the extracellular space of each metabolic model
-is unique to each individual species despite the fact that all members belong to
+is unique to each individual species, despite the fact that all members belong to
 the same community. After the creation of individual metabolic models, we use
-COBRApy to optimize for each model’s biomass objective function and subsequently
+COBRApy to optimize for each model's biomass objective function, and subsequently
 store the solutions in text files. Using the solutions, we calculate and store
 the averages and standard deviations for all shared reactions in the community
-in a new text file. With this, we change the upper and lower bounds, of each
-reaction of all the species’ models, to the average flux value plus two standard
-deviations and the average flux value minus two standard deviations
-respectively. With new constraints on shared reactions, we perform flux balance
-analysis again iteratively for each model with COBRApy, again optimizing for
-each respective biomass objective function. We then store each flux value
-returned by the objective function of each species in another new text file. We
-take the flux values and calculate z-scores compared to each other. Fractional
-biomass coefficients will be calculated for each species by taking their
-respective z-score and diving over the sum of z-scores for all species and will
-be stored in another text file. The sum of all fractional biomass coefficient
-should equal to one. Lastly, a community metabolic model will be created where
-species are treated as just additional compartments. However, the constraints in
-the model and/or variables in the objective function for this community model
-will be weighed by their respective fractional biomass coefficients depending on
+in a new text file. Following this, we change the upper bound and lower bound of each
+reaction of all the species’ models to the average flux value plus two standard
+deviations and the average flux value minus two standard deviations,
+respectively. With our new constraints on shared reactions, we perform flux balance
+analysis iteratively for each model with COBRApy once again, optimizing for
+each respective biomass objective function. We then store each of the flux values
+returned by the objective function for each species in a new text file. We
+take the flux values and calculate standardized z-scores by comparing all values. Fractional
+biomass coefficients are then calculated for each species by taking each species'
+respective z-score and diving by the sum of the z-scores for all species; these values 
+will also be stored in a new text file. (The sum of all fractional biomass coefficients
+should be equal to one.) Lastly, a community metabolic model will be created where
+species are treated as if they were the metabolic compartments of a community 'organism'.
+Further, the constraints in the model and/or variables in the objective function for the
+community model will be weighed by their respective fractional biomass coefficients, depending on
 which species the constraint or variable belongs to. Constraints and/or
 variables for reactions that are shared between species will be weighed as the
-sum of the fractional biomass coefficients for the species involved. The final
-step is to then use COBRApy to optimize for the community biomass objective
-function, which is defined as the weighed summation of biomass objective
-functions of all species. The resultant vector of fluxes is predicted to be
+sum of the fractional biomass coefficients for the species involved. In our final step,
+COBRApy will be used to optimize for the community biomass objective
+function, which is defined as the weighed summation of the biomass objective
+functions of all species. The resulting vector of fluxes is expected to be
 representative of real-world experimental data.  
 
 ### Web Application: User Interaction
@@ -80,7 +80,7 @@ representative of real-world experimental data.
 With MetaFlux, the user has the ability to choose to display the extracellular
 metabolic network of one species, the extracellular metabolic network of
 multiple species, the cytoplasmic-periplasmic metabolic network of a single
-species, or a certain metabolic pathway within one species. The visualization
+species, or a specific metabolic pathway within one species. The visualization
 will include small circular nodes to represent metabolites, hexagonal nodes to
 display reactions, big circular nodes to represent species and arrows to define
 a particular pathway between the nodes. The user has the ability to add in
