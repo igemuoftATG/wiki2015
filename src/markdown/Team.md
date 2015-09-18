@@ -7,11 +7,17 @@
 Cathy Su is a third year Biological Physics specialist. She has worked with iGEM since 2013, when the team received its first Gold medal at the Jamboree for their project "A Systems Biology Approach to Biofilm Engineering".
 As President for 2015 Cathy has helped organize the Bio-hackathon and Design Competition resulting in a record high level of student engagement in the summer research team. For her the best part of being involved with iGEM is the chance to work together with driven peers.
 
+![alt text]
+
 #### Anthony Zhao - Bioinformatics Team Lead  
 Anthony has just finished the 3rd year of his undergraduate degree, majoring in Immunology and Neuroscience. He is involved with the research community at Toronto and wishes to pursue a career in medicine. Anthony has a myriad of interests. He actively keeps up with novel technologies, cutting-edge research, and current events in politics and the economy. As a leader, Anthony strives to motivate, teach and guide the team to success.
 
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Anthony.jpg)
+
 #### Julian Mazzitelli - Bioinformatics Team Lead  
 Julian is a 3rd year bioinformatics student, and a dry lab team lead for the summer 2015 iGEM U of T team. Julian has always been interested in the success and proper functioning of the iGEM club and team. His interests in web development and computational biology have lead to a strong commitment for this summer's dry lab project, as well as a drive to teach others along the way.
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Julian.jpg)
 
 #### Ghazal Haddad - Bioinformatics Team  
 Ghazal is a second year student studying Molecular Genetics and Immunology at the University of Toronto. She is thrilled to have had to opportunity to be part of the Computational Biology and Bioinformatics team at iGEM Toronto and to have had the chance to work alongside and learn from the aspiring scientists and brilliant computer programmers of the team. Other than anything science-related, she enjoys dancing, reading, being involved with theater,
@@ -27,7 +33,7 @@ Albert is a third year Computer Science student minoring in mathematics, with a 
 #### Mark Wang - Bioinformatics Team  
 Mark is a second year student studying Molecular Genetics at the University of Toronto. He is, as he put it, fortunate enough to meet and work alongside other dry lab team members, who are passionate about computational biology and motivated to finish the project. He is amazed at how computer can be used to model and analyze biological data. He is also equally passionate about photography in his free time.
 
-![alt text]()
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/mark.jpg)
 
 #### Seray Çiçek - Wet Lab Team Lead  
 Seray is a third year Engineering Science- Biomedical Systems Option student. As a wet lab team lead of Toronto iGEM 2015, she played a major role in the project design by bringing in an engineering perspective. Her goal for the summer is to help her team have the best research experience. She is interested in turning synthetic biology research into feasible applications.
