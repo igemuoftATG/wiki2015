@@ -77,19 +77,19 @@ representative of real-world experimental data.
 
 ### Web Application: User Interaction
 
-With MetaFlux, the user has the ability to choose to display the extracellular
+With MetaFlux, users have the ability to choose between viewing displays of the extracellular
 metabolic network of one species, the extracellular metabolic network of
 multiple species, the cytoplasmic-periplasmic metabolic network of a single
 species, or a specific metabolic pathway within one species. The visualization
-will include small circular nodes to represent metabolites, hexagonal nodes to
-display reactions, big circular nodes to represent species and arrows to define
-a particular pathway between the nodes. The user has the ability to add in
-pathways (metabolites and reactions) and remove pathways either from the web
-tool’s available data or based on their own experimentally-collected data. FBA
-calculations and optimizations will occur on the backend and display the results
-on the network as visually distinguishable changes in the thickness of the
-arrows. The user also has the capability of zooming into the network and
-repositioning the networks and its subparts by mouse-dragging. Finally, the user
+will include small circular nodes that represent metabolites, hexagonal nodes that
+display reactions, big circular nodes that represent species, and arrows to define
+a particular pathway between the nodes. Users have the ability to add in
+pathways (metabolites and reactions) and remove pathways either from data provided by our web
+tool or based on outside sources of experimental data. FBA
+calculations and optimizations will occur on the backend and results will be displayed
+on the network as visually discernable changes in the thickness of the
+arrows. Users can also zoom into the network and
+reposition the network and its subparts via mouse-dragging. Finally, users
 will have the option of storing the experiment and the settings for each
 optimization for future use.
 
