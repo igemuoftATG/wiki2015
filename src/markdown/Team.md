@@ -79,6 +79,9 @@ Joanna is entering her 4th year of study as a Biology specialist, major in Envir
 #### Dawood Cheema - Bioreactor Prototype Design
 
 #### Christine Byrd - Wet Lab, Policy and Practices Team  
+Christine has entered her second year in Human Biology and Cell and Molecular Biology majors as well as a minor in Immunology. Creative writing is one of her passions and has won her awards in the past, but in her senior year Christine found a passion for research and biology. The University Health Network and Toronto District School Board Co-op Education Partnership awarded the Community of Learners Award for her charismatic and keen attitude to gain the most out of her Co-op position at Toronto General Hospital in 2014. Christine has since gained confidence in her lab skills as well as teambuilding efforts through iGEM.
+
+![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Christine%201.jpg)
 
 #### Aïda Liman Tinguiri - Lab Manager  
 Aïda is going into her fourth year of Biochemistry at the University of Toronto. She was awarded the Fraser Craw- ford Scholarship. She is responsible for reviewing the team's scientific proposal and coordinating member's con- tributions. Likewise, she will function as part of a trio of lab managers to ensure compliance to safety regulation, ad- herence to schedules and progression along the Gantt chart. She is passionate about research in general and particularly excited to be part of a student-led project.
