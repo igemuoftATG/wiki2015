@@ -31,7 +31,7 @@ Our team has built a functional prototype of the bioreactor design shown above. 
 | Safety issues associated with cleaning of the bioreactor after prolonged periods of time | For the maintenance of the bioreactor, each shelf can be maintained separately while keeping the rest of the shelves working. For this reason, bioreactor does not need to be shut off for maintenance. Hence, bacteria and other compounds can be safely discarded without disrupting the flow of water | 
 
 
-### ___Advantages over conventional bioreactor___:
+### Advantages over conventional bioreactor:
  * 	__Multi-stage purification of water__ allows thorough contact between bacteria and the water. Water being purified in multiple smaller loads of water is more effective than bulk amount of water with all the bacteria in it. Bulk amount of water with bacteria requires mixing of water.
  * 	__0.2 µm pore size__ membranes allow no bacteria to escape each bacteria. Thus ensuring no bacteria enters fresh water.
  * __Better control__ – Automated gates control two way flow of water, ensuring no overflow of water in each shelf.
@@ -42,7 +42,7 @@ Our team has built a functional prototype of the bioreactor design shown above. 
   * __Direct surface contact with air__ requires no addition of oxygen, since bioreactor does not need to be sealed.
   * __Cheaper maintenance__ – Due to alternating flow of water, the life span of membranes is considerably longer, hence requiring less maintenance.
 
-### __Challenges faced and proposd solutions__:
+### Challenges faced and proposd solutions:
 |                                   Challenges                                    |                                                                                                                              Proposed Solutions                                                                                                                              |
 |:-------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Direct air contact can allow __volatile toxins__ to escape into the environment | We check the amount of toxins in water to not surpass the saturation point(by obtaining the top layer of water resting above thick cake of toxins). Hence, least amount of vapors are released in the air, which turns out to be negligible amount as per __WHO standards__. |
