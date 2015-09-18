@@ -18,7 +18,7 @@ Ghazal is a second year student studying Molecular Genetics and Immunology at th
 and learning foreign languages.
 
 <p class="image-wrapper">
-{image "Albert.jpg" directlink mode}
+{image Albert.jpg directlink mode}
 </p> 
 
 #### Albert Cui - Bioinformatics Team
