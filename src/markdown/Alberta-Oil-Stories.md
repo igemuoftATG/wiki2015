@@ -2,8 +2,6 @@
 
 Our research team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. In exploring the social and environmental connections of our project, particularly how our tool can be applied to bioremediation of Oil Sands tailings pond water in Alberta, we wanted to hear views directly from the most impacted people. The frontline communities dealing with issues of clean water accessibility in the area of Alberta's oil industry are largely indigenous communities who have experienced marginalization and injustice as a result of poor regulations. In August, our Policy and Practices team members went to Alberta to hear the stories of these communities. 
 
-![alt text](http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg)
-
 
 ### Keepers of the Water Conference
 
@@ -41,8 +39,6 @@ The part of the meeting that really resonated most with many of us was when Read
 Water has been continually depleting in the rivers at an alarming rate to meet the requirements of water consumption in order to extract oil from sub earthen oil reserves. After being used in the process of extraction, this water mixed with toxic compounds is left in the form of a __thick dark liquid in tailings ponds__. No effective water reclamation techniques have been in effect so far, despite regulations from the government. Since, the oil industries have not played a crucial role in water and land reclamation, the responsibility falls onto the government to restore the water and land. When we talk about government being responsible for this job, we really are talking about money out of the pockets of taxpayers to clean up the mess that they had nothing to do with. If we take a moment to consider this, it seems likely that the oil extraction industry which was supposed to be building the economy will soon lead us under huge environmental stress, destroying nature, and any effort to restore this will have to be paid by people who didn’t choose this upon themseleves.
 
 He acknowledged that technology like ours which is cheap and effective can not only reclaim the tailings water, but also lessen the stress of increasing depletion of water in Albertan rivers. However, as of now there has been considerably low amount of tailings water that has actually been reclaimed.
-
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Indigenous%20art%201.jpg)
 
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/KOTW%20poster%20p%2Bp.png)
 
