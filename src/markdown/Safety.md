@@ -8,7 +8,10 @@ The major safety concern in use of synthetic biology is it's exposure to the nat
 * Synthtic bacteria would compete with pre-existing species, which can potentially lead to extinction of native species
 
 ### Propositions for addressingsafety concerns
+* We have devaloped a software - __Community Flux Balance Analysis__ - to model different metabolic pathways and interspecies interactions within a community. This would allow us to predict the symbiotic relationships between different species present in the community.
+* We have designed a membrane bioreactor which confines bacteria into certain chamber while affectively degrading Toluene. The primary purpose of this bioreactor is to keep synthtic bacteria entirely sparate from the environment. This would allow us to use our bacteria effectively to degrade Toluene and not worry about the environmental threats it may pose. However, in order to apply our software we have to mimic the natural environment in each compartment of the bioreactor. This can be easily achieved by allowing naturally occuring bacteria to exist in each compartment.
 
+### Further details of safety concerns and solutions
 
 
 
