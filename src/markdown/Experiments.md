@@ -995,7 +995,7 @@ PureLink
  Spin Column.  
 
 4. Centrifuge the column at room temperature at
-10,000 ×
+13,000 ×
  g
 for 1 minute.   
 
@@ -1007,13 +1007,13 @@ column into the collection tube.
 7. Centrifuge th
 e column at
 room temperature at
-10,000 ×
+13,000 ×
  g
 for 1 minute. Discard the flow through
 from the collection tube and place the column
 into the tube.  
 
-8. Centrifuge the column at maximum speed at
+8. Centrifuge the column at maximum speed (15, 000 x g)at
 room temperature for 2–3
 minutes to remove any
 residual Wash Buffer. Discard the collection tube.
