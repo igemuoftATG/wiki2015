@@ -8,7 +8,7 @@ Cathy Su is a third year Biological Physics specialist. She has worked with iGEM
 As President for 2015 Cathy has helped organize the Bio-hackathon and Design Competition resulting in a record high level of student engagement in the summer research team. For her the best part of being involved with iGEM is the chance to work together with driven peers.
 
 <p class="image-wrapper">
-{{image "cathy.jpg" directlink mode}}
+{{image "Cathy.jpg" directlink mode}}
 </p>
 
 #### Anthony Zhao - Bioinformatics Team Lead  
