@@ -1,5 +1,5 @@
 
-![alt text](https://commons.wikimedia.org/wiki/Category:DNA_animations#/media/File:1DNA.gif)
+![alt text](https://commons.wikimedia.org/wiki/File:1DNA.gif#/media/File:1DNA.gif)
 
 # Our Team
 
@@ -116,8 +116,8 @@ Joller Wang	- Dry Lab
 Albert Xie - Dry Lab  
 Albert Cui - Dry Lab
 Eric Jadidzadeh - Dry Lab  
-Julian Song*	- Dry Lab  
-Justin Song* -	Dry Lab  
+Julian Song	- Dry Lab  
+Justin Song -	Dry Lab  
 Waleed Khan -	Wet Lab & Dry Lab  
 Derrick Chan	- Wet Lab  
 Michael Dao	- Wet Lab  
@@ -129,7 +129,7 @@ Nirali Patel	- Wet Lab
 Drupad Rajyaguru - Wet Lab & P&P  
 Urvashi Rathod	- Wet Lab  
 Vivian Zhou	- Wet Lab  
-Tina Huang*	- Wet Lab  
+Tina Huang - Wet Lab  
 Helena Lim	- P&P  
 
 ![alt text](http://i.giphy.com/uHV4veFjX22Pu.gif)
