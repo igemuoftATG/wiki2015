@@ -49,3 +49,4 @@ This novel design of bioreactor can confidently address the public concerns and 
 * Montseny, Emmanuel. Control of fed-batch bioreactors models by means of dynamic time-scale transformation and operatorial parametrization
 * Gagliardo, P. Water reclamation with membrane bioreactors
 * Chang et al. Carbon nutrition of Escherichia coli in the mouse intestine. Proceedings of the National Academy of Sciences of the United States of America, 2004. 101:19,  pp. 7427-7432
+

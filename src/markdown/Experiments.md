@@ -1107,3 +1107,318 @@ Elute the DNA by centrifugation for 1 min at top speed.
 
 Bio-Rad Quantum Prep Plasmid Miniprep Kit Instruction Manual. From: <http://www.bio-rad.com/webroot/web/pdf/lsr/literature/MS4100066F.pdf>
 
+## PCR-Based RDP Parts Creation Protocol
+*Written by Synbiota*
+
+### Introduction
+This protocol describes how to create RDP parts larger than 100bp using PCR. To create parts <100bp in length, refer to the Oligo-Based RDP Parts Creation Protocol.
+
+### Buffers, Reagents and Consumables
+
+**Supplied**
+ * GeneRuler DNA Ladder Mix (Thermo Scientific)
+ * TE Buffer
+ * LM (Load Mix)
+
+**Not supplied**
+ * Phusion® High-Fidelity DNA Polymerase and its associated 5x HF buffer
+ * dNTP mix (10mm)
+ * Forward and reverse PCR primers for your RDP part
+ * Qiagen Quick cleanup PCR spin-columns and reagents (PB and PE buffers)
+ * TAE stock buffer (Tris-Acetate-EDTA @ 2M ) in deionized H<sub>2</sub>O
+ * Agarose
+ * DNA stain (SYBR Green or RED Safe)
+
+### PCR Amplification
+**Important:** The following protocol has been optimized using Phusion® DNA polymerase. **We strongly recommend you use Phusion polymerase for this protocol.**
+
+1. Primer Preparation
+
+    Upon receipt of your RDP part primers, briefly centrifuge each tube to bring the solid material to the tube bottom. Resuspend each primer to a final concentration of 25nm/mL (25μM) in TE buffer using the formula:
+
+    **Resuspension volume (&#956;L) = nm (from supplier label) x 40**
+
+    Vortex at maximum setting for 10 seconds, let stand 10 min then repeat twice. Briefly centrifuge and freeze until needed.
+
+    **Note:** Keep track of your PCR primers, since you may be able to use some of them to sequence RDP parts in assembled circuits. Store frozen.
+
+2. Template preparation
+
+    If the starting template for the final RDP part is contained within a circular vector such as a plasmid, then linearize it by choosing an appropriate restriction endonuclease whose site is located in the vector backbone but not within the part sequence. PCR amplification from a linear template increases the final yield of the PCR product while reducing the level of lowerband contaminants.
+
+   Since the PCR reaction uses 2μL of template @10ng/μL, digest 100ng of DNA in a final volume of 10μL. Add 2μL of the digest to the PCR reaction just prior to amplification as described below.
+
+3. Reaction setup
+
+    The parts creation protocol requires a minimum of 5μg of PCR product that should be easily obtained from a 100μL reaction as described below:
+
+    Keep all reagents on ice. Using a 0.2mL PCR tube, combine in the following order:
+    * 2&#956;L forward primer
+    * 2&#956;L reverse primer
+    * 20&#956;L 5x HF Buffer
+    * dNTPs (@10mM)
+    * 65&#956;L H<sub>2</sub>O
+    * 2&#956;L template
+    * 1&#956;L Phusion polymerase (@2u/μL)
+
+    Mix the reaction by pipetting up and down gently to avoid bubbles. Centrifuge (pulse) briefly. Then keep on ice until amplification.
+
+4. PCR Amplification
+
+   Amplify using the cycling program shown below:
+
+    1. Intitial denaturation at 98C for 30s
+    2. Denaturation at 98C for 10s
+    3. Annealing at 64C for 45s
+    4. Extension at 72C for 30s/1kb (determined by multiplying the length of the template (in kilobases) by 30s)
+    5. Repeat steps 2-4 for 25 cycles
+    6. Final extension at 72C for 10min
+    7. Hold at 4C
+
+5. Cleanup
+
+    Use the standard Qiagen spin-column cleanup procedure (or equivalent), noting the procedural modifications described below. **Do not** use the spin columns provided with the RDP kit. They have a special cleanup role following the BsaI digestion step.
+ * When the Qiagen PB buffer mix is added to the column, let stand one minute before centrifuging (or filtration if using a vacuum manifold).
+ * Following the Qiagen PE buffer wash step, elute the DNA from the column into a 1.5mL microfuge tube using 50μL TE buffer, then repeat with a second 50 μL elution into the same collection tube yielding a final volume of ~85-90μL.
+
+6. Determining the quality and quantity of the PCR Product
+
+    For a more accurate measure, use a NanoDrop spectrophotometer. Use 2 μL of the recovered sample. Remember to zero the instrument using the same TE buffer that was used to elute your sample.
+
+    If a NanoDrop spectrophotometer is not available, use the procedure below.
+
+    **Product size and purity**
+ * For products with an expected size of 0.2-10 kb, set up a 1% agarose gel using a 1:50 dilution of 50x TAE stock buffer (Tris-Acetate-EDTA @ 2M ) in deionized H<sub>2</sub>O for both the gel and running buffer.
+ * To prepare a gel sample of your PCR product, add 1μL of the DNA to 9μL of load mix (LM).
+
+    **Note:** In order to minimize the interference of dyes with subsequent band quantification, only bromophenol blue has been included at considerably lower than standard concentrations to mitigate the masking of bands in the 300-600 bp range. Store remainder of PCR product at 4C
+ * Selecting two of the most central wells of the gel, load 10μL of the provided DNA markers (ladder) and the full 10μL sample prepared in step ii) above. A gel figure of the DNA ladder, including band sizes and amounts (ng) is provided below.
+ * Following electrophoresis, stain the gel for 15 min with ethidium bromide, SYBR Green, or RED Safe, using whichever method is standard to your lab.
+
+    **Note:** A high quality PCR product will yield a bright band of the expected size, with only faint traces of unspecific product contaminants. If the product band has an intensity that is at least as intense as the 500 bp,1000 bp, or 3000 bp ladder bands (60 ng/band; select the one that is closest to your product size for comparison), then the PCR yield is at least 60 μg/μL, an acceptable concentration for further steps. If not, then more PCR reactions may be required.
+
+### References
+
+Protocol obtained from Synbiota: <https://synbiota.com/beta>
+
+## BsaI Digestion Protocol
+*Written by Synbiota*
+
+### INTRODUCTION
+
+The purpose of BsaI Digestion Protocol is to create RDP parts larger than 100bp using PCR. If you desire to create less than <100bp in length, refer to the Olgio-Based RDP Parts Creation Protocol
+
+### SAFETY PRECAUTIONS
+
+**SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
+prepared to answer any questions regarding the information on these sheets.
+
+**PPE (Personal protective equipment)**: Proper lab attire should be worn throughout the experiment: This
+means that upon entering the lab you should be wearing long pants and close-toed shoes. Contact
+lenses should not be worn. Furthermore, a lab coat, goggles, and gloves should be worn at all times,
+and long hair should be tied back.
+
+**Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
+may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
+
+### REAGENTS
+
+* GeneRuler DNA LAdder Mix (Thermo Scientific)
+* TE Buffer
+* LM (Load Mix)
+* BasI-HF restriction endonuclease with accompanying 10x CutSmart Buffer
+* TAE stock buffer (Tris-Acetate-EDTA @ 2M) in deionized H<sub>2</sub>O
+* Agarose powder
+* DNA strain (e.g., ethidium bromide, SYBR Green or RED Safe)
+* Cleaned up PCR product of RDP part DNA
+* Qiagen Quick cleanup PCR reagents (PB and PE buffers)
+
+### MATERIALS
+
+* Synbiota micro spin-columns
+* Qiagen Quick cleanup PCR spin-columns
+
+### LAB PROTOCOL
+
+Part 1: BsaI Digestion
+
+1. Add 10&#956;L of NEB CutSmart Buffer and 2&#956;L of BsaI-HF (40 units) to cleaned up DNA
+2. Mix and centrifuge briefly to pull down any splashes and eliminate any surface bubbles
+3. Incubate at 37<sup>o</sup>C for 1-4 hours
+
+Part 2: DNA Cleanup
+
+This is for inactivating and removing BsaI and the small flanking fragments that are released on cleavage
+
+1. Add 0.5mL of DNA binding buffer (e.g., Qiagen PB) and vortex
+2. Place a Synbiota spin column into a 1.5mL microfuge tube, then load the entire sample and let stand for one minute.
+3. Centrifuge for 1 minute at 14K rpm then discard the flow-through
+4. Add 200&#956;l of was buffer (e.g., Qiagen PE) to column
+5. Centrifuge for 1 minute at 14K RPM, then discard flow-through
+6. Repeat wash step and discard flow-through
+7. Place column into a clean microfuge tube and add 100&#956;L of Elution Buffer (e.g., Qiagen EB). Let stand for 1 minute then centrifuge for 1 minute at 14K rpm. **DO NOT DISCARD THE COLUMN. It can be reused for steps 8 and 9**
+8. Repeats steps 1 to 3 by adding 0.5mL of PB to the DNA eluted in steps 7
+9. For the final elution step, add 25&#956;L of TE buffer to column and let stand for 1 minute then centrifuge for 1 minute. Repeat the elution with another 25&#956;L collected in same tube
+
+Part 3: Measuring and adjusting the part concentration
+
+In the RDP assembly protocol, PCR parts are used at a concentration of 0.04 pm/&#956;L per reaction, for a total of 0.2pm in 5&#956;L. Concentrations of 0.02pm will work but doubling the ligation time is advised. Concentrations greater than 0.04pm pose no problem and may be advantageous. However, adding more means less sample for subsequent builds.
+
+1. If have access to Nano Drop or equivalent, first determine the concnetrations of your part in ng/&#956;L using 2&#956;L of recovered sample. Zero the instrument using the same TE buffer that was used to elute your sample
+2. Determine the remaining volume of your sample
+3. To convert the concentrations of your part from ng/&#956;L to pm/&#956;L (pm/&#956;L<sub>Part</sub>), use the very close approximation: 1pm/&#956;L = 670 ng/&#956;L divided by the length of the part (kb)
+4. If the concnetrations significantly exceeds 0.04pm/&#956;L, then adjust the recovered volume of your sample (&#956;L<sub>recovered</sub>) with TE buffer using the formula below:
+
+      Add vol (&#956;L) = [25 x pm/&#956;L<sub>Part</sub> x &#956;L<sub>recovered</sub>] - &#956;L<sub>recovered</sub>
+
+    An alternative method to calculations is a gel-based method and can be used to approximate a workable concentrations as described below:
+
+5. Set up an agarose gel as described above, and prepare a gel sample of the digested DNA, add 1&#956;L of DNA to 9&#956;L of load mix (LM)
+6. Load the entire sample into a centrally located well
+7. Load 10&#956;L of DNA ladder to one side of your sample and 15&#956;L to other side
+8. Following electrophoresis, photograph the gel at lowest possible exposure where all bands remain visible but where gel background appears as dark as possible
+9. To determine the minimum concentrations of your sample, compare your product band to the nearest sized ladder band in either or both ladder lanes that has an intensity that is closest or lower than yours
+
+    NOTE: For the 10&#956;L load, all bands correspond to 20ng of DNA except for the 500, 1000 and 3000 bp bands, which correspond to 60ng. For the 15&#956;L load, all abnds are 30ng of DNA except for the 500, 1000 and 3000 bp bands which are at 90ng.
+
+10. The value that you decidde on represents the minimum concentration of your sample expressed as &#956;g/&#956;L
+11. Use formula described in step (3) to convert the concentrations to pm/&#956;L
+12. If minimum concentration of your sample significantly exceeds 0.04 pm/&#956;L then dilute it as described in a section step (4)
+13. Store the remaining RDP Part DNA at ~4<sup>o</sup>C and remember to centrifuge it briefly before each use
+
+Part 4: Part Validation
+
+To determine how well your park works in RDP assembly, incorporate your part into a simple RDP assembly that begins with an Anchor part and ends with a Cap part.
+
+If your part is in the X-Y' format:
+* Start with **dA<sub>20</sub>-ChlrR-X'**
+* Finish with **Z-Ori.3-dT<sub>20</sub>**
+
+If your part is in the Z-X' format:
+* Start with **dA<sub>20</sub>-ChlrR-Z'**
+* Finish with **X-Ori.3-dT<sub>20</sub>**
+
+### LEAVING THE LAB
+
+Prior to leaving the lab, you should:
+
+1. Clean dirty glassware, or at least set aside the glassware to be cleaned by a designated individual.
+2. Wipe down your workspace.
+3. Ensure that all materials have been returned to their places, and that the plates have been properly
+stored in the fridge.
+
+### REFERENCES
+
+Protocol obtained from Synbiota: <https://synbiota.com/beta>
+
+## Protocol for Synbiota RDP Assembly
+*Written by Synbiota*
+
+### Preparation
+1. Obtain and refigerate the following buffers:
+ * RDP Wash Buffer (10mL)
+ * RDP Elution buffer (10mL)
+ * RDP Storage buffer (10mL)       
+
+ **Important:** all liquid reagents stored refrigerated in microcentrifuge tubes will evaporate overtime and condense on the lid. All microcentrifuge tubes should be pulsed down and mixed just prior to use.
+
+2. Identify the RDP parts you need from the iGEM kit plate.
+
+    Based on your design, detrmine the RDP parts you need from the kit.
+
+    **Important:** If your assembly has more than 5 RDP parts, include the X-blockers (Blk-X) and Z-blockers (Blk-Z). They aren't required as part of the circuit, but are needed for the assembly protocol as described further below.
+
+3. To ensure you resuspend the correct wells, use a Sharpie or lab marker to draw a ring around the upper lip of each selected well
+
+4. Resuspend RDP parts in high-grade H<sub>2</sub>O.
+Use the table provided for resuspension volumes.
+
+    For all “non-anchor” parts, there is a purple or yellow pellet of varying size and intensity at the bottom of each well. This is an indicator dye to show that the sample is present. Gently suspend the pellet by pipetting up and down a few times until the solution appears uniformly pink.
+
+    Anchor parts are provided pre-bound to the magnetic beads and appear as a dark brown/black pellet in dried form. Resuspension (as above) will result in an opaque brown solution that will settle over time. Make sure the mixture is well mixed just prior to each use.
+
+5. Store RDP parts
+
+    Transfer each resuspended part to a microfuge tube that has been clearly labelled (screw-capped tubes are preferred since they minimize evaporation).
+
+    **Refrigerate until needed. Secure the lid tightly on the plate and store refrigerated.**
+
+6. Prepare the ligase solution just prior to use and store on ice.
+
+    Each coupling reaction uses 5 μL of T4 DNA ligase at a final concentration of 0.2 Weiss units/μL in 1x ligase buffer. To calculate the volume (in μL) of ligase required, multiply the number of ligation steps in your build by 5 and prepare accordingly. NOTE: ThermoFisher ligase uses Weiss units NEB and Invitrogen use cohesive end units. 1 Weiss unit= ~70 CE units.
+
+### RDP Assembly protocol
+
+**NOTE:** Before beginning, briefly centrifuge all parts and solutions contained in microfuge tubes and mix thoroughly. Tubes that have sat in the fridge for a while will evaporate and condense liquid up at the cap. This step restores the original volume and concentration of the sample.
+
+1. Consult the circuit design. Post a copy of your RDP circuit design so you know the right order of assembly.
+
+2.  Arrange your RDP parts. Put your DNA tubes in the right order.
+
+3. Begin the assembly by gently mixing the bead-anchor stock solution by pipetting it slowly up and down (avoiding bubbles) until homogenous.
+This method minimizes the splashes of other more vigourous methods that strand droplets up the side of the tube.
+
+4. Immediately transfer 5 μL of the mixture to a 1.5 mL microfuge tube.
+
+5. Add RDP Wash buffer (WB). Add 50 μL of RDP Wash buffer and mix as above. Pulse the liquid down briefly in a low speed microfuge.
+
+6. Place the tube in a magnet cradle and wait for the solution to clear, by allowing the beads to collect on the tube wall next to the magnet.
+Wait 20-30 seconds until the solution fully clears.
+
+7. Remove and discard liquid.
+Place the pipette tip at the bottom of the tube at the opposite side from the bead pellet. Remove all liquid, including any droplets on side of tube and discard.
+
+8. Perform a second wash by repeating steps 5-7.
+
+9. Add first RDP part and ligation master mix.
+Add 5 μL of the first part in your design to the bead pellet, then add 5 μL of the ligation master mix. Mix gently as described above taking care to avoid splashing.
+
+10. Incubate for 8 minutes at room temperature.
+
+11. Add 5&#956;L of the appropriate Blocker to the existing reaction:
+ * Blk-X, if you just added an X-Z’ part.
+ * Blk-Z, if you just added a Z-X’ part.
+
+     **NOTE:** Adding the wrong Blocker will kill the assembly.
+
+12. Mix gently and incubate an additional 2 minutes.
+13. Repeat steps 3 through 8.
+
+14. Mark off the coupled part on your circuit diagram.
+On your sketch, cross off the part you just coupled so you can keep track of what step you are on.
+
+15. Repeat steps 9 through 14 for each remaining part, finishing with the Cap.
+
+16. Resuspend the bead pellet in 20 μL of RDP Elution buffer (EB).
+
+17. Place in magnet cradle. Let stand 5 minutes, and pull down the magnetic bead.
+
+18. Extract the assembled DNA. With a pipette, extract the supernatant containing the assembled DNA.
+
+19. Add RDP Storage buffer. Add 20 μL of storage buffer to neutralize the sample for transformation and gel analysis.
+
+
+### Follow up steps
+
+**Gel analysis:**
+Gel analysis is a fast way of assessing the efficiency of the assembly and the yield of the product. For a good build the major gel band should also be the longest with a size corresponding to the predicted length of your design. Typically a 1% agarose gel will resolve fragments up to 10 kb. Even if the desired product is not the major band, don’t give up! The preponderance of smaller bands should be inactive and will therefore be under represented amongst in the total colony count.
+
+**Cell Transformation:**
+In our hands, builds up to 8 parts routinely yield hundreds of colonies using chemically competent cells. Use the cell type and transformation procedure your lab feels comfortable with, but keep in mind that the more ambitious your build becomes, the fewer colonies you will get. In these situations you may want to consider using a high-efficiency transformation protocol.
+
+**Miniprep Analysis:**
+The number of minipreps that are required to identify correct constructions will depend upon the number of parts used in the assembly (accuracy drops fractionally with the number of parts added). At Synbiota, we can generally achieve >80% accuracy with an 8-part assembly (including Anchor + Cap). For assemblies up to 8 parts, plan on doing 4-6 minipreps to be on the safe side.
+
+The final construct will contain BsaI sites within the Anchor and Cap parts that will precisely excise the circuit at X’ or Z’ ends that begin the circuit and the X or Z ends that complete the circuit. Cutting 100-200 ng of miniprep DNA will therefore result in a fragment that corresponds exactly to the size predicted by your design, and a fragment that corresponds to the plasmid backbone that will range in size from 2.2-2.5 kb, depending the Anchors and Caps chosen for the assembly. Include an uncut control lane on the gel to be sure the enzyme has cut efficiently and to avoid confusion in interpreting band identities.
+
+**DNA Sequencing:**
+Parts produced by PCR from the high-fidelity thermostable polymerases Phusion and Pfu, introduce errors at a frequency that is less, but close to physiological (Phusion: ~5x10-7 Pfu: ~1x10-6), therefore circuit errors that are contained within parts that have been derived by PCR will be extremely rare. For parts that have been chemically synthesized, the error frequency is considerably higher (~1x10-3) but since the total amount of synthetic DNA used in any given assembly is small, the likely hood of achieving an error-free construct is high. Nonetheless prudent researchers will always determine the DNA sequence of a circuit design either before functional testing or after discovering that something about the design is not working.
+
+Complete sequence coverage of parts or circuits that are <1000 bp can typically be achieved using the BBa RFC-10 forward primer, BBa_G00100 (5’- tgccacctgacgtctaagaa) and its reverse counterpart, BBa_G00101 (5’- attaccgcctttgagtgagc).
+
+The forward primer is located in all of the Cap parts provided, and is situated 184 bp upstream of the BsaI site. The reverse primer is only present in the high-copy Anchors, and is situated 168 bp downstream of the BsaI site*. For longer parts and circuits, the additional forward and reverse primers required for complete sequence coverage can be automatically generated using the RDP sequencing primer design software tool.
+
+### References
+
+Protocol obtained from Synbiota: <https://synbiota.com/beta>
+
