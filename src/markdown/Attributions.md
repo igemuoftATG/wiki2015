@@ -4,7 +4,7 @@
 
 
 ## Fundraising Donations
-The following organizations have donated to help us raise a total of $21,000 for our research:  
+The following organizations have donated to help us raise a total of $22,000 for our research:  
 
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/immu.jpg)
 
