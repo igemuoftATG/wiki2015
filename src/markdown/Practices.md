@@ -4,7 +4,7 @@ The Human Policy and Practices team of Toronto iGEM has worked alongside the Wet
 
 We decided to focus on the applications possible in the Athabasca Oil Sands in Alberta, Canda. Specifically, our aim is to show a viable method of toxin degradation and bioremediation within the very toxic Oil Sands tailings ponds, using synthetic biology tools.   
 
-The Human Policy and Practices team at the University of Toronto demonstrates community outreach and public relations regarding the ethical considerations of introducing our genetically engineered machine into the environment and how it effects the surrounding communities. There are four major streams of our P&P team: 
+The Human Policy and Practices team at the University of Toronto demonstrates community outreach and public relations regarding the ethical considerations of introducing our genetically engineered machine into the environment and how it effects the surrounding communities. There are four major streams of our P&P team:   
 1. Community Outreach  
 2. Technology Applications  
 3. Alberta Oil Stories - National Outreach  
