@@ -188,7 +188,7 @@ may still be hot and should therefore be handled with caution. Be careful not to
 * 2.5g Yeast extract
 * 0.584 g NaCl
 * 0.093g KCl
-* _____g MgCl2 (anhydrous)
+* 1.016g MgCl2 (anhydrous)
 * 1.234g MgSO4 .7H20
 * 500ml of dH20 (distilled water)
 
@@ -211,7 +211,7 @@ may still be hot and should therefore be handled with caution. Be careful not to
 prevent contamination and enable long term storage.
 2. Obtain a graduated cylinder with 500ml of dH20 (distilled water).
 3. Using filter paper, separately measure out 10g tryptone, 2.5g yeast extract, 0.292g NaCl, 0.093g
-KCl, _____g MgCl2 anhydrate, 1.234g MgSO4, heptahydrate. on a scale and add them to the 1L bottle.
+KCl, 1.016g MgCl2 anhydrate, 1.234g MgSO4, heptahydrate. on a scale and add them to the 1L bottle.
 Add 400mL dH20. Swirl the flask in a circular motion to mix. Remember to recalibrate your scales in
 between measurements.
 4. In the separate bottle, and measure out 1.802g glucose on a scale and add the rest of the 100mL
@@ -237,7 +237,7 @@ to prevent burns. After autoclaving, allow the media too cool to 55oC before han
 *This part should be done in room WB303, in sterile conditions close to a bunsen burner.*
 
 6. In a sterile environment, slowly add the autoclaved 1.802g glucose and dH20 to the beaker
-containing the autoclaved _____g MgCl2 and 1.234g MgSO4, 10g tryptone, 2.5g yeast extract, 0.292g
+containing the autoclaved 1.016g MgCl2 and 1.234g MgSO4, 10g tryptone, 2.5g yeast extract, 0.292g
 NaCl, 0.093g Kcl and dH20. Flame the lip of the bottle before transferring the contents. Swirl to mix,
 and seal tightly to prevent contamination. Flame the cap before sealing.
 7. The SOC broth can be stored in sterile conditions at room temperature, and should be good for a 3-4
