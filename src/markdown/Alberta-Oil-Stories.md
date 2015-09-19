@@ -21,7 +21,11 @@ The leader of Treaty 8 First Nations of Alberta also asked us to follow up with 
 ## University of Alberta Collaborations
 On our first day in Alberta(August 25, 2015), we met professors at __University of Alberta__ who are currently doing research on land reclamation of __Oil Sands Tailings Ponds__.We were honoured to acquire his deep insight about the liquid tailings ponds. The adverse effects of tailings ponds how they have affected our land, air and water are well-known facts. The major issue we come across when talking about oil sands tailings pond is their density. Tailings water is thick dark liquid filled primarily with organic toxins. The thickness of the liquid makes it hard to use and reclaim as clean water. 
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/dr-thundat-and-dawood.jpg)
+
+<p class="image-wrapper">
+{{image "dr-thundat-and-dawood.jpg" directlink mode}}
+</p>
+
 
 Above picture shows __Dr. Thundat__ explaining his work with tailings water.
 
@@ -54,15 +58,27 @@ It was a grand worksite with not many people out on foot, but arduously working 
 According to the Alberta Energy Regulators, the Directive 074, which outlines “Tailings Performance Criteria and Requirements for Oil Sands Mining Schemes” and was approved by the Energy Resources Conservation Board in 2009, has still been suspended. The last time it was reviewed was on March 13, 2015 and still nothing has been done to reclaim these tailings ponds. Suncor, among other oil companies fall under the list of oil companies that did not reach their goals of land reclamation back in 2009.  As told to us by our Suncor Oil Sands Tour Guide, Suncor hopes to reclaim all tailings ponds within the next ten years - an improvement on their previous goal of 50 years. We hope that more innovative ideas, such as our cost-effective membrane bioreactor, can be created and put into use to help oil companies, such as Suncor, reach this goal and reverse some of the environmental destruction seen as a result of the oil sands industry!
 
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/KOTW%20poster%20p%2Bp.png)
+<p class="image-wrapper">
+{{image "KOTW poster p+p.png" directlink mode}}
+</p>
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Screen%20Shot%202015-08-27%20at%2011.15.50%20PM.jpg)
+<p class="image-wrapper">
+{{image "Screen Shot 2015-08-27 at 11.15.50 PM.jpg" directlink mode}}
+</p>
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Sam%20gargon%20and%20P%2Bp.JPG)
+<p class="image-wrapper">
+{{image "Sam gargon and P+p.JPG" directlink mode}}
+</p>
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/crude%20oil.JPG)
+<p class="image-wrapper">
+{{image "crude oil.JPG" directlink mode}}
+</p>
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/joanna%20and%20oil%20pump.JPG)
+<p class="image-wrapper">
+{{image "joanna and oil pump.JPG" directlink mode}}
+</p>
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Oil%20pumps.JPG)
+<p class="image-wrapper">
+{{image "Oil pumps.JPG" directlink mode}}
+</p>
 
