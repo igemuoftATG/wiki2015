@@ -25,7 +25,7 @@ The major safety concern in use of synthetic biology is it's exposure to the nat
 ## Goal
 As an undergraduate research team, University of Toronto iGEM 2015 has spent a considerable amount of time and effort to ensure the safe and responsible realization of our 2015 summer project.
 Given the ethical and scientific challenges to degrade BTEX compounds like toluene, iGEM Toronto, in collaboration with the University of Toronto and the Biozone Centre for Applied Bioscience and Bioengineering, has taken several measures throughout the project in terms of:
-1. Responsible project design
+- Responsible project design
 - Laboratory safety
 
 ## Responsible project design
