@@ -1,4 +1,4 @@
-# Bioreactor Design
+# Membrane Bioreactor  
 We are working on creation of a synthetic bacteria which can efficiently degrade toluene. At the same time we are aware of the safety concerns and public perception of the potential for introduction of synthetic organisms into the environment.
 
  We have tried to address this issue in two ways:
