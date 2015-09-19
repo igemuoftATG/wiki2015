@@ -1,3 +1,16 @@
+#TodE BioBrick (
+
+Designed biobrick is a composite part that contains a TetO promoter, RBS optimized by using Salis RBS caluclator and codon optimized todE gene for E.Coli. TodE gene is part of a tod operon found in Pseudomonas Putida F1 species. It plays a major role in degradation of toluene. Specifically, todE degrades 3-methylcatechol, a highly toxic intermediate into HOD. In pseudomonas putida species, HOD is aerobically metabolized through TCA cycle. Theoretically, a E.Coli MG1655 type bacteria containing todC1C2BADEF genes can degrade toluene through TCA cycle by using its own native enzymes.
+
+This part is ordered in gene blocks and ligated by using Gibson Assembly. The design have been performed by
+* Part Name
+* Part type
+* Creator
+* Sequence
+* Short Description (60 characters on what the DNA does)
+* Long Description (Longer description of what the DNA does)
+* Design considerations
+
 ## Part Documentation
 
 Each team will make new parts during iGEM and will submit them to the Registry
