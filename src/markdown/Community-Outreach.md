@@ -14,19 +14,6 @@ The purpose of this 4-day summer camp was to educate students about previous and
 
 Sandra Dworatzek, Senior Manager at SiREM Labs, a bioremediation lab in Guelph, Ontario gave us greater insight in the bioremediation industry. Their KB-1® and KB-1 Plus® bioaugmentation cultures aid in the remediation of chlorinated solvents and other unwanted compounds. Efficiency of their anaerobic reactors depends on various factors, common with the success of our aerobic bioreactor: controlling the environment’s pH, oxygen concentration, substrate concentration etc. Currently, SiREM Labs does not have a flux-balance analysis tool to help predict the amount of bacterial culture needed to help remediate the site. If a computational tool, such as our “ConsortiaFlux" were to be put into place, this could help expedite their planning process being that they would be able to see the potential degradation of waste for an x amount of their KB-1® culture.  
 
-### iGEM Experience Videos
-With the ongoing trend of media, we have created a series of videos chronicling events for the duration of the summer. One titled _“A Day in the Life of an iGEMer”_ which is a video that records the daily activities of an iGEM student, from working in the lab to attending meetings and trips they attend to the professionals they speak with. This not only informs the public about all aspects of our project but also allows the public to see exactly what a day in the life looks like. 
+### Alberta Oil Stories Blog
 
----iGEMExperienceVideo.mp4---
-
-The second video is an academic video with interviews and insights from academic professionals and Aboriginal leaders on their opinions of introducing the genetically engineered organism into the oil sands tailings. This video provides a glimpse into what the individuals in the Athabascan and surrounding Albertan communities think and their opinions on our current project design. 
-
-Notable speakers include: 
-- Professor Thomas Thundat, Chemical and Material Sciences, Research Chair in Oil Sands Molecular Engineering
-- Professor Mohtada Sadrzadeh, Mechanical Engineering
-- Sam Gargon Former Grand Chief of DehCho First Nation, and co-chair of the Keepers of the Water board
-- Andrew Read, Pembina Institute Analyst
-
----AlbertaVideo.mp4---
-
-The major themes our Human Policy & Practices team will focus on is: Public engagement, product design, education, environmental impact, ethics, safety/security, laws and regulation and risk assessment.
+In order to engage a broader community on the worldwide web, we created a blog of our experiences in Alberta learning about the Oil Sands Industry. More information about the blog can be found on the Alberta Oil Stories page. The blog can be accessed at: https://albertaoilstories.wordpress.com/

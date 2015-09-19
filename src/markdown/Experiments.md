@@ -188,7 +188,7 @@ may still be hot and should therefore be handled with caution. Be careful not to
 * 2.5g Yeast extract
 * 0.584 g NaCl
 * 0.093g KCl
-* _____g MgCl2 (anhydrous)
+* 1.016g MgCl2 (anhydrous)
 * 1.234g MgSO4 .7H20
 * 500ml of dH20 (distilled water)
 
@@ -211,7 +211,7 @@ may still be hot and should therefore be handled with caution. Be careful not to
 prevent contamination and enable long term storage.
 2. Obtain a graduated cylinder with 500ml of dH20 (distilled water).
 3. Using filter paper, separately measure out 10g tryptone, 2.5g yeast extract, 0.292g NaCl, 0.093g
-KCl, _____g MgCl2 anhydrate, 1.234g MgSO4, heptahydrate. on a scale and add them to the 1L bottle.
+KCl, 1.016g MgCl2 anhydrate, 1.234g MgSO4, heptahydrate. on a scale and add them to the 1L bottle.
 Add 400mL dH20. Swirl the flask in a circular motion to mix. Remember to recalibrate your scales in
 between measurements.
 4. In the separate bottle, and measure out 1.802g glucose on a scale and add the rest of the 100mL
@@ -237,7 +237,7 @@ to prevent burns. After autoclaving, allow the media too cool to 55oC before han
 *This part should be done in room WB303, in sterile conditions close to a bunsen burner.*
 
 6. In a sterile environment, slowly add the autoclaved 1.802g glucose and dH20 to the beaker
-containing the autoclaved _____g MgCl2 and 1.234g MgSO4, 10g tryptone, 2.5g yeast extract, 0.292g
+containing the autoclaved 1.016g MgCl2 and 1.234g MgSO4, 10g tryptone, 2.5g yeast extract, 0.292g
 NaCl, 0.093g Kcl and dH20. Flame the lip of the bottle before transferring the contents. Swirl to mix,
 and seal tightly to prevent contamination. Flame the cap before sealing.
 7. The SOC broth can be stored in sterile conditions at room temperature, and should be good for a 3-4
@@ -404,7 +404,7 @@ Recipe for King's B medium. Received from Maggie Middleton, Lab technician at th
 Lab.
 
 # Antibiotic Stock Preparation
-_Written by Dr. Tim Lee_
+_Written by Tim Lee_
 
 ### **Background**
 
@@ -1421,4 +1421,100 @@ The forward primer is located in all of the Cap parts provided, and is situated 
 ### References
 
 Protocol obtained from Synbiota: <https://synbiota.com/beta>
+
+## Ligase Cycling Reaction Protocol
+*Modified from a protocol written by Naveen Venayak*
+
+### SAFETY PRECAUTIONS
+
+**SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
+prepared to answer any questions regarding the information on these sheets.
+
+**PPE (Personal protective equipment)**: Proper lab attire should be worn throughout the experiment: This
+means that upon entering the lab you should be wearing long pants and close-toed shoes. Contact
+lenses should not be worn. Furthermore, a lab coat, goggles, and gloves should be worn at all times,
+and long hair should be tied back.
+
+**Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
+may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
+
+### REAGENTS
+
+* ~15&#956;L DNA Parts
+* 1.5&#956;M Bridging Olgios
+* 3&#956;L Ampligase Buffer
+* 1.5&#956;L Ampligase
+* 2.25&#956;L Betaine
+* 4&#956;L DMSO
+* 26&#956;L Nuclease free water
+* 1&#956;L ATP
+* 1&#956;L T4 Polynucleotide Kinase
+
+### MATERIALS
+
+* Thermal Cycler
+
+### LAB PROTOCOL
+
+Part 1: Primer Design
+
+1. Design primers to amplify fragments and if required, add any additional features
+2. Bridging olgios designed with a 70<sup>o</sup>C melting temperature
+3. Inserts were designed with UNS sequences (unique nucleotide sequences) for primer design. Sequences provided by Naveen Venayak.
+
+
+Part 2: DNA Phosphorylation
+
+1. Prepare 20&#956;L mix containing:
+ * 100fmol of each purified DNA fragment
+ * 5mM ATP
+ * 10U T4 polynucleotide kinase in 1x Ampligase thermostable DNA ligase reactions buffer
+2. Incubate at 37<sup>o</sup>C for 1 hour to phosphorylate 5' ends
+3. Incubate 65<sup>o</sup>C for 20min to inactivate enzymes
+
+Part 3: Ligase Cycling Reaction
+
+1. Prepare master mix with:
+
+|         Component          |                     Volume                     |
+|:--------------------------:|:----------------------------------------------:|
+|         DNA parts          |                   15&#956;L                    |
+| 1.5&#956;M Bridging olgios |                0.5&#956;L each                 |
+|   Ampligase buffer (10x)   |                    1&#956;L                    |
+|  Ampligase (50U/&#956;L)   |                   1.5&#956;L                   |
+|         5M Betaine         |                      2.25                      |
+|            DMSO            |                    2&#956;L                    |
+|           Water            | To 25&#956;L (4.75 - 0.5 * # of linker olgios) |
+
+2. Make master mix with:
+ * Ampligase Buffer (10&#956;l)
+ * DMSO (20&#956;L)
+ * 5M Betaine (22.5&#956;L)
+ * Total = 52.5 or 5.25&#956;L
+3. Set-up and running thermal cycler with these settings:
+ * 94<sup>o</sup>C for 2 min
+ * 94<sup>o</sup>C for 10 sec
+ * 55<sup>o</sup>C for 30 sec
+ * 66<sup>o</sup>C for 60 sec
+ * Go to 2, 49 times
+ * Hold 4<sup>o</sup>C forever
+
+Part 4: Transformation
+
+1. Chemically competent cells sufficed for <8 pieces
+2. Screen ~2 resulting colonies
+
+### LEAVING THE LAB
+
+Prior to leaving the lab, you should:
+
+1. Clean dirty glassware, or at least set aside the glassware to be cleaned by a designated individual.
+2. Wipe down your workspace.
+3. Ensure that all materials have been returned to their places, and that the plates have been properly
+stored in the fridge.
+
+### REFERENCES
+
+Protocol provided by Naveen Venayak
+
 

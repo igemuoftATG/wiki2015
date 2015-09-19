@@ -4,7 +4,51 @@ Our research team operates at the University of Toronto on the traditional lands
 
 The main purpose of our exploration in Alberta's Athabasca watershed was to understand water management within the Oil Sands, and how such management affects the communities living downstream of industry and potential pollutants.  Throughout our research trip in Alberta, we kept a detailed blog of our experiences, in order to engage the wider public in both synthetic biology and environmental health. The goal of our blog was to provide a platform to share the stories of water-based interactions from those on the front lines of the Oil Sands industry – often these are First Nations communities, who are fighting for their right to a healthy environment through free, prior and informed consent of what developments are allowed on their lands.
 
+The blog can be found here: https://albertaoilstories.wordpress.com/
+
 ## Keepers of the Water Conference
+#### **"Money cannot be eaten, and we cannot drink oil!"**
+
+We were honoured to be invited to present our project and applications at the Keepers of the Water Conference in Bushe River, Alberta, hosted by the Dene Tha' and Beaver Cree First Nations. 
+
+### Day 1: 
+
+> As we arrived at the Keepers of the Water Gathering, we were truly shocked by the welcoming we received from the generous and hospitable Dene Tha First Nation, who are the host community this year.
+
+> The day begins with friendship, and first to make our acquaintance is former Grand Chief of Dehcho Nation, Sam Gagnon. He smiles as he welcomes us to the gathering and warmly begins to tell us about Dehcho traditional knowledge in all subjects, ranging from childcare to spirituality. Sam’s stories of his life and traditional knowledge protocols of his Nation were truly enlightening for us, and invaluable in understanding the way of life that First Nations wish to preserve.
+
+> The variety of presentations at the Gathering later in the day served to link this desire to preserve traditional knowledge to the need to preserve the land and water of the First Nations people. For example, a recurring theme was the necessity of traditional hunting and trapping as a way of life. This lifestyle will no longer be afforded to indigenous peoples, or at least will be significantly more difficult in the near future, due to habitat destruction and low water levels as a result of industry use, such as in the oil sands processing. The preservation of this way of life, of these lands, and of the water which flows through them, is incredibly important for many reasons. The First Nations people have legal rights to this land and specifically legal rights to hunt and trap food on this land indefinitely, and their rights have been infringed upon and disrespected by these non-consented developments.
+
+> During the Gathering there was an open mic time for all to come up and share from their heart how the watershed impacts their lives and the lives of their relations and ancestors before them, and listening to their stories was truly moving. The watersheds of the Athabasca, related tributaries, and other trans-boundary sources, are such an important and sacred part of everyday life for those in communities that live off the land.
+
+> Of course, all of us should treat water and its life-giving properties more respect in our everyday lives as well, and really think about what it means to have clean water. One elder from Cold Lake Dene, Nancy, told us “Every time you have a drink of water, you should pour a little out on the land to thank the Earth.” Indeed this is the kind of sanctity of water that our team will make every effort to hold to, both personally and within our water purification project.
+
+> The ability of our project to effectively clean the 77 square-kilometers of tailings pond water that already exists in Alberta would mean such hope, not only to the community members we were able to meet with, but also to the health of the watershed for their animals, relations, and future generations. Our project could mean an incredible amount of water being added back to the water system of Alberta, and after hearing the passionate pleas of the communities living at the forefront, producing this product to the greatest efficiency possible is our most important goal.
+
+<p class="image-wrapper">
+{{image "KOTW poster p+p.png" directlink mode}}
+</p>
+
+### Day 2: 
+> As the Keepers of the Water Gathering IX in High Level comes to a close, we are filled with reflection on our short and intense time with the Dene Tha’ First Nation. The amount of information we have received about the state of the Athabasca watershed, and the people and animals who rely on it for life, is incredible and overwhelming.
+
+> Team member Joanna Dowdell stated "As a researcher in this project, I knew that what we are trying to do in tailings water purification could have very positive outcomes for people in the Athabasca region of Alberta as a whole. However, I was unprepared for the weight of responsibility and deep connection I would feel with the project after spending three days with the marginalized frontline communities living in the fight for clean water, and understanding what hope our project can offer in these disrupted areas."
+
+> As Nancy, the elder from Cold Lake First Nation, eloquently stated in response to the growing industrial development affecting her area of watershed, **“Money can’t be eaten, and we cannot drink oil!”** 
+
+<p class="image-wrapper">
+{{image "Screen Shot 2015-08-27 at 11.15.50 PM.jpg" directlink mode}}
+</p>
+
+> Just before we left High Level and the Dene Tha, Nancy was kind enough to sit with us around the burning bonfire and perform a water prayer from her Nation’s traditional knowledge. The prayer was beautiful and heartfelt and I watched in awe as tears ran down her face while she prayed for the Creator to bring a solutions to the problems of the watershed. She paused only when a young baby in the group began to cry, at which point she stated a separate prayer that all the children of the group would live their lives in a world with clean water overflowing as it used to be.
+
+> These experiences will stay with us, not just for the period of this project, but for our entire lives, as we continue on our journeys as indigenous allies who understand that allyship is a verb and must be taken on with respect for the responsibility that it entails.
+
+> iGEM researcher Joanna Dowdell was fortunate enough to be asked to join their board executive, which she gratefully accepted. We look forward to continuing with water purification research to aid watershed recovery in every way that we can, while remaining committed to justice advocacy through these networks.
+
+<p class="image-wrapper">
+{{image "Sam gargon and P+p.JPG" directlink mode}}
+</p>
  
 ##### Direct Discussions:  
 "I had to move to Fort McMurray, Alberta to find a job, and I worked in the oil sands industry. I never liked it, my dad and grandparents would call me and tell me they had no clean water and fewer and fewer animals to hunt locally, and I knew it was a result of the industry I worked in. After a while, I was laid off due to budget cuts and I moved back to the Dene Tha' land in High Level, Alberta. It's been difficult trying to find a job here without the oil industry, but honestly I'm still happier not working for them. I know what they're doing to our land. For me, it would be great to be able to be employed by something that is solving these problems." 
@@ -49,24 +93,11 @@ Two iGEM Human Policy and Practices members, Christine Byrd and Gargi Ghosh went
 
 It was a grand worksite with not many people out on foot, but arduously working inside of the various buildings, laboratory or operating their massive equipment. Our tour bus made a brief stop at one of Suncor’s tailings ponds. Through the glass of our bus’s window, we observed this large, vast pond of still black sludge that was lined with bright orange scarecrows to avoid birds from landing into the toxic tailings. The alarming sound of a cannon firing was also used as a bird protection mechanism. Afterwards, our bus made a stop at Wapisiw Lookout, Suncor’s first reclaimed site in 2011. Here we were allowed to step off of the bus and roam the once mined earth. Now it is a rather dusty space, with a small pond and shallow vegetation. Although Wapisiw will not return to the once flatland it used to be, a variety of shrubs and small trees were planted and the ground was covered with oats and barley to attract the nearby wildlife. Overall , a job well done.
 
-**PICTURE OF CHRISTINE IN FRONT OF TAILING POND**
 
 #### Regulated Remediation
 
 According to the Alberta Energy Regulators, the Directive 074, which outlines “Tailings Performance Criteria and Requirements for Oil Sands Mining Schemes” and was approved by the Energy Resources Conservation Board in 2009, has still been suspended. The last time it was reviewed was on March 13, 2015 and still nothing has been done to reclaim these tailings ponds. Suncor, among other oil companies fall under the list of oil companies that did not reach their goals of land reclamation back in 2009.  As told to us by our Suncor Oil Sands Tour Guide, Suncor hopes to reclaim all tailings ponds within the next ten years - an improvement on their previous goal of 50 years. We hope that more innovative ideas, such as our cost-effective membrane bioreactor, can be created and put into use to help oil companies, such as Suncor, reach this goal and reverse some of the environmental destruction seen as a result of the oil sands industry!
 
-
-<p class="image-wrapper">
-{{image "KOTW poster p+p.png" directlink mode}}
-</p>
-
-<p class="image-wrapper">
-{{image "Screen Shot 2015-08-27 at 11.15.50 PM.jpg" directlink mode}}
-</p>
-
-<p class="image-wrapper">
-{{image "Sam gargon and P+p.JPG" directlink mode}}
-</p>
 
 <p class="image-wrapper">
 {{image "crude oil.JPG" directlink mode}}
