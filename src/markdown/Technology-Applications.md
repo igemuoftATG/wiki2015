@@ -8,8 +8,9 @@ We are working on creation of a synthetic bacteria which can efficiently degrade
 
 Below is the design of our bioreactor along with it's functionality explanation.
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/bioreactor%20updated%20design.jpg)
-
+<p class="image-wrapper">
+{{image "bioreactor updated design.jpg" directlink mode}}
+</p>
 
 
 ### Design:
