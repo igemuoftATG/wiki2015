@@ -1,22 +1,22 @@
 # ConsortiaFlux
 
-Within nature, it is practically impossible to find a single bacterial species on its own. This is because bacteria exist in communities called a microbiome. However, in synthetic biology, a single strain is often grown independently in a laboratory setting for the intended use in a natural environment. Experimentally, this would require the creation of an isolated microbiome, or a simulation of one.
+In nature, it is virtually impossible to find an isolated bacterial species on its own. Across most of the natural world, different bacterial species cluster together in ecologically crucial communities known as microbiomes. In constrast, synthetic biology laboratories often prepare isolated strains for later use in the natural environment. Experimentally, this would require either the creation or simulation of an isolated microbiome.
 
-Our iGEM team created a web-based tool, 'ConsortiaFlux,' to run a microbiome simulation. The tool allows a user to visualize the effect of the addition of a synthetically engineered bacteria into a predefined microbiome. This visualization is generated through a process called community flux-balance analysis, or cFBA.
+Our iGEM team created the web-based tool 'ConsortiaFlux' in order to run microbiome simulations. Our tool allows the user to visualize the effects of the addition of a synthetically engineered bacteria into a predefined microbiome. This visualization is generated through a process called community flux balance analysis (cFBA).
 
-To demonstrate our web-based tool, we genetically engineered an E. coli bacteria for bioremediation. This engineered E. coli remediates toluene in Albertan tailing ponds, supplementing the existing microbiome, and providing a concrete example of how our tool can be applied.
+In concert with our web-based tool, we genetically engineered E. coli bacteria for the purpose of bioremediation. Our engineered E. coli supplements the existing microbiome by efficiently degrading toluene, a highly toxic chemical within Alberta's oil sands tailing ponds. 
 
-Tying it all together is an analysis of the best technical, economic, and social applications of our technology within a solid framework.
+All aspects of our project are linked together by analysis of technical, economic, and social applications of our technology within a solid policy framework.
 
 ## What is FBA and cFBA?
 
-FBA, or flux-balance analysis, is a tool used to study genome-scale metabolic network reconstructions. By analyzing flow of metabolites within a given network, FBA computes the predicted production rate of a metabolite, or the growth rate. In a synthetic biology context, this becomes useful for assessing outcomes of a transformation in silico.
+FBA (flux balance analysis) is a mathematical tool used to study genome-scale metabolic network reconstructions. By analyzing the flow of metabolites within a given network, FBA can be used to model the expected rates of production for metabolites, metabolic behaviour under optimal growth, and various other aspects of life processes. In a synthetic biology context, FBA is a useful means of assessing the outcomes of in silico transformations.
 
-cFBA, or community based flux-balance analysis, is FBA at the community level. cFBA allows for the prediction of a genetic modification in a bacterial community.
+cFBA (community based flux-balance analysis) consists of FBA at the community level. Highly interdependent microbial communities share essential metabolites, engage in complex metabolic exchanges, and collectively perform vital ecological functions. Using cFBA, the consequences of genetically modifying a particular species within the microbiome can be predicted.
 
 ## Math Behind the Code
 
-FBA calculates the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with m unique compounds and n reactions, a stoichiometric matrix(S) with size m*n represents all the reaction set. Vector fluxes to be computed are represented by a vector v. An objective function (Z) is set to determine which flux to optimize in a given boundary. Hence following is computed linearly,
+FBA computes the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with m unique compounds and n reactions, a stoichiometric matrix(S) with size m*n represents all the reaction set. Vector fluxes to be computed are represented by a vector v. An objective function (Z) is set to determine which flux to optimize in a given boundary. Hence following is computed linearly,
 
                                                 Maximize     c^Tv
                                                 Subject to   Sv=0
@@ -72,7 +72,7 @@ The current solutions for BTEX and PAH contamination includes:
 
 * _Bioremediation using Microorganisms_
 
- This technique uses microbes in order to break down BTEX and PAH using enzymes produces by the microbes. This technique is advantageous because it is: cheap, occurs on site and produces non-toxic compounds such as carbon dioxide and acetate.  However the Bioremediation process is slow because of:
+ This technique uses microbes in order to break down BTEX compounds and PAHs using enzymes produced by local microbes. This technique is advantageous because it is cheap, occurs on site, and results in the production of non-toxic compounds such as carbon dioxide and acetate. However, the bioremediation process can be hindered as a result of any of the factors listed below:
 
  * The high toxicity of the pollutant
  * The high concentration of the pollutant
@@ -81,20 +81,20 @@ The current solutions for BTEX and PAH contamination includes:
  * Low concentration of dissolved Oxygen
  * Fewer electron acceptors.
 
- This essentially limits the bioremediation process.
+ The factors listed essentially limit the bioremediation process.
 
 ### Our Project
 
-Our project therefore aims to maximize the efficiency of the bioremediation process by creating a synthetically engineered microorganism that can degrade these toxic compounds. Our team focused specifically on toluene since it is one of the major BTEXs present in these oil sand tailings and is one of the most studied ones.
+Our project aims to maximize the efficiency of the bioremediation process by creating a synthetically engineered microorganism that can degrade toxic compounds found in oil sands tailing ponds. Our team focused specifically on toluene due to the prevalence of BTEX compounds (uncluding toluene) in oil sands tailing ponds, as well as fact that toluene is well-studied as a chemical.
 
 ### Toluene degradation in microbial communities
 
-Many microorganisms that survive in these oil sand tailings use toluene as a nutrient source. They have therefore evolved several pathways that can degrade toluene. These can be broadly divided into two categories:
+Many microorganisms that survive in Alberta's oil sand tailings use toluene as a nutrient source. As such, these microorganisms have naturally evolved several pathways that can degrade toluene. These degradation pathways can be broadly divided into two categories:
 
 * Aerobic pathways
 * Anaerobic pathways
 
-We focused specifically on the pathway used by _Pseudomonas putida F1_ since it is a well-studied biosafety level 1 organism and some studies suggest it is one of the most efficient at toluene degradation. _P. putida F1_ degrades toluene through an aerobic pathway. In its pathway the reactions involving _todC1C2BA_, _todD_, _todE_ and _todF_ are specific to _P. putida F1_ and are the limiting steps of this pathway. Especially accumulation of 3-methylcatechol is known to have severe toxic effects for bacteria. Once 2-Hydroxy-2,4-pentadienoate is formed it can be degraded by enzymes that can are present in most species including _E.coli_. A plasmid, pTDG602, for the first part of the pathway involving _todC1C2BA_ and _todD_ has already been created by Zylstra, from whom we then obtained it. This only leaves _todE_ and _todF_ for which no such BioBrick exists that has been well characterized and so we chose to focus on that part of the pathway.
+We focused specifically on the pathway used by _Pseudomonas putida F1_ because it is a well-studied, Biosafety Level 1 organism, and some studies suggest that it is one of the most efficient bacterial species with regards to toluene degradation. _P. putida F1_ degrades toluene through an aerobic pathway. In its pathway the reactions involving _todC1C2BA_, _todD_, _todE_ and _todF_ are specific to _P. putida F1_ and are the limiting steps of this pathway. In particular, the accumulation of 3-methylcatechol is known to have severe toxic effects for bacteria. Once 2-Hydroxy-2,4-pentadienoate is formed, it can be degraded by enzymes that can are present in most species, including _E.coli_. A plasmis for the first part of the pathway involving _todC1C2BA_ and _todD_ (pTDG602) has been created by Zylstra, from whom we obtained it. Finally, we chose to focus on the part of the pathway involving _todE_ and _todF_, for which no well-characterized BioBrick exists.
 
 ## Experimental Design
 
@@ -112,8 +112,8 @@ We focused specifically on the pathway used by _Pseudomonas putida F1_ since it 
 {{image "lcrconstruct.png" directlink mode}}
 </p>
 
-The diagram above shows the plasmid that we designed. We used psB1C3, in green, for the backbone that we obtained from the igem registry. The plasmid includes both _todE_ and _todF_ that have been optimized for _E.coli_ K-12 MG1655 strain. Each gene begins with a start codon followed by a His-Tag and terminates with a stop codon. The purpose of the His-Tag is to confirm the synthesis of our enzymes once we transform _E.coli_. We added a Ribosomal binding site (RBS) before each gene and optimized it using the Salis RBS calculator. UNSs were also added before and after every gene to prevent the formation of a secondary structure.  
+The diagram above shows the plasmid that we designed. We used psB1C3, in green, for the backbone that we obtained from the iGEM registry. The plasmid includes both _todE_ and _todF_ that have been optimized for _E.coli_ K-12 MG1655 strain. Each gene begins with a start codon followed by a His-Tag, and terminates with a stop codon. The purpose of the His-Tag is to confirm the synthesis of our enzymes once we transform _E.coli_. We added a Ribosomal binding site (RBS) before each gene and optimized it using the Salis RBS calculator. UNSs were also added before and after every gene to prevent the formation of a secondary structure.  
 
 ### Experimental details  
 
-To create our plasmid we used Synbiota’s RDP protocol that allowed us to assemble our _todE_ and _todF_ constructs. We confirmed the identity of our constructs by using gel electrophoresis to compare our constructs against the _todE_ and _todF_ genes we purified from _P. putida F1_. Once the _todE_ and _todF_ genes have been assembled they are be inserted into the psB1C3 backbone using Ligase Chain Reaction (LCR). Gel electrophoresis will once again be used to ensure that our plasmid has been correctly assembled. Once our plasmid is assembled we then transformed _E.coli_ that we will make chemically competent for transformation. Antibiotic selection is  used to identify the transformed colonies. To test for the synthesis of the enzymes, the transformed colonies will be lysed and SDS-PAGE. After confirming the production of the enzymes, the transformed _E.coli_ will be grown on a 3-methyl catechol rich media and then a colorimetric assay will be used to identify the formation of 2-Hydroxy-6-keto-2,4-heptadienoate (substrate of _todE_); and 2-Hydroxy-2,4-pentadienoate substrate of _todF_). Also, if time permits Gas Chromatography and Mass spectrometry can also be used to characterize the activity of these enzymes.   Furthermore, we aimed to co-transform the bacteria with our designed plasmid and pTDG602 to observe a complete degradation of toluene to carbon dioxide and water.
+To create our plasmid, we used Synbiota’s Rapid Dna Prototyping (RDP) protocol in order to assemble our _todE_ and _todF_ constructs. We confirmed the identity of our constructs by using gel electrophoresis to compare our constructs against the _todE_ and _todF_ genes we purified from _P. putida F1_. Once the _todE_ and _todF_ genes were assembled, they were inserted into the psB1C3 backbone using the Ligase Chain Reaction (LCR) method. Following LCR, gel electrophoresis was once again used to ensure that our plasmid had been assembled correctly. Once our plasmid was assembled, we transformed _E.coli_, which we made chemically competent for transformation. Following the transformation, antibiotic selection was used to identify the transformed colonies. Further, to test for synthesis of the desired enzymes, the transformed colonies were lysed and tested via SDS-PAGE. After confirming enzyme production, the transformed _E.coli_ was grown on media rich in 3-methylcatechol, and a colorimetric assay was used to confirm the formation of 2-hydroxy-6-keto-2,4-heptadienoate (substrate of _todE_) and 2-Hydroxy-2,4-pentadienoate (substrate of _todF_). As an aside, gas chromatography and mass spectrometry methods are also applicable to characterizing the activity of these enzymes, where time permits. Finally, we attempted to co-transform our bacteria with our custom-designed plasmid and pTDG602 in order to observe the complete degradation of toluene into carbon dioxide and water.
