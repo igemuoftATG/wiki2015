@@ -428,3 +428,35 @@ TodF Gel - Gibson TodE - September 9
 
 * Bacterial transformation with diluted Gibson products
 
+#### 11/09/15
+
+* Synbiota assembly of TodE
+* Transformation with LCR product
+
+### Week Fourteen
+
+#### 14/09/15
+
+* LCR of TodE and TodF
+
+#### 15/09/15
+
+* Gel electrophoresis of LCR products
+
+#### 16/09/15
+
+* Gibson assembly of TodE and TodF and of TodE
+* Bacterial transformation with LCR products and Giboson products
+
+#### 17/09/15
+
+* Observed Growth of Gibson assembled TodE and prepared overnight cultures.
+
+#### 18/09/15
+
+* Miniprep of Gibson assembled todE plasmid
+* Preparing part for shipping to iGEM HQ, used a concentrator to speed vacuum our part.
+* Performed two restriction enzyme digests to verify for the presence of TodE
+* First digest with XhoI and XcmI produced appropriate band lengths. 
+* The Second Digest was with RsaI and PvuII also confirmed TodE presence.
+
