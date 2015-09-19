@@ -404,7 +404,7 @@ Recipe for King's B medium. Received from Maggie Middleton, Lab technician at th
 Lab.
 
 # Antibiotic Stock Preparation
-_Written by Dr. Tim Lee_
+_Written by Tim Lee_
 
 ### **Background**
 
