@@ -40,6 +40,14 @@ Albert is a third year Computer Science student minoring in mathematics, with a 
 {{image "Albert.jpg" directlink mode}}
 </p>
 
+#### Eric Jadidzadeh - Bioinformatics Team
+
+Eric is a bioinformatics specialist student at UofT, and a dry lab team member for iGEM. He considers his time spent working on the project to be an invaluable learning experience, and has come to appreciate being a part of a team as large and as dynamic as this one. Eric hopes to continue working within the field of bioinformatics and to improve.
+
+<p class="image-wrapper">
+{{image "dignified-eric.jpg" directlink mode}}
+</p>
+
 #### Mark Wang - Bioinformatics Team  
 Mark is a second year student studying Molecular Genetics at the University of Toronto. He is, as he put it, fortunate enough to meet and work alongside other dry lab team members, who are passionate about computational biology and motivated to finish the project. He is amazed at how computer can be used to model and analyze biological data. He is also equally passionate about photography in his free time.
 
@@ -97,7 +105,7 @@ Shivali completed her first year at the University of Toronto majoring in Molecu
 </p>
 
 #### Pavel Schmatnik - Policy and Practices Team Lead
-Pavel is a fifth year University of Toronto student in the social sciences. He joined iGEM Toronto to expand his knowledge of biology and to take part in the policy and practices part of the project. He is especially interested in the social aspects of the iGEM projects and explores various areas of bioethics. 
+Pavel is a fifth year University of Toronto student in the social sciences. He joined iGEM Toronto to expand his knowledge of biology and to take part in the policy and practices part of the project. He is especially interested in the social aspects of the iGEM projects and explores various areas of bioethics.
 
 <p class="image-wrapper">
 {{image "Pavel 2.jpg" directlink mode}}
@@ -165,7 +173,6 @@ Sean Ihn - Dry Lab
 Joller Wang	- Dry Lab  
 Albert Xie - Dry Lab  
 Albert Cui - Dry Lab
-Eric Jadidzadeh - Dry Lab  
 Julian Song	- Dry Lab  
 Justin Song -	Dry Lab  
 Waleed Khan -	Wet Lab & Dry Lab  
