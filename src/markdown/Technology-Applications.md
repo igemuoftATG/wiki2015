@@ -31,7 +31,7 @@ Below is a reiteration of our safety concerns for the applications, as addressed
 |                            What happens if shelves over flow                             |                                      Each shelf has its automatic water shut off mechanism which is connected to water level monitor in each shelf. If ever there is an overflow of water, the shut off valves will prevent any water from escaping the bioreactor                                       |
 | Safety issues associated with cleaning of the bioreactor after prolonged periods of time | For the maintenance of the bioreactor, each shelf can be maintained separately while keeping the rest of the shelves working. For this reason, bioreactor does not need to be shut off for maintenance. Hence, bacteria and other compounds can be safely discarded without disrupting the flow of water |
 
- ### Advantages over conventional bioreactor:
+### Advantages over conventional bioreactor:
  * 	__Multi-stage purification of water__ allows thorough contact between bacteria and the water. Water being purified in multiple smaller loads of water is more effective than bulk amount of water with all the bacteria in it. Bulk amount of water with bacteria requires mixing of water.
  * 	__0.2 µm pore size__ membranes allow no bacteria to escape each bacteria. Thus ensuring no bacteria enters fresh water.
  * __Better control__ – Automated gates control two way flow of water, ensuring no overflow of water in each shelf.
