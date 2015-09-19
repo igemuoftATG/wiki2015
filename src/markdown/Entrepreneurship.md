@@ -1,22 +1,9 @@
-## Entrepreneurship
+# Potential Enterpeneurship level project:
+Our project involves diverse fields all working cohasively to achieve a common goal of using synthetic bacteria to degrade Toluene. The reasons why our project is a potential contestant for Enterpeneurship award are stated as follows:
 
-In previous years, iGEM had an entrepreneurship track. Teams were encouraged to
-build projects and focus around commercializing their work. For 2015, we're
-removing the track and introducing an <b>award</b> for entrepreneurship.
-
-
-#### Note
-
-In order to be considered for the [Best Supporting Entrepreneurship
-award](http://2015.igem.org/Judging/Awards#SpecialPrizes), you must fill out
-this page.
-
-The Best Supporting Entrepreneurship award recognizes exceptional effort to
-build a business case and commercialize an iGEM project. This award is open to
-all teams to show that entrepreneurship is something all teams can aspire to do
-with their project. This award can go to an new project, or to a previous
-project that a team aimed to commercialize. Have you filed a provisional patent
-on your project/device/process? Have you raised money to build and ship
-products? Have you pitched your idea to investors and received money? Complete
-the entrepreneurship section on the 2015 Judging form and tell us what you did.
-As always in iGEM, the aim is to impress the judges!
+* __Wetlab team__: our wetlab team has been working efficiently to devalop bacteria that can effectively degrade Toluene which can used at indestrial scale to detoxify water.
+* The development of our software community flux balance analysis has allowed to model the metabolic pathways between a community and helped us predict their symbiotic relationship. This software is particularly important for enterpeneurship level applications because it use linear programing software instead of non-linear ones, hence allowing us to easily model communities. Furthermore, our software can be extended to model more organisms and add complex organisms while managing to effectively model the community metabolic pathways.
+* Our novel membrane bioreactor design has potential applications in industry for it's effectiveness in keeping bacteria separate from the clean water while efficiently degrading Toluene.
+* We visited Sirem labs who have been using syntheitc organinsms at industrial level to treat chlorinated solvent. they gave us important insight of the steps to follow while enhancing our project to enterpeneurship level. Furthormore, they gave us their cost analysis for their enterpeneurship level.
+* We are given funding by synenergene to devalop our tools and potenitally enhance our project to enterpeneurship level.
+* We contacted front line communities to gain their insight about our project to be an indstrial one. They were extremely satisfied with our progress and called our project as a glimmer of hope, in the time where they are suffering issues of increasing toxicity in water along with it's depletion and usage in oil extreaction without effective reclamation.

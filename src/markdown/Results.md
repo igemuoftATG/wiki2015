@@ -23,23 +23,34 @@ Our main goal in this project was to create standardized and easily customizable
 ### Achieved:
 Following are listed the goals we are able to accomplish
 __Plasmid design__:  
---Add picture--[Plasmid](one I sent you before)
 
-* This was perhaps one of the most critical stages of the project since only a correctly designed plasmid would ultimately allow E.coli to successfully degrade toluene. For this purpose, we sought extensive guidance from our graduate and faculty supervisors who have had extensive experience in these areas. The plasmids were designed to be assembled by Gibson Assembly, Ligase Chain Reaction and Synbiota Assembly. (A form of standardized digestion and ligation assembly)
+<p class="image-wrapper">
+{{image "TodFplasmid.png" directlink mode}}
+</p>
+
+<p class="image-wrapper">
+{{image "TodEplasmid.png" directlink mode}}
+</p>
+
+<p class="image-wrapper">
+{{image "lcrconstrcut.png" directlink mode}}
+</p>
+
+* This was perhaps one of the most critical stages of the project since only a correctly designed plasmid would ultimately allow E.coli to successfully degrade toluene. For this purpose, we sought extensive guidance from our graduate and faculty supervisors who have had extensive experience in these areas. The plasmids were designed to be assembled by Gibson Assembly, Ligase Chain Reaction (LCR) and Synbiota Assembly. (A form of standardized digestion and ligation assembly) 
 
 
 * __Plasmid creation__:  
-We were able to successfully create our plasmid by using the backbone obtained from the igem registry. This process involved continuous use of microbiology techniques to assemble each part. At the same time, we needed to verify the correct assembly of our plasmid by repeatedly using techniques like electrophoresis. This was a bit challenging given that we are creating a completely new kind of plasmid hence the standard protocols used in these experiments were not always completely effective so we had to modify our protocols to achieve the best possible results with respect to plasmid design. This did provide us with major insight regarding how standard protocols need to be modified in novel situations.
+We were able to successfully create our plasmid by PCRing the psb1C3 backbone out of a plasmid containing BBa_J04450. Both TodE and TodF were made compatible for LCR by synthesizing UNS sequences (standard insulating ends) and by PCRing compatible ends for Gibson Assembly. The inserts were checked by using nanodrop readings and gel electrophoresis. At the same time, we needed to verify the correct assembly of our plasmid by digesting with specific enzyme and using gel electrophoresis to confirm the size. This was a bit challenging given that LCR was a new method of assembly and using gibson next to iGEM suffixes (multiple cloning sites) produced low efficiency. Standard protocols used in these experiments were not always completely effective so we had to modify our protocols to achieve the best possible results with respect to plasmid design. This did provide us with major insight regarding how standard protocols need to be modified in novel situations.
 
 * __E.coli transformation__:
-We have been able to transform E.coli with our plasmid and we have obtained colonies on antibiotic selection media which indicates that our plasmids have been transformed.
+We have been able to transform E.coli with our plasmid and we have obtained colonies on antibiotic selection media which indicates that our plasmids have been transformed. 
 
 ### Challenges faced:
 * __Time Management__:  
 This is where we struggled the most. This year we had recruited a fresh team and each member had to be trained in biosafety. At the same time the department had several administrative procedures that took long to clear and hence we were not able to work in lab on time. This has allowed us to formulate a concrete strategy for next year, so we can make best use of our time in the lab.
 
 * __Division of labour__:  
-Due to the relative inexperience of many newer members in the lab, team leads had to take on the role of performing the tasks themselves. This disrupted the structure of the team.
+Due to the relative inexperience of many newer members in the lab, team leads had to take on the role of performing the tasks themselves. Higher efficiency was achieved by making a smaller, more select group to work on protocols throughout the week since large member base and low number of shifts per member led to discontinuity and confusion.
 
 
 ###References: 
