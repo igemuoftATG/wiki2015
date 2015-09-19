@@ -439,6 +439,10 @@ TodF Gel - Gibson TodE - September 9
 
 * LCR of TodE and TodF
 
+<p class="image-wrapper">
+{{image "TodE_gel_Sept-14.jpg" directlink mode}}
+</p>
+
 #### 15/09/15
 
 * Gel electrophoresis of LCR products
@@ -459,4 +463,8 @@ TodF Gel - Gibson TodE - September 9
 * Performed two restriction enzyme digests to verify for the presence of TodE
 * First digest with XhoI and XcmI produced appropriate band lengths. 
 * The Second Digest was with RsaI and PvuII also confirmed TodE presence.
+
+<p class="image-wrapper">
+{{image "TodE_only_gel_Sept-18.jpg" directlink mode}}
+</p>
 
