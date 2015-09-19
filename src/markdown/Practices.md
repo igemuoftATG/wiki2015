@@ -21,12 +21,10 @@ Our project focused on degradation of **toluene** specifically, though the appli
 Our research through the 2015 iGEM competition brought our team to a place of deep reflection on social issues facing communities in Canada and abroad. With help from Frontline Community Research Lead, Joanna Dowdell, the team became particularly aware of injustices seen against indigenous communities around the world in the past and present.  
 Our team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. It is important that we acknowledge we are people of the treaties, living on traditional indigenous lands. Our hope within the iGEM competition is to show solidarity with the Dene Tha' and Beaver Cree First Nations of Canada who have passionately recounted to our team the ways in which their rights to a healthy environment have thus-far been violated. Bringing awareness to this social and environmental issue is very important to our team, as is offering innovative solutions to some of the environmental strain faced by these communities.
 
-<img src="http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg" alt="Alberta Indigenous Art" style="width:250px;height:200px"/>
+<img src="http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg" alt="Alberta Indigenous Art" style="width:400px;height:400px"/>
 
 The main purpose of our exploration in Athabasca was to understand and recount the stories of water management within the Oil Sands, and how such management affects the communities living downstream of industry and potential pollutants. The goal of our blog is to provide a platform to share the stories of environmental health and water-based interactions of those on the front lines of the Oil Sands industry – often these are First Nations communities, who are fighting for their right to a healthy environment through free, prior and informed consent of what developments are allowed on their lands.
 
-
-<img src="http://www.albertanativenews.com/wp-content/uploads/2014/03/cover-image-for-march-1024x1024.jpg" alt="Alberta Indigenous Art" style="width:250px;height:200px"/>
 
 
 
