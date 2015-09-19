@@ -1,0 +1,160 @@
+<html>
+<!-- ####################################################### -->
+<!-- #  This html was produced by the igemwiki generator   # -->
+<!-- #  https://github.com/igemuoftATG/generator-igemwiki  # -->
+<!-- ####################################################### -->
+
+<!-- repo for this wiki: https://github.com/igemuoftATG/wiki2015 -->
+
+</html>
+<html>
+	<!-- bower:css -->
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="bower_components/flexboxgrid/dist/flexboxgrid.css" type="text/css" />
+	<link rel="stylesheet" href="bower_components/highlightjs/styles/github.css" type="text/css" />
+	<!-- endbower -->
+	<link rel="stylesheet" href="styles/styles.css" type="text/css" />
+	
+
+	<body></body>
+
+
+</html>
+
+<html>
+
+<div id="navigation">
+<ul>
+<li><a href="index.html">home</a></li>
+<li><a href="team.html">team</a></li>
+<li class="active"><a href="#">project</a>
+<ul>
+<li class="active"><a href="description.html">description</a></li>
+<li><a href="experiments.html">experiments</a></li>
+<li><a href="results.html">results</a></li>
+<li><a href="design.html">design</a></li>
+</ul>
+</li><li><a href="#">parts</a>
+<ul>
+<li><a href="parts.html">parts</a></li>
+<li><a href="basic_part.html">basic parts</a></li>
+<li><a href="composite_part.html">composite parts</a></li>
+<li><a href="part_collection.html">part collection</a></li>
+</ul>
+</li><li><a href="notebook.html">notebook</a></li>
+<li><a href="attributions.html">attributions</a></li>
+<li><a href="collaborations.html">collaborations</a></li>
+<li><a href="practices.html">human practices</a></li>
+<li><a href="safety.html">safety</a></li>
+<li><a href="modeling.html">modeling</a></li>
+<li><a href="measurement.html">measurement</a></li>
+<li><a href="software.html">software</a></li>
+<li><a href="entrepreneurship.html">entrepreneurship</a></li>
+</ul>
+</div>
+<div class="content">
+<h1 id="consortiaflux">ConsortiaFlux</h1>
+<p>Within nature, it is practically impossible to find a single bacterial species on its own. This is because bacteria exist in communities called a microbiome. However, in synthetic biology, a single strain is often grown independently in a laboratory setting for the intended use in a natural environment. Experimentally, this would require the creation of an isolated microbiome, or a simulation of one.</p>
+<p>Our iGEM team created a web-based tool, &#39;ConsortiaFlux,&#39; to run a microbiome simulation. The tool allows a user to visualize the effect of the addition of a synthetically engineered bacteria into a predefined microbiome. This visualization is generated through a process called community flux-balance analysis, or cFBA.</p>
+<p>To demonstrate our web-based tool, we genetically engineered an E. coli bacteria for bioremediation. This engineered E. coli remediates toluene in Albertan tailing ponds, supplementing the existing microbiome, and providing a concrete example of how our tool can be applied.</p>
+<p>Tying it all together is an analysis of the best technical, economic, and social applications of our technology within a solid framework.</p>
+<h2 id="what-is-fba-and-cfba-">What is FBA and cFBA?</h2>
+<p>FBA, or flux-balance analysis, is a tool used to study genome-scale metabolic network reconstructions. By analyzing flow of metabolites within a given network, FBA computes the predicted production rate of a metabolite, or the growth rate. In a synthetic biology context, this becomes useful for assessing outcomes of a transformation in silico.</p>
+<p>cFBA, or community based flux-balance analysis, is FBA at the community level. cFBA allows for the prediction of a genetic modification in a bacterial community.</p>
+<h2 id="math-behind-the-code">Math Behind the Code</h2>
+<p>FBA calculates the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with m unique compounds and n reactions, a stoichiometric matrix(S) with size m*n represents all the reaction set. Vector fluxes to be computed are represented by a vector v. An objective function (Z) is set to determine which flux to optimize in a given boundary. Hence following is computed linearly,</p>
+<pre><code>                                            Maximize     c^Tv
+                                            <span class="hljs-keyword">Subject </span>to   Sv<span class="hljs-number">=0</span>
+                                            <span class="hljs-keyword">Boundaries </span>  lowerbound&lt;v&lt;upperbound
+</code></pre><p>(Insert Image: FBA_diagram.jpg)
+Taken from:
+Title:What is flux balance analysis?
+Author:Jeffrey D Orth, Ines Thiele, Bernhard Ø Palsson
+Publication:Nature Biotechnology
+Publisher:Nature Publishing Group
+Date:Mar 1, 2010
+Copyright © 2010, Rights Managed by Nature Publishing Group</p>
+<p>Note: See software section for more</p>
+<h2 id="proof-of-concept-a-genetically-engineered-solution-for-oil-sand-tailings">Proof-of-Concept: A Genetically Engineered Solution for Oil Sand Tailings</h2>
+<h3 id="background">Background</h3>
+<p>As conventional oil production declines in the coming decades, unconventional sources of oil such as bitumen will become increasingly important for supplying oil. Currently, Canada possesses the largest of these bitumen reserves in Alberta in the form of oil sands. Alberta’s oil sands have about 168 billion barrels, making it the third largest crude oil reserve in the world. The use and export of this oil significantly contributes to economic growth in Canada, and will continue to do so.</p>
+<h3 id="economic-impact-of-oil-sands-on-canada">Economic impact of oil sands on Canada</h3>
+<ul>
+<li>Total GDP impacts of all oil sands investment, re-investment and operating revenues is estimated to be $3,865 billion for Canada.</li>
+<li>Oil sands related direct employment in Alberta is expected to continue growing from the current level (2014) of 146,000 jobs to a peak of 256,000 jobs in 2024.</li>
+<li>For every direct job generated in the Alberta oil sands, 1 additional job is generated by indirect association and 1.5 jobs by induced association in Canada.</li>
+</ul>
+<p>Despite this huge economic potential, the use of oil sands is raising concerns regarding environmental costs, especially those associated with the creation of oil sands tailings. Since the oil sand tailings are essentially a dumping site, it has a high concentration of toxic organic compounds. The Government of Alberta has a zero discharge policy for open-mined oil operations. This means that all oil sand process-affected water (OSPW) and tailings must be stored on site, which leads to the accumulation of these toxic compounds . According to a report released by WWF, this is a growing problem. From 2006 to 2009, weight percentage of toxic benzene, toluene, ethylbenzene, xylene (BTEX) and Polycyclic Aromatic Hydrocarbons (PAH) present in oil tailings have increased by 29.7% and 15.5% respectively.   Although, the oil sand tailing ponds is supposed to retain the toxic water, a recent Federal study suggests that the waste might be leaching into the ground water and contaminating the Athabasca River. It was estimated that as much as 6.5 litres might be leaching from a single pond per day. Current BTEX concentrations have already exceeded the guidelines provided by Canadian Council for Ministers of Environment (CCME) and thus are toxic to wildlife and humans in the long term.</p>
+<p>BTEX can cause damage to:</p>
+<ul>
+<li>Liver</li>
+<li>Kidneys</li>
+<li>Eyes</li>
+<li>Central Nervous System</li>
+</ul>
+<h3 id="current-solutions">Current Solutions</h3>
+<p>The current solutions for BTEX and PAH contamination includes:</p>
+<ul>
+<li><p><em>Soil Vapor Extraction (SVE)</em></p>
+<p>SVE is a physical process that involves sucking up vapors of contaminants. This reduces the vapor pressure of the contaminant hence shifting the equilibrium towards the vapor phase and causing any contaminant in the solid or liquid phase to evaporate. Since the effectiveness of SVE depends strongly on:   </p>
+<ul>
+<li>The contaminant’s physical and chemical properties</li>
+<li>Temperature in the subsurface</li>
+<li>Soil properties</li>
+</ul>
+<p>So SVE is not suitable for all compounds and under all conditions.</p>
+</li>
+<li><p><em>Bioremediation using Microorganisms</em></p>
+<p>This technique uses microbes in order to break down BTEX and PAH using enzymes produces by the microbes. This technique is advantageous because it is: cheap, occurs on site and produces non-toxic compounds such as carbon dioxide and acetate.  However the Bioremediation process is slow because of:</p>
+<ul>
+<li>The high toxicity of the pollutant</li>
+<li>The high concentration of the pollutant</li>
+<li>Low solubility of the pollutant</li>
+<li>Low availability of nutrients in the soil</li>
+<li>Low concentration of dissolved Oxygen</li>
+<li>Fewer electron acceptors.</li>
+</ul>
+<p>This essentially limits the bioremediation process.</p>
+</li>
+</ul>
+<h3 id="our-project">Our Project</h3>
+<p>Our project therefore aims to maximize the efficiency of the bioremediation process by creating a synthetically engineered microorganism that can degrade these toxic compounds. Our team focused specifically on toluene since it is one of the major BTEXs present in these oil sand tailings and is one of the most studied ones.</p>
+<h3 id="toluene-degradation-in-microbial-communities">Toluene degradation in microbial communities</h3>
+<p>Many microorganisms that survive in these oil sand tailings use toluene as a nutrient source. They have therefore evolved several pathways that can degrade toluene. These can be broadly divided into two categories:</p>
+<ul>
+<li>Aerobic pathways</li>
+<li>Anaerobic pathways</li>
+</ul>
+<p>We focused specifically on the pathway used by <em>Pseudomonas putida F1</em> since it is a well-studied biosafety level 1 organism and some studies suggest it is one of the most efficient at toluene degradation. <em>P. putida F1</em> degrades toluene through an aerobic pathway. In its pathway the reactions involving <em>todC1C2BA</em>, <em>todD</em>, <em>todE</em> and <em>todF</em> are specific to <em>P. putida F1</em> and are the limiting steps of this pathway. Especially accumulation of 3-methylcatechol is known to have severe toxic effects for bacteria. Once 2-Hydroxy-2,4-pentadienoate is formed it can be degraded by enzymes that can are present in most species including <em>E.coli</em>. A plasmid, pTDG602, for the first part of the pathway involving <em>todC1C2BA</em> and <em>todD</em> has already been created by Zylstra, from whom we then obtained it. This only leaves <em>todE</em> and <em>todF</em> for which no such BioBrick exists that has been well characterized and so we chose to focus on that part of the pathway.</p>
+<h2 id="experimental-design">Experimental Design</h2>
+<h3 id="our-objectives">Our Objectives</h3>
+<ul>
+<li>To design and construct a plasmid that contains both <em>todE</em> and <em>todF</em>.</li>
+<li>To transform <em>E.coli</em> with our created plasmid.</li>
+<li>To confirm the synthesis of <em>todE</em> and <em>todF</em>.</li>
+<li>To characterize the activity of <em>todE</em> and <em>todF</em> (if time permits).</li>
+<li>To co-transform <em>E.coli</em> with both pTDG602 and our assembled plasmid (if time permits).</li>
+</ul>
+<h3 id="plasmid-design">Plasmid Design</h3>
+<p class="image-wrapper">
+<img src="images/lcrconstruct.png" />
+</p>
+
+<p>The diagram above shows the plasmid that we designed. We used psB1C3, in green, for the backbone that we obtained from the igem registry. The plasmid includes both <em>todE</em> and <em>todF</em> that have been optimized for <em>E.coli</em> K-12 MG1655 strain. Each gene begins with a start codon followed by a His-Tag and terminates with a stop codon. The purpose of the His-Tag is to confirm the synthesis of our enzymes once we transform <em>E.coli</em>. We added a Ribosomal binding site (RBS) before each gene and optimized it using the Salis RBS calculator. UNSs were also added before and after every gene to prevent the formation of a secondary structure.  </p>
+<h3 id="experimental-details">Experimental details</h3>
+<p>To create our plasmid we used Synbiota’s RDP protocol that allowed us to assemble our <em>todE</em> and <em>todF</em> constructs. We confirmed the identity of our constructs by using gel electrophoresis to compare our constructs against the <em>todE</em> and <em>todF</em> genes we purified from <em>P. putida F1</em>. Once the <em>todE</em> and <em>todF</em> genes have been assembled they are be inserted into the psB1C3 backbone using Ligase Chain Reaction (LCR). Gel electrophoresis will once again be used to ensure that our plasmid has been correctly assembled. Once our plasmid is assembled we then transformed <em>E.coli</em> that we will make chemically competent for transformation. Antibiotic selection is  used to identify the transformed colonies. To test for the synthesis of the enzymes, the transformed colonies will be lysed and SDS-PAGE. After confirming the production of the enzymes, the transformed <em>E.coli</em> will be grown on a 3-methyl catechol rich media and then a colorimetric assay will be used to identify the formation of 2-Hydroxy-6-keto-2,4-heptadienoate (substrate of <em>todE</em>); and 2-Hydroxy-2,4-pentadienoate substrate of <em>todF</em>). Also, if time permits Gas Chromatography and Mass spectrometry can also be used to characterize the activity of these enzymes.   Furthermore, we aimed to co-transform the bacteria with our designed plasmid and pTDG602 to observe a complete degradation of toluene to carbon dioxide and water.</p>
+
+</div>
+
+</html>
+<html>
+	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full"></script>
+	<!-- bower:js -->
+	<script src="bower_components/jquery/dist/jquery.js"></script>
+	<script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+	<script src="bower_components/highlightjs/highlight.pack.js"></script>
+	<!-- endbower -->
+	<script src="js/bundle.js"></script>
+	
+</html>
+

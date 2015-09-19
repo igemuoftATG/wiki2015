@@ -7,7 +7,9 @@
 Cathy Su is a third year Biological Physics specialist. She has worked with iGEM since 2013, when the team received its first Gold medal at the Jamboree for their project "A Systems Biology Approach to Biofilm Engineering".
 As President for 2015 Cathy has helped organize the Bio-hackathon and Design Competition resulting in a record high level of student engagement in the summer research team. For her the best part of being involved with iGEM is the chance to work together with driven peers.
 
-![alt text]
+<p class="image-wrapper">
+{{image "Cathy.jpg" directlink mode}}
+</p>
 
 #### Anthony Zhao - Bioinformatics Team Lead  
 Anthony has just finished the 3rd year of his undergraduate degree, majoring in Immunology and Neuroscience. He is involved with the research community at Toronto and wishes to pursue a career in medicine. Anthony has a myriad of interests. He actively keeps up with novel technologies, cutting-edge research, and current events in politics and the economy. As a leader, Anthony strives to motivate, teach and guide the team to success.
