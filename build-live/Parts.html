@@ -40,59 +40,57 @@
 </ul>
 </div>
 <div class="content">
-<h2 id="part-documentation">Part Documentation</h2>
-<p>Each team will make new parts during iGEM and will submit them to the Registry
-of Standard Biological Parts. The iGEM software provides an easy way to present
-the parts your team has created. The <code>&lt;grouppart&gt;</code> tag (see below) will generate
-a table with all of the parts that your team adds to your team sandbox.</p>
-<p>Remember that the goal of proper part documentation is to describe and define a
-part, so that it can be used without needing to refer to the primary literature.
-Registry users in future years should be able to read your documentation and be
-able to use the part successfully. Also, you should provide proper references to
-acknowledge previous authors and to provide for users who wish to know more.</p>
-<h4 id="note">Note</h4>
-<p>Note that parts must be documented on the
-<a href="http://parts.igem.org/Main_Page">Registry</a>. This page serves to <em>showcase</em> the
-parts you have made. Future teams and other users and are much more likely to
-find parts by looking in the Registry than by looking at your team wiki.</p>
-<h4 id="adding-parts-to-the-registry">Adding parts to the registry</h4>
-<p>You can add parts to the Registry at our <a href="http://parts.igem.org/Add_a_Part_to_the_Registry">Add a Part to the
-Registry</a> link.</p>
-<p>We encourage teams to start completing documentation for their parts on the
-Registry as soon as you have it available. The sooner you put up your parts, the
-better you will remember all the details about your parts. Remember, you don&#39;t
-need to send us the DNA sample before you create an entry for a part on the
-Registry. (However, you <strong>do</strong> need to send us the DNA sample before the
-Jamboree. If you don&#39;t send us a DNA sample of a part, that part will not be
-eligible for awards and medal criteria.)</p>
-<h4 id="what-information-do-i-need-to-start-putting-my-parts-on-the-registry-">What information do I need to start putting my parts on the Registry?</h4>
-<p>The information needed to initially create a part on the Registry is:</p>
+<h1 id="toluene-degradation-and-our-project">Toluene Degradation and Our Project</h1>
+<p>Pseudomonas putida F1 species degrades toluene with the help of the tod operon. Toluene dioxygenase and toluene cis-dihydrodiol dehydroxygenase transcribed from todC1C2BA and todD genes, respectively, facilitate the breakdown of toluene to 3-methylcatechol. Gerben J. Zylstra et al. successfully constructed the plasmid pTDG602 containing todC1C2BAD genes. To achieve complete degradation of toluene down to carbon dioxide and water, we focused on designing a plasmid containing todE and todF genes. After cotransformation of DH10B cells with pTDG602 and our plasmid, E.Coli  should theoretically contain all the genes required to achieve complete degradation.</p>
+<p><img src="https://github.com/igemuoftATG/wiki2015/blob/master/images/Pathway.png" alt="alt text"></p>
+<h2 id="submitted-part-tode-biobrick-bba_k1760001-">Submitted Part: TodE BioBrick (BBa_K1760001)</h2>
+<p>Final submitted biobrick is a coding sequence that contains a TetO promoter, RBS optimized by using Salis RBS caluclator and codon optimized todE gene for E.Coli. It plays a major role in degradation of toluene. Specifically, todE degrades 3-methylcatechol, a highly toxic intermediate into HOD. In pseudomonas putida species, HOD is aerobically metabolized through TCA cycle. Theoretically, a E.Coli MG1655 type bacteria containing todC1C2BADEF genes can degrade toluene through TCA cycle by using its own native enzymes.</p>
+<p>This part is ordered in gene blocks and ligated by using Gibson Assembly by using . The design have been performed by Anthony Zhao, Seray Cicek, Umar Owadally, Katariina Jaenes, Matt D&#39;lorio, ChungMin Lee, Drupad Rajyaguru who are wet lab team members of the iGEM Toronto 2015 team. See our part in the the registry: <a href="http://parts.igem.org/Part:BBa_K1760001">http://parts.igem.org/Part:BBa_K1760001</a></p>
+<p>[TodEpalsmid_new.png]</p>
+<h2 id="additional-designs-in-progress">Additional Designs in Progress</h2>
+<p>In order to achieve complete degradation of toluene, we also constructed a codon optimized todF sequence. We tried to create a ligated plasmid containing  todE, todF, optimized Salis RBS calculator and a tunable promoter to determine optimum transcription for DH10B cells. We used Ligase Cycling Reaction(LCR) in this process. Unique Nucleotide Sequences are added to ligating blocks to facilitate assembly of the plasmid without a secondary structure interference.</p>
+<p><img src="https://github.com/igemuoftATG/wiki2015/blob/master/images/biobrick%20plasmid.png" alt="alt text"></p>
+<p>We also used BioBricks from the registry to design plasmids with different efficiencies by using RDP kit as shown below. In this process, we used promoter BBa_J23102 and RBS BBa_B0030.</p>
+<p><img src="https://github.com/igemuoftATG/wiki2015/blob/master/images/TodEplasmid.png" alt="alt text"></p>
+<p><img src="https://github.com/igemuoftATG/wiki2015/blob/master/images/TodFplasmid.png" alt="alt text"></p>
+<p>Note: Links to iGem registry
+BBa_J23102: <a href="http://parts.igem.org/Part:BBa_J23102">http://parts.igem.org/Part:BBa_J23102</a>
+BBa_0030: <a href="http://parts.igem.org/Part:BBa_B0030">http://parts.igem.org/Part:BBa_B0030</a></p>
 <ul>
-<li>Part Name</li>
-<li>Part type</li>
-<li>Creator</li>
-<li>Sequence</li>
-<li>Short Description (60 characters on what the DNA does)</li>
-<li>Long Description (Longer description of what the DNA does)</li>
-<li>Design considerations</li>
+<li>Sequence for BBa_K1760001 :</li>
+<li>tactagtagcggccgctgcagtccggcaaaaaagggcaaggtgtcaccaccctgccctttttctttaaaaccgaaaagattacttcgcgttatgcaggct
+tcctcgctcactgactcgctgcgctcggtcgttcggctgcggcgagcggtatcagctcactcaaaggcggtaatacggttatccacagaatcaggggata
+acgcaggaaagaacatgtgagcaaaaggccagcaaaaggccaggaaccgtaaaaaggccgcgttgctggcgtttttccacaggctccgcccccctgacga
+gcatcacaaaaatcgacgctcaagtcagaggtggcgaaacccgacaggactataaagataccaggcgtttccccctggaagctccctcgtgcgctctcct
+gttccgaccctgccgcttaccggatacctgtccgcctttctcccttcgggaagcgtggcgctttctcatagctcacgctgtaggtatctcagttcggtgt
+aggtcgttcgctccaagctgggctgtgtgcacgaaccccccgttcagcccgaccgctgcgccttatccggtaactatcgtcttgagtccaacccggtaag
+acacgacttatcgccactggcagcagccactggtaacaggattagcagagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactac
+ggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttaccttcggaaaaagagttggtagctcttgatccggcaaacaaaccaccg
+ctggtagcggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgatcttttctacggggtctgacgctca
+gtggaacgaaaactcacgttaagggattttggtcatgagattatcaaaaaggatcttcacctagatccttttaaattaaaaatgaagttttaaatcaatc
+taaagtatatatgagtaaacttggtctgacagctcgaggcttggattctcaccaataaaaaacgcccggcggcaaccgagcgttctgaacaaatccagat
+ggagttctgaggtcattactggatctatcaacaggagtccaagcgagctcgatatcaaattacgccccgccctgccactcatcgcagtactgttgtaatt
+cattaagcattctgccgacatggaagccatcacaaacggcatgatgaacctgaatcgccagcggcatcagcaccttgtcgccttgcgtataatatttgcc
+catggtgaaaacgggggcgaagaagttgtccatattggccacgtttaaatcaaaactggtgaaactcacccagggattggctgagacgaaaaacatattc
+tcaataaaccctttagggaaataggccaggttttcaccgtaacacgccacatcttgcgaatatatgtgtagaaactgccggaaatcgtcgtggtattcac
+tccagagcgatgaaaacgtttcagtttgctcatggaaaacggtgtaacaagggtgaacactatcccatatcaccagctcaccgtctttcattgccatacg
+aaattccggatgagcattcatcaggcgggcaagaatgtgaataaaggccggataaaacttgtgcttatttttctttacggtctttaaaaaggccgtaata
+tccagctgaacggtctggttataggtacattgagcaactgactgaaatgcctcaaaatgttctttacgatgccattgggatatatcaacggtggtatatc
+cagtgatttttttctccattttagcttccttagctcctgaaaatctcgataactcaaaaaatacgcccggtagtgatcttatttcattatggtgaaagtt
+ggaacctcttacgtgcccgatcaactcgagtgccacctgacgtctaagaaaccattattatcatgacattaacctataaaaataggcgtatcacgaggca
+gaatttcagataaaaaaaatccttagctttcgctaaggatgatttctggaattcgcgggctgggagttcgtagacggaaacaaacgcatccctatcagtg
+atagagattgacatccctatcagtgatagagatactgagcacacggataaggaggtaagttatgcatcaccaccatcaccatggcagtggcagcattcag
+aggctaggctatctaggattcgaagtcgccgatgtgcgctcctggaggaccttcgcgaccacccgcctaggcatgatggaagccagcgcaagcgaaaccg
+aagcgacctttcgcattgatagccgcgcttggcgcctcagcgtcagccgcggcccggctgatgattatctgttcgcgggttttgaagtggatagcgaaca
+aggccttcaggaagtgaaagaaagcctccaggcgcatggcgtcaccgtgaaagtggaaggcggcgaactgattgctaaacgcggcgtgctgggtctgatc
+agctgcaccgatccgtttggcaaccgcgtggaaatttattacggtgcgaccgaactgtttgaacgcccgttcgcgagcccgacaggcgtgagtggttttc
+agaccggcgatcagggactgggccattatgtgctaagcgtggcagatgtggatgcggcgctggcgttttataccaaagcgctgggctttcagctggcgga
+tgtgattgattggaccattggcgatggcctgagcgtgaccctgtattttctgtattgcaacgggcgccatcatagcttcgcgtttgcgaaactgccgggc
+agcaaacgcctgcatcattttatgctccaggcgaacggcatggatgatgtgggcctggcgtatgataagtttgatgcggaacgcgcggtggtgatgagcc
+tgggccgccataccaacgatcatatgattagcttttatggcgcgaccccgagcggctttgcggtggaatatggctggggcgcgcgcgaagtgacccgcca
+ttggagcgtggtgcgctatgatcgcattagcatttggggccataaatttcaggcgccggcgtaataataacattactcgcatccattctcaggctgtctc
+g</li>
 </ul>
-<p>We encourage you to put up <em>much more</em> information as you gather it over the
-summer. If you have images, plots, characterization data and other information,
-please also put it up on the part page.</p>
-<h4 id="inspiration">Inspiration</h4>
-<p>We have a created a <a href="http://parts.igem.org/Well_Documented_Parts">collection of well documented
-parts</a> that can help you get
-started.</p>
-<p>You can also take a look at how other teams have documented their parts in their wiki:</p>
-<ul>
-<li><a href="http://2014.igem.org/Team:MIT/Parts">2014 MIT</a></li>
-<li><a href="http://2014.igem.org/Team:Heidelberg/Parts">2014 Heidelberg</a></li>
-<li><a href="http://2014.igem.org/Team:Tokyo_Tech/Parts">2014 Tokyo Tech</a></li>
-</ul>
-<h4 id="part-table">Part Table</h4>
-<p></html></p>
-<p><groupparts>iGEM015 Example</groupparts></p>
-<html>
 
 </div>
 </html>
