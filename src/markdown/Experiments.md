@@ -1422,3 +1422,99 @@ The forward primer is located in all of the Cap parts provided, and is situated 
 
 Protocol obtained from Synbiota: <https://synbiota.com/beta>
 
+## Ligase Cycling Reaction Protocol
+*Modified from a protocol written by Naveen Venayak*
+
+### SAFETY PRECAUTIONS
+
+**SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
+prepared to answer any questions regarding the information on these sheets.
+
+**PPE (Personal protective equipment)**: Proper lab attire should be worn throughout the experiment: This
+means that upon entering the lab you should be wearing long pants and close-toed shoes. Contact
+lenses should not be worn. Furthermore, a lab coat, goggles, and gloves should be worn at all times,
+and long hair should be tied back.
+
+**Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
+may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
+
+### REAGENTS
+
+* ~15&#956;L DNA Parts
+* 1.5&#956;M Bridging Olgios
+* 3&#956;L Ampligase Buffer
+* 1.5&#956;L Ampligase
+* 2.25&#956;L Betaine
+* 4&#956;L DMSO
+* 26&#956;L Nuclease free water
+* 1&#956;L ATP
+* 1&#956;L T4 Polynucleotide Kinase
+
+### MATERIALS
+
+* Thermal Cycler
+
+### LAB PROTOCOL
+
+Part 1: Primer Design
+
+1. Design primers to amplify fragments and if required, add any additional features
+2. Bridging olgios designed with a 70<sup>o</sup>C melting temperature
+3. Inserts were designed with UNS sequences (unique nucleotide sequences) for primer design. Sequences provided by Naveen Venayak.
+
+
+Part 2: DNA Phosphorylation
+
+1. Prepare 20&#956;L mix containing:
+ * 100fmol of each purified DNA fragment
+ * 5mM ATP
+ * 10U T4 polynucleotide kinase in 1x Ampligase thermostable DNA ligase reactions buffer
+2. Incubate at 37<sup>o</sup>C for 1 hour to phosphorylate 5' ends
+3. Incubate 65<sup>o</sup>C for 20min to inactivate enzymes
+
+Part 3: Ligase Cycling Reaction
+
+1. Prepare master mix with:
+
+|         Component          |                     Volume                     |
+|:--------------------------:|:----------------------------------------------:|
+|         DNA parts          |                   15&#956;L                    |
+| 1.5&#956;M Bridging olgios |                0.5&#956;L each                 |
+|   Ampligase buffer (10x)   |                    1&#956;L                    |
+|  Ampligase (50U/&#956;L)   |                   1.5&#956;L                   |
+|         5M Betaine         |                      2.25                      |
+|            DMSO            |                    2&#956;L                    |
+|           Water            | To 25&#956;L (4.75 - 0.5 * # of linker olgios) |
+
+2. Make master mix with:
+ * Ampligase Buffer (10&#956;l)
+ * DMSO (20&#956;L)
+ * 5M Betaine (22.5&#956;L)
+ * Total = 52.5 or 5.25&#956;L
+3. Set-up and running thermal cycler with these settings:
+ * 94<sup>o</sup>C for 2 min
+ * 94<sup>o</sup>C for 10 sec
+ * 55<sup>o</sup>C for 30 sec
+ * 66<sup>o</sup>C for 60 sec
+ * Go to 2, 49 times
+ * Hold 4<sup>o</sup>C forever
+
+Part 4: Transformation
+
+1. Chemically competent cells sufficed for <8 pieces
+2. Screen ~2 resulting colonies
+
+### LEAVING THE LAB
+
+Prior to leaving the lab, you should:
+
+1. Clean dirty glassware, or at least set aside the glassware to be cleaned by a designated individual.
+2. Wipe down your workspace.
+3. Ensure that all materials have been returned to their places, and that the plates have been properly
+stored in the fridge.
+
+### REFERENCES
+
+Protocol provided by Naveen Venayak
+
+
