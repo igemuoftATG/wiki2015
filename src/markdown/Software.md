@@ -1,35 +1,13 @@
-* will fix format of  references when it's completely done
- ![hi]()
-
 ### Brief Description:
 
-Bacteria generally occur in communities, whether they be in dirt, in water, in the air, on skin or in the gut. In microbial communities, the survival of all species are interdependent; the biochemical and behavioral activities of
-one species provides the necessary metabolites and living environment for
-another [1]. Many approaches have been developed for predicting flux
-distributions in the metabolic network of one species using flux balance
-analysis (FBA) in order to optimize for biomass or product formation [2,3]. Flux
-balance analysis has been used for a variety of applications, including drug
-target identification by evaluation of gene essentiality, knowledge-gap filling
-of metabolic models and metabolic engineering of E. coli for lycopene synthesis
-[4-6]. However, algorithms to perform FBA at a community level have been rare and
-complex (often using non-linear programming and presenting high difficulty for solvers).
-In community FBA (cFBA), the exchange of metabolites between species, the
-biomass, relative fitness, and competitive ability of each species affects
-metabolic flux within the community as well as within each individual species [4-6].
-MetaFlux, a web tool developed by the Toronto iGEM Team, carries out cFBA
-between bacterial species custom-chosen by the user via a __linear-programming algorithm__,
-and displays the results through an interactive and easily-understandable node-edge
-visualization.
+Bacteria generally occur in communities, whether they be in dirt, in water, in the air, on skin or in the gut. In microbial communities, the survival of all species are interdependent; the biochemical and behavioral activities of one species provides the necessary metabolites and living environment for another [1]. Many approaches have been developed for predicting flux distributions in the metabolic network of one species using flux-balance analysis (FBA) in order to optimize for biomass or product formation [2,3]. Flux-balance analysis has been used for a variety of applications, including drug target identification by evaluation of gene essentiality, knowledge-gap filling of metabolic models and metabolic engineering of E. coli for lycopene synthesis
+[4,5,6]. However, algorithms to perform FBA at a community level have been rare and complex (often using non-linear programming and presenting high difficulty for solvers). In community FBA (cFBA), the exchange of metabolites between species, the biomass, relative fitness, and competitive ability of each species affects metabolic flux within the community as well as within each individual species [4,5,6].
 
-### Web Application: Framework of the MetaFlux Interface
+ConsortiaFlux, a web-based tool developed by the Toronto iGEM Team, carries out cFBA between bacterial species custom-chosen by the user via a __linear-programming algorithm__, and displays the results through an interactive and easily-understandable node-edge visualization.
 
-MetaFlux was developed using D3.JS, a JavaScript library for creation of
-interactive networks using nodes and edges. The object of the MetaFlux web tool
-is to visualize and manipulate community level metabolic networks in the tool’s
-_“extracellular view”_ in addition to visualizing species-specific cytoplasmic
-networks in the _“cytoplasmic view”_, to present flux distributions in each of these
-views, and to present changes in flux distributions occurring from any alterations
-made to the metabolic network. Asynchronous calls to the backend optimize the
+### Web Application: Framework of the ConsortiaFlux Interface
+
+ConsortiaFlux was developed using D3.JS, a JavaScript library for creation of interactive networks using nodes and edges. The object of the ConsortiaFlux tool is to visualize and manipulate community-level metabolic networks in the tool’s _“extracellular view”_ in addition to visualizing species-specific cytoplasmic networks in the _“cytoplasmic view,”_ to present flux distributions in each of these views, and to present changes in flux distributions occurring from any alterations made to the metabolic network. Asynchronous calls to the backend optimize the
 network using an iGEM Toronto Python script, which in turn, uses COBRApy, and a
 constraint-based modeling package was used to model metabolic networks from
 metabolic models in the form of SBML (Synthetic Biology Markup Language) XML
@@ -59,7 +37,7 @@ each respective biomass objective function. We then store each of the flux value
 returned by the objective function for each species in a new text file. We
 take the flux values and calculate standardized z-scores by comparing all values. Fractional
 biomass coefficients are then calculated for each species by taking each species'
-respective z-score and diving by the sum of the z-scores for all species; these values 
+respective z-score and diving by the sum of the z-scores for all species; these values
 will also be stored in a new text file. (The sum of all fractional biomass coefficients
 should be equal to one.) Lastly, a community metabolic model will be created where
 species are treated as if they were the metabolic compartments of a community 'organism'.

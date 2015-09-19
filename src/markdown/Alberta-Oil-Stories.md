@@ -2,6 +2,7 @@
 
 Our research team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. In exploring the social and environmental connections of our project, particularly how our tool can be applied to bioremediation of Oil Sands tailings pond water in Alberta, we wanted to hear views directly from the most impacted people. The frontline communities dealing with issues of clean water accessibility in the area of Alberta's oil industry are largely indigenous communities who have experienced marginalization and injustice as a result of poor regulations. In August, our Policy and Practices team members went to Alberta to hear the stories of these communities. 
 
+The main purpose of our exploration in Alberta's Athabasca watershed was to understand water management within the Oil Sands, and how such management affects the communities living downstream of industry and potential pollutants.  Throughout our research trip in Alberta, we kept a detailed blog of our experiences, in order to engage the wider public in both synthetic biology and environmental health. The goal of our blog was to provide a platform to share the stories of water-based interactions from those on the front lines of the Oil Sands industry – often these are First Nations communities, who are fighting for their right to a healthy environment through free, prior and informed consent of what developments are allowed on their lands.
 
 ## Keepers of the Water Conference
 
