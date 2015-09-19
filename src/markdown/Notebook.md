@@ -113,22 +113,11 @@
 
 #### 07/07/15
 
-Nanodrop measurements for interlab:
-
-|               |      Device1 A | Device 1 B  | Positive Control| RFP      |
-|:-------------:|:---------------------------------------------------------:|
-| Concentration | 92.3ng/mL          | 94.9 ng/mL | 60.1 ng/mL | 92.1 ng/mL |
-
 * gel electrophoresis of Device1 A and Device1
 * ligation of device 1
 
 
 #### 08/07/15
-
-
-|               |     Device2 A | Device 2 B      |
-|:-------------:|:-------------------------------:|
-| Concentration | 96.4ng/mL          | 97.8 ng/mL |
 
 * gel electrophoresis of interlab device 2
 
@@ -144,15 +133,6 @@ Nanodrop measurements for interlab:
 
 * Miniprep of RFP and pDTG601
 * Gel electrophoresis of pDTG601 and RFP
-
-Nanodrop readings:
-
-
-|               |            pDTG601 1 | pDTG601 2 | RFP 1| RFP 2            |
-|:-------------:|:----------------------------------------------------------:|
-|    260/280    |                 1.79 | 1.99 | 1.65 | 1.73                  |
-|    260/230    |                 0.55 | 0.97 | 0.75 | 0.79                  |
-| Concentration | 19.2 ng/mL          | 26.8 ng/mL | 16.6 ng/mL | 20.6 ng/mL |
 
 
 ### Week Five
@@ -176,27 +156,10 @@ Nanodrop readings:
 * Prepared 25 LB + CAM plates
 * Gel electrophoresis of TodE and TodF PCR products
 
-* Nanodrop measurements:
-
-|               |      TodE 1         | TodE 2 | TodF 1|      TodF 2       |
-|:-------------:|:--------------------------------------------------------:|
-|    260/280    |         1.43           | 1.61 | 1.52 |     1.53          |
-|    260/230    |          1.09          | 1.53 | 1.59 |     1.64          |
-| Concentration | 5.0 ng/mL          | 5.2  ng/mL | 5.1 ng/mL | 10.8 ng/mL |
-
 
 #### 15/07/15
 
 * PCR amplified todE insert using FroggaBio 2X Taq FroggaMix
-
-
-
-|               |         TodE 1| TodE 2          |
-|:-------------:|:-------------------------------:|
-|    260/280    |       1.99         | 1.76       |
-|    260/230    |     3.55             | 2.51     |
-| Concentration | 8.7 ng/mL          | 14.9 ng/mL |
-
 * PCR purification of TodE
 * ran gel electrophoresis of TodE
 * Matt got stuck in the freight elevator.
@@ -207,13 +170,6 @@ Nanodrop readings:
 
 * Gradient PCR for todE using FroggaBio 2X Taq FroggaMix
 
-
-|               |         A          | B |C |     D              | E| F| G| H          |
-|:-------------:|:--------------------------------------------------------------------:|
-|  Temperature  | 67.5                     | 67.0| 65.9| 63. 9|61.5 |59.5 |58.2|  57.2 |
-|    260/280    |      1.19             | 1.10 | 1.22 |      1.19            ||||      |
-|    260/230    |                    |  |  |                  ||||                     |
-| Concentration |  ng/mL          |  ng/mL |  ng/mL |  ng/mL |ng/mL|ng/mL|ng/mL|ng/mL  |
 
 ### Week Six
 
