@@ -23,7 +23,18 @@ Our main goal in this project was to create standardized and easily customizable
 ### Achieved:
 Following are listed the goals we are able to accomplish
 __Plasmid design__:  
---Add picture--[Plasmid]
+
+<p class="image-wrapper">
+{{image "TodFplasmid.png" directlink mode}}
+</p>
+
+<p class="image-wrapper">
+{{image "TodEplasmid.png" directlink mode}}
+</p>
+
+<p class="image-wrapper">
+{{image "lcrconstrcut.png" directlink mode}}
+</p>
 
 * This was perhaps one of the most critical stages of the project since only a correctly designed plasmid would ultimately allow E.coli to successfully degrade toluene. For this purpose, we sought extensive guidance from our graduate and faculty supervisors who have had extensive experience in these areas. The plasmids were designed to be assembled by Gibson Assembly, Ligase Chain Reaction (LCR) and Synbiota Assembly. (A form of standardized digestion and ligation assembly) 
 
