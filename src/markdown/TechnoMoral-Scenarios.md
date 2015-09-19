@@ -24,12 +24,7 @@ Natural scientists seek to understand natural reality by observing the parts tha
 Acrylic on Canvas, 24"x32", ©1985 James A. Simon. MISHIBINIJIMA.
 
 
-## Scenario Two:
-
-**insert corporate presentation here**
-
-
-## Scenario Three: Father and Son from directly affected First Nation
+## Scenario Two: Father and Son from directly affected First Nation
 
 > Father: Son, your mother told me about it earlier today - you are going to be a father! That’s the reason I wanted to speak to you. You know our people always put our families first. Always first! You are my son, and protecting your future guides me more than being chief . I know that you will feel the same towards your son in time.  
 > Son: What do you mean, Dad?  
