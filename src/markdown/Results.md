@@ -18,14 +18,14 @@ This system has already been used for a wide range of projects including pinpoin
 
 ### Wetlab Goals:
 
-Our main goal in this project was to increase the efficiency of toluene degradation by creating a plasmid that produces the tod E and tod F gene that are crucial steps in the toluene degradation pathway. This process required the design and assembly of a plasmid optimized for E.coli, the transformation of E.coli with the plasmid, the confirmation of protein formation and the subsequent characterization of enzymatic activity. We subsequently also aimed to incorporate the complete toluene degradation pathway in E.coli to observe the complete degradation of toluene to carbon-dioxide and water, which would essentially further verify the success of our created plasmid.
+Our main goal in this project was to create standardized and easily customizable synthetic parts coding for the enzymes in the tod pathway, a toluene degrading pathway native to pseudomonas putida F1, in order to improve the efficiency of the pathway. We focused on the tod E (3-methyl catechol 2,3-dioxygenase) and tod F (HODA hydrolase) genes which appear to be important bottlenecks in the toluene degradation pathway. We are using E.Coli MG1655 as a model chassis since it contains the enzymes downstream of TodF in the pathway. As such, plasmid design had to be optimized for E.coli. This would be followed by the transformation of E.coli with the plasmid, the confirmation of protein formation by SDS PAGE and western blot (via His Tags) and the subsequent characterization of enzymatic activity. The characterization of TodE and TodF would be acheived via a spectrophotometric assay that would measure the change in the wavelength of 6-methyl HODA at 367nm. TodE would produce 6-methyl HODA and TodF would show consumption of the metabolite. This would be used to create a Michaeles-Mentens graph by transforming absorbance readings into concentrations by Beer's law. We subsequently also aimed to incorporate the complete toluene degradation pathway in E.coli to observe the complete degradation of toluene to carbon-dioxide and water. This would be achieved by co-transforming our plasmid with TodEF and TodABC1C2D (obtained from Dr. Zylstra).
 
 ### Achieved:
 Following are listed the goals we are able to accomplish
 __Plasmid design__:  
 --Add picture--[Plasmid](one I sent you before)
 
-* This was perhaps one of the most critical stages of the project since only a correctly designed plasmid would ultimately allow E.coli to successfully degrade toluene. For this purpose, we sought extensive guidance from our graduate and faculty supervisors who have had extensive experience in these areas.
+* This was perhaps one of the most critical stages of the project since only a correctly designed plasmid would ultimately allow E.coli to successfully degrade toluene. For this purpose, we sought extensive guidance from our graduate and faculty supervisors who have had extensive experience in these areas. The plasmids were designed to be assembled by Gibson Assembly, Ligase Chain Reaction and Synbiota Assembly. (A form of standardized digestion and ligation assembly)
 
 
 * __Plasmid creation__:  
