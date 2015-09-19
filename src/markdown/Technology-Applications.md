@@ -4,7 +4,7 @@ We are working on creation of a synthetic bacteria which can efficiently degrade
  We have tried to address this issue in two ways:
 
 * __Public engagement__ and education about our project
-* __A Novel bioreactor__ design that can efficiently use bacteria to degrade toluene while keeping it separate from the environment.
+* __A novel bioreactor__ design that can efficiently use bacteria to degrade toluene while keeping it separate from the environment.
 
 Below is the design of our bioreactor along with it's functionality explanation.
 
