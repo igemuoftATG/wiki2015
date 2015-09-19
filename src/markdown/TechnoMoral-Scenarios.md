@@ -49,9 +49,9 @@ Acrylic on Canvas, 24"x32", ©1985 James A. Simon. MISHIBINIJIMA.
 
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Indigenous%20art%201.jpg)
 
-## References in order of appearance:  
-Smit, W., & Oost, E. (1999). De wederzijdse beïnvloeding van technologie en maatschappij: Een Technology Assessment-benadering. Bussum: Coutinho.
-Blackmore, S. (1999). The meme machine. Oxford: Oxford University Press. 
-Zajonc, R. (2001). Mere Exposure: A Gateway to the Subliminal. Current Directions in Psychological Science, 10(6), 464-470. 
-Fiske, A. (1991). Structures of social life: The four elementary forms of human relations : Communal sharing, authority ranking, equality matching, market pricing. New York: The Free Press. 
-Dopfer, Kurt, J. Foster, & J. Potts, (2004). Micro-meso-macro. Journal of Evolutionary economics 14(3), 263–279. 
+## References in order of appearance:    
+Smit, W., & Oost, E. (1999). De wederzijdse beïnvloeding van technologie en maatschappij: Een Technology Assessment-benadering. Bussum: Coutinho.   
+Blackmore, S. (1999). The meme machine. Oxford: Oxford University Press.   
+Zajonc, R. (2001). Mere Exposure: A Gateway to the Subliminal. Current Directions in Psychological Science, 10(6), 464-470.  
+Fiske, A. (1991). Structures of social life: The four elementary forms of human relations : Communal sharing, authority ranking, equality matching, market pricing. New York: The Free Press.   
+Dopfer, Kurt, J. Foster, & J. Potts, (2004). Micro-meso-macro. Journal of Evolutionary economics 14(3), 263–279.  
