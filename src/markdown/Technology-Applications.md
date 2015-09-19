@@ -9,20 +9,11 @@ The goal of our project is to sunthesize bacteria that can effectively degrade T
 
 
 ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/bioreactor%20updated%20design.jpg)
-Above is the diagram for the membrane bioreactor.
 
 ### Design:
 As shown in the image the middle chamber is the reaction chamber, separated into multiple shelves.	 Each shelf has a discrete colony of bacteria(shown in red) along with natural bacteria(shown in green) that originally degraded toluene in the environment. On each side of the shelves we have a 0.2 µm pore size membrane. The purpose of these membranes is to confine bacteria into each compartment. The inlets and outlets of water on each side of the shelves is guarded by automatic water shut off valves.
 
-### How it works:
-The toxic water is pumped into the reaction chamber from the top. The water enters into the first shelf through V1 or V2 valves – through V1 valve according to above diagram. The water is then allowed to stay in the chamber for a calculated amount of time, which is based on the time bacteria takes to degrade Toluene. After that time, water is allowed to go into the next chamber through V4 valve. Notice that water came into the chamber through V1 valve and travelled across the shelf to exit through V4 valve, which cause bacteria to clog the membrane on the right. The water is then allowed to stay into the second shelf for a specific time, to allow bacteria to degrade Toluene and later let into third shelf. Meanwhile, the first shelf has obtained a new load of water through V2 valve, which is later allowed to exit the shelf through V3 valve. This creates a two way flow of the water. The purpose of this two way flow of water is to reduce membrane fouling and biofilm formation by bacteria. Furthermore, the two way flow of water dislodges the bacteria from the membrane and spreads it back into the chamber, this allows better mixing of bacteria in the water which helps degrade Toluene effectively. The slits at the top of each shelf allow air exchange which gives a direct air contact with the surface of water in each shelf. The reason for this is to allow the bacterial colonies to have access to air which they would in the outside environment. Thus each shelf mimics the outside environment, this allows us to __effectively apply community flux balance analysis to each shelf__.  The purpose of having multiple shelves is to increase the efficiency of degradation by having smaller loads of water in each chamber rather than having bulk amount of water in one chamber.
-
-### Prototype:
-Our team has built a functional prototype of the bioreactor design shown above. We intend to demonstrate the working ability of our prototype during our presentation. However, for demonstration purposes we have chosen to not use bacteria since bacteria is not conspicous to the naked eye as well as we can not visually asses the effictiveness of the bacteria. Hence, we have decided to use beeds instead of bacteria, and wire gauze instead of 0.2 µm membranes. This would allow us to demonstarate the working ability of our bioreactor, however our prototype allows the use of bacteria and membranes in order to degrade Toluene.
-
-
-
-### Advantages over conventional bioreactor:
+### Reasons for being technology application design:
  * 	__Multi-stage purification of water__ allows thorough contact between bacteria and the water. Water being purified in multiple smaller loads of water is more effective than bulk amount of water with all the bacteria in it. Bulk amount of water with bacteria requires mixing of water.
  * 	__0.2 µm pore size__ membranes allow no bacteria to escape each bacteria. Thus ensuring no bacteria enters fresh water.
  * __Better control__ – Automated gates control two way flow of water, ensuring no overflow of water in each shelf.
