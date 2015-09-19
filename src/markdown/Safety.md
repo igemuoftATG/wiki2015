@@ -21,6 +21,46 @@ The major safety concern in use of synthetic biology is it's exposure to the nat
 |                            What happens if shelves over flow                             |                                      Each shelf has its automatic water shut off mechanism which is connected to water level monitor in each shelf. If ever there is an overflow of water, the shut off valves will prevent any water from escaping the bioreactor                                       |
 | Safety issues associated with cleaning of the bioreactor after prolonged periods of time | For the maintenance of the bioreactor, each shelf can be maintained separately while keeping the rest of the shelves working. For this reason, bioreactor does not need to be shut off for maintenance. Hence, bacteria and other compounds can be safely discarded without disrupting the flow of water |
 
+# Safety
+## Goal
+As an undergraduate research team, University of Toronto iGEM 2015 has spent a considerable amount of time and effort to ensure the safe and responsible realization of our 2015 summer project.
+Given the ethical and scientific challenges to degrade BTEX compounds like toluene, iGEM Toronto, in collaboration with the University of Toronto and the Biozone Centre for Applied Bioscience and Bioengineering, has taken several measures throughout the project in terms of:
+1. Responsible project design
+- Laboratory safety
+
+## Responsible project design
+Given the sensitive nature of synthetic biology and bioremediation in fragile environments around the oil sands, it is essential to consider how the implementation of synthetically engineered communities would be received as a solution on an ethical and practical level. As such, our policy and practices team investigated various technomoral scenarios of how a functional product would be implemented on a large scale. They explored "the mammoth" (Large scale plant design) and "pill" (introduction of small contained cultures of synthetic organisms) designs would work going in favour of membrane-bound cultures of synthetic organisms that would allow free exchange of metabolites without freely releasing the bacteria into the ecosystem. This method of delivery drastically reduces the possibility of uncontrolled proliferation of the engineered organism making the product more controllable and ethically feasible. Moreover, an analysis of the technical and financial feasability of the product was conducted. Interviews of various stakeholders like the oil extraction companies and aboriginal groups was also conducted to see how such a solution would be implemented and perceived. A complete account of the above considerations can be found in the policy and practices section.
+
+The wet lab project design also took a number of safety considerations to ensure that the degradation of hazardous chemicals like toluene and 3-methyl catechol could be investigated. E.coli, K12 MG1655, a non-pathogenic chassis that contained part of our target pathway in its native proteome, was used. All other organisms used like DH10B and pseudomonas putida F1 (the organism containing the complete target toluene-degrading pathway) were all biosafety level 1. Moreover, we consulted our graduate advisors regarding the use of specialized containers (Boston flasks) to minimize the risk of spillage and exposure. We also had to redirect our efforts away from benzene towards toluene as our preferred choice of BTEX target due to the increased volatility of benzene and the need for specialized training for its use.
+
+## Laboratory Safety
+The iGEM Toronto 2015 wet lab team was composed of 4 wet lab team leads, 3 lab managers and 15 general members. Due to the size and sensitivity of our project,following proper safety protocols was paramount. This was achieved by establishing safety controls at the level of the:
++ administration
++ executive committee
+
+
+An intensive safety program was created by U of T iGEM in collaboration with the University of Toronto and Biozone to ensure that members were well equipped for laboratory work. The University provided us with a course on Environmental Health and Safety. This included safety essentials like:
+- WHMIS
+- Risk groups and risk assessments of biologicals.
+- Proper use of biological safety cabinets and fumehoods.
+- Sterilization and proper disposal of biologicals and chemical waste.
+- Emergency responses.
+- Packaging and shipping laws.
+
+The Biozone Centre for Bioscience and Bioengineering supplied additional specialized training for their facilities regarding:
+- General laboratory rules.
+- Interactive demonstrations of safety protocols including the use of eye wash stations and safety showers.
+- Autoclave use for sterilization.
+- Demonstrations of potentially hazardous equipment like large centrifuges and -80oC freezers.
+- Sorting and disposal of biologicals and chemicals.
+
+These guidelines were primarily enforced by our lab managers who worked diligently to ensure general safety and reduce the general members' use of potentially dangerous equipment. They also ensured that proper personal equipment (PPE) like lab coats, safety goggles and gloves were available and worn at all times. Each member were also individually shown all emergency equipment available in the workspace including safety showers, eye wash stations, fire extinguishers and spill kits.
+
+While a general understanding of safety is essential, the executive committee and the administration of Biozone felt that it was also necessary for the members to have a thorough understanding of the techniques and chemicals that they would be using in the project. As such, the executives set up seminars to instruct the members of the theoretical background of procedures like gel electrophoresis, PCR, SDS PAGE and catechol degradation assays with a special focus on possible sources of hazards and available protective equipment. This knowledge was reinforced through internal quizzes and the completion of Biozone's research registration form (RRF) which required our members to list the equipment and reagents to be used at various stages of the project as well as emergency procedures to be taken in case of accidents.
+
+The general managers were proactively involved with the maintenance of proper safety standards and set up safety committees to assist the lab managers in assembling and summarizing Material Safety Data Sheets (MSDS) for the various protocols we were running. Moreover, we held weekly general lab meetings and daily executive meetings to discuss the techniques we were planning to use and how to perform them safely and efficiently.
+
+Finally, our lab managers and team leads also took a course on Transport of dangerous goods (TGD) provided by the University of Toronto to ensure that they had a thorough understanding of the legalities and packaging requirements of transporting class 9 and 6.2 goods including dry ice and geneticaly modified organisms. This allowed us to ensure safe shipping our plasmids for our iGEM part submission.
 
 
 
