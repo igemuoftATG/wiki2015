@@ -338,3 +338,57 @@
 #### 28/08/15
 
 * Gel electrophoresis of Gibson products of TodE and TodE & TodF
+* 
+
+## SEPTEMBER
+
+### Week Twelve
+
+#### 31/08/15
+
+* Bacterial transformation with LCR products, RFP as a control
+* PCR of Synbiota TodE with Phusion polymerase
+* Synbiota assembly of aCP and TodE
+
+#### 01/09/15
+
+* Made 1xTAE
+* Bacterial transformation with LCR remnants, aCP, todE, RFP.
+* Gel electrophoresis of Synbiota TodE and aCP
+* Overnight cultures of LCR products, TodE, RFP
+
+#### 02/09/15
+
+* Gibson assembly of TodE and TodF inserts.
+* 1mL SOC aliquot stocks
+* Transformation with aCP, TodE, RFP
+
+#### 03/09/15
+
+* Miniprep of LCR products, todE, RFP
+* Synbiota assembly of todE and aCP
+
+#### 04/09/15
+
+* Synbiota assembly of TodE and aCP
+* Bacterial transformation with TodE from Synbiota and with TodE from Gibson assembly, Gibson assembled TodE and TodF
+
+### Week Thirteen
+
+#### 07/09/15
+
+Labour Day
+
+#### 08/09/15
+
+* gel electrophoresis for TodF of Gibson assembly
+
+#### 09/09/15
+
+* Gel electrophoresis of TodF for Gibson assembly
+* Miniprep of RFP, TodE and aCP
+* Bacterial transformations with Gibson TodEF plasmids, Gibson todE plasmid, RFP and LCP products
+
+#### 10/09/15
+
+* Bacterial transformation with diluted Gibson products
