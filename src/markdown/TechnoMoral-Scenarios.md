@@ -17,7 +17,9 @@ Natural scientists seek to understand natural reality by observing the parts tha
 >	Those who wear the feathers of the sky upon their heads, had long ago entered into my domain. They who have heard my voice echo and offered only their ears. Who hold reverence for both time that passes and time that does not, folding themselves into the fabric, the layers of these lands. Heeding to my own warnings, to neither disturb the cycles of life and death, of the timeless essence that governs this land. I have seen them come and go, as is the fate of all creatures born into time.  
 >  Oh these waterfalls that now dot these lands, nesting creatures invisible to the eyes of man. Like a fountain of life, they breath upon the murky blue, letting shimmer again the deep blue lakes. These creatures I cannot come to understand, with mastery over life that the spirits have command. Like the movement of the clouds, or the shining of the sun, their intentions neither good nor bad. Only to their ends do they serve, to not disturb the cycles that will harbinger their end. And now I can reclaim these lands once again, in unison with my eternal companion, the spirits of clouds that overhang. Bear to existence offspring of our union, the seeds of these lands, the forests immaculate shall once again stand.  
  
- ![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Bay%20of%20the%20Brown%20Beaver.jpg)  
+<p class="image-wrapper">
+{{image "Bay of the Brown Beaver.jpg" directlink mode}}
+</p>
  Traditional Anishnaabe artwork, "Bay of the Brown Beaver" from the Mountain Series Art Collection,
 Acrylic on Canvas, 24"x32", ©1985 James A. Simon. MISHIBINIJIMA.
 
@@ -47,11 +49,13 @@ Acrylic on Canvas, 24"x32", ©1985 James A. Simon. MISHIBINIJIMA.
 > S: But we will not forget our culture. Change is modification, not deletion. We will continue to guard our land as zealously as you have. With the new technologies of the settlers, we will form new traditions to reflect our changing world. This is still OUR land!  
 > F: And it will always be...  
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Indigenous%20art%201.jpg)
+<p class="image-wrapper">
+{{image "Indigenous art 1.jpg" directlink mode}}
+</p>
 
-## References in order of appearance:  
-Smit, W., & Oost, E. (1999). De wederzijdse beïnvloeding van technologie en maatschappij: Een Technology Assessment-benadering. Bussum: Coutinho.
-Blackmore, S. (1999). The meme machine. Oxford: Oxford University Press. 
-Zajonc, R. (2001). Mere Exposure: A Gateway to the Subliminal. Current Directions in Psychological Science, 10(6), 464-470. 
-Fiske, A. (1991). Structures of social life: The four elementary forms of human relations : Communal sharing, authority ranking, equality matching, market pricing. New York: The Free Press. 
-Dopfer, Kurt, J. Foster, & J. Potts, (2004). Micro-meso-macro. Journal of Evolutionary economics 14(3), 263–279. 
+## References in order of appearance:    
+Smit, W., & Oost, E. (1999). De wederzijdse beïnvloeding van technologie en maatschappij: Een Technology Assessment-benadering. Bussum: Coutinho.   
+Blackmore, S. (1999). The meme machine. Oxford: Oxford University Press.   
+Zajonc, R. (2001). Mere Exposure: A Gateway to the Subliminal. Current Directions in Psychological Science, 10(6), 464-470.  
+Fiske, A. (1991). Structures of social life: The four elementary forms of human relations : Communal sharing, authority ranking, equality matching, market pricing. New York: The Free Press.   
+Dopfer, Kurt, J. Foster, & J. Potts, (2004). Micro-meso-macro. Journal of Evolutionary economics 14(3), 263–279.  
