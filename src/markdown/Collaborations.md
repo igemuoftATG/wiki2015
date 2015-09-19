@@ -1,6 +1,4 @@
 
-##iGem team that we sent DNA to
-
 #University iGEM Collaborations
 
 ## 1. Oxford University iGEM   
