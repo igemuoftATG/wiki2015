@@ -169,16 +169,22 @@ class Helpers
 
             if typeof(value) is 'object'
                 if isActive
-                    content += "<li class=\"active\"><a href=\"#\">#{item}</a>\n"
+                    # content += "<li class=\"active\"><a href=\"#\">#{item}</a>\n"
+                    content += "<li class=\"active\"><a href=\"#\"><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
                 else
-                    content += "<li><a href=\"#\">#{item}</a>\n"
+                    # content += "<li><a href=\"#\">#{item}</a>\n"
+                    content += "<li><a href=\"#\"><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
                 content += navigation(value, mode, active1, active2)
                 content += "</li>"
             else
+                if item is 'index'
+                    item = 'home'
                 if isActive
-                    content += "<li class=\"active\"><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
+                    # content += "<li class=\"active\"><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
+                    content += "<li class=\"active\"><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a></li>\n"
                 else
-                    content += "<li><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
+                    # content += "<li><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
+                    content += "<li><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a></li>\n"
 
         content += "</ul>\n"
 
@@ -207,7 +213,7 @@ class Helpers
     markdownHere: (string, options) ->
         marked.setOptions({
             highlight: (code) ->
-                 return highlighter.highlightAuto(code).value
+                return highlighter.highlightAuto(code).value
         })
 
         handlebarsedMarkdown = hbs.compile(string)(templateData)
@@ -218,7 +224,7 @@ class Helpers
     markdown: (file) ->
         marked.setOptions({
             highlight: (code) ->
-                 return highlighter.highlightAuto(code).value
+                return highlighter.highlightAuto(code).value
         })
 
         markdownFile = fs.readFileSync("#{__dirname}/src/markdown/#{file}.md").toString()

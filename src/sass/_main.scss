@@ -1,7 +1,8 @@
 // I always set these to 100%
-html, body {
-    height : 100%;
-    width  : 100%;
+html,
+body {
+    height: 100%;
+    width: 100%;
 }
 
 body {
@@ -16,57 +17,57 @@ body {
     // ordinary block, taking up all available width except that occupied by the
     // float. This trick is used in conjunction with #navigation{float: left;}
     // see: http://stackoverflow.com/questions/1260122/expand-div-to-take-remaining-width
-    overflow: hidden;
+    background-color: $contentBG;
     min-height: 100%;
-
+    overflow: hidden;
+    padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
-    background-color: $contentBG;
 }
 
 // Navigation styles
 // We have a ul of li > a's, some of which may contain another ul of li > a's
 #navigation {
-    float: left;
     // By setting display to inline-block, the div will expand its width
     // based on the contents. i.e. we can change the font size and this
     // will automatically readjust.
     display: inline-block;
+    float: left;
 
     ul {
         margin: 0;
         padding: 0;
 
         li {
-            position: relative;
             display: block;
-            width: 100%;
             list-style: none;
+            position: relative;
             text-align: center;
+            width: 100%;
 
             a {
-                display: block;
-                text-transform: capitalize;
-                text-decoration: none;
-                padding: 10px;
-                padding-left: 20px;
-                padding-right: 20px;
-                color: $navLinkColour;
-                background-color: $navLinkBG;
                 @include transition(all 200ms ease);
+                background-color: $navLinkBG;
+                color: $navLinkColour;
+                display: block;
+                font-size: 2em;
+                padding: 10px;
+                // padding-left: 20px;
+                // padding-right: 20px;
+                text-decoration: none;
+                text-transform: capitalize;
             }
 
             ul {
                 // Hide inner navs offscreen for now
-                position: absolute;
                 left: -9001px;
+                position: absolute;
             }
 
             &:hover {
                 a {
+                    background-color: $navLinkOuterHoverBG;
                     color: $navLinkOuterHoverColor;
-                    background: $navLinkOuterHoverBG;
                 }
 
                 ul {
@@ -85,19 +86,19 @@ body {
 
             &.active {
                 a {
-                    color: $navLinkActiveOuterColour;
                     background-color: $navLinkActiveBG;
+                    color: $navLinkActiveOuterColour;
                 }
 
                 ul li {
                     a {
-                        color: $navLinkColour;
                         background-color: $navLinkOuterHoverBG;
+                        color: $navLinkColour;
                     }
 
                     &.active a {
-                        color: $navLinkActiveInnerColour;
                         background-color: $navLinkActiveInnerBG;
+                        color: $navLinkActiveInnerColour;
                     }
                 }
             }
@@ -105,15 +106,15 @@ body {
     }
 }
 
-p.image-wrapper {
-	text-align: center;
+.image-wrapper {
+    text-align: center;
 
-	img {
-		width: 50%;
-		height: auto;
-		background-color: $imageBG;
-		padding: 5px;
-		@include border-radius(5px);
-		border-bottom: 2px solid darken($grey-200, 15%);
+    img {
+        @include border-radius(5px);
+        background-color: $imageBG;
+        border-bottom: 2px solid darken($grey-200, 15%);
+        height: auto;
+        padding: 5px;
+        width: 50%;
 	}
 }
