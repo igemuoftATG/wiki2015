@@ -58,10 +58,40 @@ body {
                 text-transform: capitalize;
             }
 
+            span {
+                @include border-radius(5px);
+                @include transform(translateY(-50%));
+                background-color: $black;
+                color: $white;
+                font-size: 1.5em;
+                left: -9999px;
+                padding: 10px;
+                position: absolute;
+                text-transform: capitalize;
+
+                &:before {
+                    @include transform(translateY(-50%));
+                    border-color: transparent $black transparent transparent;
+                    border-style: solid;
+                    border-width: $navigationTooltipTriangleHeight $navigationTooltipSpacing $navigationTooltipTriangleHeight 0;
+                    content: '';
+                    height: 0;
+                    left: -$navigationTooltipSpacing;
+                    position: absolute;
+                    top: 50%;
+                    width: 0;
+                }
+            }
+
             ul {
                 // Hide inner navs offscreen for now
-                left: -9001px;
+                left: -9999px;
+                line-height: 100%;
                 position: absolute;
+
+                ul {
+                    background-color: $navLinkOuterHoverBG;
+                }
             }
 
             &:hover {
@@ -70,9 +100,28 @@ body {
                     color: $navLinkOuterHoverColor;
                 }
 
+                span {
+                    left: calc(100% + #{$navigationTooltipSpacing});
+                    top: 50%;
+                }
+
                 ul {
                     left: 100%;
                     top: 0;
+
+                    li {
+                        span {
+                            // Keep inner tooltip hidden for now
+                            left: -9999px;
+                        }
+
+                        &:hover {
+                            span {
+                                left: calc(100% + #{$navigationTooltipSpacing});
+                                top: 50%;
+                            }
+                        }
+                    }
 
                     a:hover {
                         color: $navLinkInnerHoverColour;

@@ -267,7 +267,8 @@ gulp.task 'serve', ['sass', 'build:dev'], ->
                 '/preamble'         : './src/preamble'
                 '/images'           : './images'
 
-    watch [globs.hbs, globs.js, globs.md, globs.sass, files.template], ->
+    watch [globs.hbs, globs.libCoffee, globs.libJS, globs.md, globs.sass, files.template], (vinyl) ->
+        gutil.log(vinyl.inspect())
         gulp.start('build:dev')
 
     watch [globs.libCoffee, globs.libJS], ->

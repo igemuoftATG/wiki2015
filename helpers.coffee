@@ -174,17 +174,21 @@ class Helpers
                 else
                     # content += "<li><a href=\"#\">#{item}</a>\n"
                     content += "<li><a href=\"#\"><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
+                # content += "<div class=\"inner-menu\"><span>#{item}</span>"
                 content += navigation(value, mode, active1, active2)
-                content += "</li>"
+                # content += "</div></li>"
             else
                 if item is 'index'
                     item = 'home'
                 if isActive
                     # content += "<li class=\"active\"><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
-                    content += "<li class=\"active\"><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a></li>\n"
+                    content += "<li class=\"active\"><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a>"
                 else
                     # content += "<li><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
-                    content += "<li><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a></li>\n"
+                    content += "<li><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a>"
+                content += "<span>#{item}</span>"
+                content += "</li>\n"
+
 
         content += "</ul>\n"
 
