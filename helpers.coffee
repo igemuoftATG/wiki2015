@@ -235,7 +235,9 @@ class Helpers
         markdownFile = fs.readFileSync("#{__dirname}/src/markdown/#{file}.md").toString()
         handlebarsedMarkdown = hbs.compile(markdownFile)(templateData)
 
-        markedHtml = '<ul class="toc">' + marked(toc(handlebarsedMarkdown, {firsth1: false}).content).slice(4)
+        markedHtml = '<div id="toc" class="toc sidebar"><ul class="nav">' +
+                         marked(toc(handlebarsedMarkdown, {firsth1: false}).content).slice(4) +
+                     '</div>'
         markedHtml += '<div class="content-main">' + marked(handlebarsedMarkdown) + '</div>'
 
         return new hbs.SafeString(markedHtml)

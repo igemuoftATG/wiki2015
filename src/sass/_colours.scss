@@ -38,5 +38,10 @@ $navLinkActiveOuterColour: black;
 $navLinkActiveInnerColour: black;
 $navLinkActiveInnerBG: lighten($navLinkOuterHoverBG, 10%);
 
+// Sidebar
+$sidebarInactiveColor: $grey-700;
+$sidebarActiveColor: $grey-900;
+$sidebarBorderColor: $igemGreen;
+
 // Images
 $imageBG: $grey-200

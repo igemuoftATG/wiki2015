@@ -1,5 +1,8 @@
 # ConsortiaFlux
 
+
+## Introduction
+
 In nature, it is virtually impossible to find an isolated bacterial species on its own. Across most of the natural world, different bacterial species cluster together in ecologically crucial communities known as microbiomes. In constrast, synthetic biology laboratories often prepare isolated strains for later use in the natural environment. Experimentally, this would require either the creation or simulation of an isolated microbiome.
 
 Our iGEM team created the web-based tool 'ConsortiaFlux' in order to run microbiome simulations. Our tool allows the user to visualize the effects of the addition of a synthetically engineered bacteria into a predefined microbiome. This visualization is generated through a process called community flux balance analysis (cFBA).

@@ -7,6 +7,7 @@ body {
 
 body {
     background-color: $bodyBG;
+    position: relative;
 }
 
 .content {
@@ -25,12 +26,67 @@ body {
     padding-right: 20px;
 
     .toc {
+        list-style: none;
         position: fixed;
         right: 0;
-        width: 200px;
+        width: 400px;
 
-        .is-inview {
-            color: $red-600;
+        li {
+            a {
+                border-left: 2px solid transparent;
+                color: $sidebarInactiveColor;
+                height: 100%;
+                padding-left: 10px;
+                text-decoration: none;
+            }
+
+            ul {
+                display: none;
+                list-style: none;
+
+                li {
+                    a {
+                        border-left: 2px solid transparent;
+                        padding-left: 40px;
+                    }
+
+                    &:hover {
+                        a {
+                            border-left: 2px solid rgba($sidebarBorderColor, 0.5);
+                        }
+                    }
+                }
+            }
+
+            &:hover {
+                a {
+                    border-left: 2px solid rgba($sidebarBorderColor, 0.5);
+                }
+            }
+
+            &.active {
+                a {
+                    border-left: 2px solid $sidebarBorderColor;
+                    color: $sidebarActiveColor;
+                }
+
+                ul {
+                    display: block;
+                    padding: 0;
+
+                    li.active {
+                        a {
+                            border-left: 2px solid $sidebarBorderColor;
+                            color: $sidebarActiveColor;
+                        }
+                    }
+
+                    a {
+                        border-left: 2px solid transparent;
+                        color: $sidebarInactiveColor;
+                    }
+                }
+            }
         }
     }
 
