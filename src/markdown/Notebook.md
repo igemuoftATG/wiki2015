@@ -1,8 +1,9 @@
-## Notebook
+# Notebook
 
-'' The prefect lab notebook is a noble goal that very few achieve. But we must all do our best.''
+"The prefect lab notebook is a noble goal that very few achieve. But we must
+all do our best."
 
-## JUNE
+## June
 
 ### Week one
 
@@ -103,7 +104,7 @@
 
 * Gel Electrophoresis
 
-## JULY
+## July
 
 
 ### Week Four
@@ -230,7 +231,7 @@
 * Performed PCR purification the Synbiota PCR TodE and TodF
 * Gel electrophoresis of PCR purified Synbiota TodE and TodF
 
-## AUGUST
+## August
 
 ### Week Eight
 
@@ -250,7 +251,7 @@
 * PCR purification
 * Miniprep of RFP
 
-<p class="image-wrapper">
+<!-- <p class="image-wrapper">
 {{image "gel todf synbiota aug 5.jpg" directlink mode}}
 </p>
 TodF Gel - Synbiota August 5
@@ -263,21 +264,22 @@ TodE Gel - Synbiota August 5
 <p class="image-wrapper">
 {{image "gel synbiota backbone aug 5.jpg" directlink mode}}
 </p>
-Gel Backbone - Synbiota August 5
+Gel Backbone - Synbiota August 5 -->
+
 
 #### 06/08/15
 
-* Gel electrophoresis of TodF, with IDT todF as a control
+Gel electrophoresis of TodF, with IDT todF as a control
 
-<p class="image-wrapper">
-{{image "gel todf digested synbiota aug 6 (ladder-b-d-ladder-e-f-idtf).jpg" directlink mode}}
+<!-- <p class="image-wrapper">
+{{image "gel todf digested synbiota aug 6 (ladder-b-d-ladder-e-f-idtf).jpg" foo mode}}
 </p>
 TodF Gel Digested - Synbiota August 6
 
 <p class="image-wrapper">
 {{image "gel todf synbiota aug 6 (ladder-b-d-ladder-e-f-idtf).jpg" directlink mode}}
 </p>
-TodF Gel - Synbiota August 6
+TodF Gel - Synbiota August 6 -->
 
 #### 07/08/15
 
@@ -363,9 +365,8 @@ TodF Gel - Synbiota August 6
 #### 28/08/15
 
 * Gel electrophoresis of Gibson products of TodE and TodE & TodF
-* 
 
-## SEPTEMBER
+## September
 
 ### Week Twelve
 
@@ -408,9 +409,9 @@ Labour Day
 
 * gel electrophoresis for TodF of Gibson assembly
 
-<p class="image-wrapper">
+<!-- <p class="image-wrapper">
 {{image "TodF_gel_gibson_Sept-8.jpg" directlink mode}}
-</p>
+</p> -->
 TodF Gel - Gibson September 8th
 
 #### 09/09/15
@@ -419,9 +420,9 @@ TodF Gel - Gibson September 8th
 * Miniprep of RFP, TodE and aCP
 * Bacterial transformations with Gibson TodEF plasmids, Gibson todE plasmid, RFP and LCP products
 
-<p class="image-wrapper">
+<!-- <p class="image-wrapper">
 {{image "TodF_gel_gibson_TodE_Sept-9.jpg" directlink mode}}
-</p>
+</p> -->
 TodF Gel - Gibson TodE - September 9
 
 #### 10/09/15
@@ -439,9 +440,9 @@ TodF Gel - Gibson TodE - September 9
 
 * LCR of TodE and TodF
 
-<p class="image-wrapper">
+<!-- <p class="image-wrapper">
 {{image "TodE_gel_Sept-14.jpg" directlink mode}}
-</p>
+</p> -->
 
 #### 15/09/15
 
@@ -461,10 +462,9 @@ TodF Gel - Gibson TodE - September 9
 * Miniprep of Gibson assembled todE plasmid
 * Preparing part for shipping to iGEM HQ, used a concentrator to speed vacuum our part.
 * Performed two restriction enzyme digests to verify for the presence of TodE
-* First digest with XhoI and XcmI produced appropriate band lengths. 
+* First digest with XhoI and XcmI produced appropriate band lengths.
 * The Second Digest was with RsaI and PvuII also confirmed TodE presence.
 
-<p class="image-wrapper">
+<!-- <p class="image-wrapper">
 {{image "TodE_only_gel_Sept-18.jpg" directlink mode}}
-</p>
-
+</p> -->

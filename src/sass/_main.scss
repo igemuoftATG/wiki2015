@@ -27,6 +27,8 @@ body {
 
     .toc {
         list-style: none;
+        max-height: 100%;
+        overflow-y: scroll;
         position: fixed;
         right: 0;
         width: 400px;
@@ -43,11 +45,21 @@ body {
             ul {
                 display: none;
                 list-style: none;
+                padding: 0;
 
                 li {
                     a {
                         border-left: 2px solid transparent;
-                        padding-left: 40px;
+                        padding-left: 20px;
+                    }
+
+                    ul {
+                        display: none;
+
+                        li a {
+                            border-left: 2px solid transparent;
+                            padding-left: 30px;
+                        }
                     }
 
                     &:hover {
@@ -62,6 +74,40 @@ body {
                 a {
                     border-left: 2px solid rgba($sidebarBorderColor, 0.5);
                 }
+
+                ul {
+                    display: block;
+
+                    li {
+                        a {
+                            border-left: 2px solid rgba($sidebarBorderColor, 0.5);
+                        }
+
+                        ul {
+                            display: none;
+                        }
+
+                        &:hover {
+                            ul {
+                                display: block;
+
+                                li {
+                                    a {
+                                        border-left: 2px solid transparent;
+                                        color: $sidebarInactiveColor;
+                                    }
+
+                                    &.active {
+                                        a {
+                                            border-left: 2px solid $sidebarBorderColor;
+                                            color: $sidebarActiveColor;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
             }
 
             &.active {
@@ -72,18 +118,47 @@ body {
 
                 ul {
                     display: block;
-                    padding: 0;
 
-                    li.active {
+                    li {
                         a {
-                            border-left: 2px solid $sidebarBorderColor;
-                            color: $sidebarActiveColor;
+                            border-left: 2px solid transparent;
+                            color: $sidebarInactiveColor;
                         }
-                    }
 
-                    a {
-                        border-left: 2px solid transparent;
-                        color: $sidebarInactiveColor;
+                        ul {
+                            display: none;
+                        }
+
+                        &:hover {
+                            ul {
+                                display: block;
+                            }
+                        }
+
+                        &.active {
+                            a {
+                                border-left: 2px solid $sidebarBorderColor;
+                                color: $sidebarActiveColor;
+                            }
+
+                            ul {
+                                display: block;
+
+                                li {
+                                    a {
+                                        border-left: 2px solid transparent;
+                                        color: $sidebarInactiveColor;
+                                    }
+
+                                    &.active {
+                                        a {
+                                            border-left: 2px solid $sidebarBorderColor;
+                                            color: $sidebarActiveColor;
+                                        }
+                                    }
+                                }
+                            }
+                        }
                     }
                 }
             }

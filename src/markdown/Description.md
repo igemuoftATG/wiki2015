@@ -112,7 +112,7 @@ We focused specifically on the pathway used by _Pseudomonas putida F1_ because i
 ### Plasmid Design
 
 <p class="image-wrapper">
-{{image "lcrconstruct.png" directlink mode}}
+{{image "lcrconstruct.png" foo mode}}
 </p>
 
 The diagram above shows the plasmid that we designed. We used psB1C3, in green, for the backbone that we obtained from the iGEM registry. The plasmid includes both _todE_ and _todF_ that have been optimized for _E.coli_ K-12 MG1655 strain. Each gene begins with a start codon followed by a His-Tag, and terminates with a stop codon. The purpose of the His-Tag is to confirm the synthesis of our enzymes once we transform _E.coli_. We added a Ribosomal binding site (RBS) before each gene and optimized it using the Salis RBS calculator. UNSs were also added before and after every gene to prevent the formation of a secondary structure.  

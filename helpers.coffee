@@ -236,7 +236,7 @@ class Helpers
         handlebarsedMarkdown = hbs.compile(markdownFile)(templateData)
 
         markedHtml = '<div id="toc" class="toc sidebar"><ul class="nav">' +
-                         marked(toc(handlebarsedMarkdown, {firsth1: false}).content).slice(4) +
+                         marked(toc(handlebarsedMarkdown, {firsth1: false, maxdepth: 6}).content).slice(4) +
                      '</div>'
         markedHtml += '<div class="content-main">' + marked(handlebarsedMarkdown) + '</div>'
 
