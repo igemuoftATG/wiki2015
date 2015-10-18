@@ -1,3 +1,9 @@
 $scrollbarWidth: 12px;
 $navigationTooltipSpacing: 5px;
 $navigationTooltipTriangleHeight: 5px;
+
+// Sidebar
+$sidebarBorderThickness: 4px;
+$sidebarPaddingLevel1: 10px;
+$sidebarPaddingLevel2: $sidebarPaddingLevel1 + 10px;
+$sidebarPaddingLevel3: $sidebarPaddingLevel2 + 10px;
