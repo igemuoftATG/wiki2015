@@ -178,8 +178,8 @@ class Helpers
                 content += navigation(value, mode, active1, active2)
                 # content += "</div></li>"
             else
-                if item is 'index'
-                    item = 'home'
+                # if item is 'index'
+                #     item = 'home'
                 if isActive
                     # content += "<li class=\"active\"><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
                     content += "<li class=\"active\"><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a>"

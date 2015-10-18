@@ -23,7 +23,7 @@
         "team"             : "Team"
     },
     "icons": {
-        "home"             : "fa-home",
+        "index"            : "fa-home",
         "attributions"     : "fa-life-saver",
         "basic_part"       : "fa-gear",
         "collaborations"   : "fa-users",
