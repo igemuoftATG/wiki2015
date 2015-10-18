@@ -22,13 +22,14 @@
     "font-awesome": "fontawesome#~4.4.0",
     "highlightjs": "~8.7.0",
     "jquery": "~2.1.4",
-    "normalize-libsass": "~1.0.3"
+    "normalize-libsass": "~1.0.3",
+    "scrollspy": "~0.1.1"
   },
   "overrides": {
     "font-awesome": {
-        "main": [
-            "css/font-awesome.min.css"
-        ]
+      "main": [
+        "css/font-awesome.min.css"
+      ]
     },
     "bootstrap": {
       "main": [

@@ -267,15 +267,15 @@ gulp.task 'serve', ['sass', 'build:dev'], ->
                 '/preamble'         : './src/preamble'
                 '/images'           : './images'
 
-    watch [globs.hbs, globs.libCoffee, globs.libJS, globs.md, globs.sass, files.template], (vinyl) ->
+    watch [globs.hbs, globs.libCoffee, globs.libJS, globs.md, globs.sass, files.template, "#{files.helpers}.coffee"], ->
         # gutil.log(vinyl.inspect())
         gulp.start('build:dev')
 
     watch [globs.libCoffee, globs.libJS], ->
         gulp.start('browserify')
 
-    watch "#{files.helpers}.coffee", ->
-        gulp.start('coffeescript:helpers')
+    # watch "#{files.helpers}.coffee", ->
+    #     gulp.start('coffeescript:helpers')
 
 # What happens when you run `gulp`
 gulp.task "default", ['serve']

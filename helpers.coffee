@@ -5,6 +5,7 @@ path = require 'path'
 # NodeJS modules
 gutil       = require 'gulp-util'
 marked      = require 'marked'
+toc         = require 'markdown-toc'
 highlighter = require 'highlight.js'
 wiredep     = require('wiredep')()
 
@@ -234,7 +235,8 @@ class Helpers
         markdownFile = fs.readFileSync("#{__dirname}/src/markdown/#{file}.md").toString()
         handlebarsedMarkdown = hbs.compile(markdownFile)(templateData)
 
-        markedHtml = marked(handlebarsedMarkdown)
+        markedHtml = '<ul class="toc">' + marked(toc(handlebarsedMarkdown, {firsth1: false}).content).slice(4)
+        markedHtml += '<div class="content-main">' + marked(handlebarsedMarkdown) + '</div>'
 
         return new hbs.SafeString(markedHtml)
 

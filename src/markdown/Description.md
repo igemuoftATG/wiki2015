@@ -4,7 +4,7 @@ In nature, it is virtually impossible to find an isolated bacterial species on i
 
 Our iGEM team created the web-based tool 'ConsortiaFlux' in order to run microbiome simulations. Our tool allows the user to visualize the effects of the addition of a synthetically engineered bacteria into a predefined microbiome. This visualization is generated through a process called community flux balance analysis (cFBA).
 
-In concert with our web-based tool, we genetically engineered E. coli bacteria for the purpose of bioremediation. Our engineered E. coli supplements the existing microbiome by efficiently degrading toluene, a highly toxic chemical within Alberta's oil sands tailing ponds. 
+In concert with our web-based tool, we genetically engineered E. coli bacteria for the purpose of bioremediation. Our engineered E. coli supplements the existing microbiome by efficiently degrading toluene, a highly toxic chemical within Alberta's oil sands tailing ponds.
 
 All aspects of our project are linked together by analysis of technical, economic, and social applications of our technology within a solid policy framework.
 
@@ -34,7 +34,7 @@ Copyright © 2010, Rights Managed by Nature Publishing Group
 Note: See software section for more
 
 
-## Proof-of-Concept: A Genetically Engineered Solution for Oil Sand Tailings
+## Proof-of-Concept A Genetically Engineered Solution for Oil Sand Tailings
 
 
 ### Background
