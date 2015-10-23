@@ -28,10 +28,10 @@ body {
     .toc {
         list-style: none;
         max-height: 100%;
-        overflow-y: scroll;
-        position: fixed;
-        right: 0;
-        width: 400px;
+        // overflow-y: scroll;
+        // position: fixed;
+        // right: 0;
+        // width: 400px;
 
         li {
             a {
@@ -173,7 +173,8 @@ body {
     }
 
     .content-main {
-        float: left;
+        // float: left;
+        margin: 0 auto;
         max-width: 600px;
     }
 }
@@ -241,6 +242,7 @@ body {
                 left: -9999px;
                 line-height: 100%;
                 position: absolute;
+                z-index: 9000;
 
                 ul {
                     background-color: $navLinkOuterHoverBG;

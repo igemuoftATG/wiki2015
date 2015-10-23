@@ -231,16 +231,19 @@ class Helpers
             highlight: (code) ->
                 return highlighter.highlightAuto(code).value
         })
-
         markdownFile = fs.readFileSync("#{__dirname}/src/markdown/#{file}.md").toString()
         handlebarsedMarkdown = hbs.compile(markdownFile)(templateData)
 
-        markedHtml = '<div id="toc" class="toc sidebar"><ul class="nav">' +
+        content = '<div class="row">'
+
+        content += '<div class="col-lg-9 col-md-12"><div class="content-main">' + marked(handlebarsedMarkdown) + '</div></div>'
+        content += '<div id="toc" class="toc sidebar col-lg-3 visible-lg-3"><ul class="nav">' +
                          marked(toc(handlebarsedMarkdown, {firsth1: false, maxdepth: 6}).content).slice(4) +
                      '</div>'
-        markedHtml += '<div class="content-main">' + marked(handlebarsedMarkdown) + '</div>'
 
-        return new hbs.SafeString(markedHtml)
+        content += "</div>"
+
+        return new hbs.SafeString(content)
 
 
 module.exports = Helpers

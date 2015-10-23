@@ -1,6 +1,3 @@
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/2/28/1DNA.gif)
-
 # Our Team
 
 #### Cathy Su - President  
