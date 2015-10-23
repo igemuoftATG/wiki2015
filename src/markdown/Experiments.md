@@ -1,8 +1,10 @@
 
+# Experiments
+
 ## Protocol for LB medium and LB agar plates
 *Written by Katariina Jaenes*
 
-### INTRODUCTION
+###  Introduction
 
 In order for bacteria to be successfully cultured, they must be grown in the appropriate media. LB, also
 known as Lysogeny broth, is a nutrient rich broth that is a standard for culturing Escherichia coli, as it
@@ -13,12 +15,12 @@ dishes.
 We will be preparing our own LB as well as our own LB agar plates, which will be used to culture
 E.coli K-12.
 
-### BASIC TERMINOLOGY AND CONCEPTS
+### Basic Terminology and Concepts
 
 Agar vs. Agarose: Agar is used for making petri plates to culture organisms, while agarose is used for
 making gels, in the likes of SDS-PAGE and gel electrophoresis
 
-### SAFETY PRECAUTIONS
+### Safety Precautions
 
 **SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
 prepared to answer any questions regarding the information on these sheets.
@@ -31,7 +33,7 @@ and long hair should be tied back.
 **Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
 may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
 
-### MATERIALS AND EQUIPMENT
+### Materials and Equipment
 
 Note: this recipe is for 500ml of LB, which makes approximately 18 plates. LB can be kept for 3-4
 months
@@ -54,9 +56,9 @@ months
 * 70% EtOH wash bottle
 * paper towels/wipes
 
-### LAB PROTOCOL
+### Lab Protocol
 
-**Part 1. Making the LB broth**
+#### **Part 1. Making the LB broth**
 
 *This step can be carried out at a regular lab bench.*
 
@@ -70,7 +72,7 @@ your scales in between measurements.
 amount added. Note that the contents do not necessarily need to be completely in solution before
 autoclaving.
 
-**Part 2. Autoclaving ***ONLY DONE BY EXECS*****
+#### **Part 2. Autoclaving ***ONLY DONE BY EXECS*****
 
 1. Lightly seal the top of the beaker with aluminium foil, and label the beaker with autoclave tape.
 Include LB (agar) – your name – date - iGEM.
@@ -86,7 +88,7 @@ to prevent burns.** After autoclaving, allow the LB media too cool to 55oC befor
 months. Flame the lip of the bottle each time the LB is used. If the LB is contaminated it will appear cloudy. If the LB contains antibiotics: store in a
 -4C freezer - (However it is not recommended to store LB with antibiotics as the antibiotic will degrade over time)
 
-**Part 3. Pouring the plates (if you are making LB agar)**
+#### **Part 3. Pouring the plates (if you are making LB agar)**
 
 ** While pouring the plates it is crucial to maintain a sterile environment. This should be done in
 room WB303, with a sterile environment provided by a lit bunsen burner.**
@@ -129,7 +131,7 @@ prevent condensation forming on the agar. The plates can then be stacked and sto
 (ideally re-use the plastic bags that the plates come in.)
 11. The LB agar plates should be stored in a 4oC freezer, should be good for 1-2 months
 
-### LEAVING THE LAB
+### Leaving the lab
 
 Prior to leaving the lab, you should:
 
@@ -138,7 +140,7 @@ Prior to leaving the lab, you should:
 3. Ensure that all materials have been returned to their places, and that the plates have been properly
 stored in the fridge.
 
-### REFERENCES
+### References
 
 Addgene: Protocol – Making LB Agar Plates for Bacteria. From: <https://www.addgene.org/plasmid-
 protocols/bacterial-plates/>
@@ -155,7 +157,7 @@ Bacteriology. 2007;189(23):8746-8749. doi:10.1128/JB.01368-07.
 
 *Written by Katariina Jaenes*
 
-### INTRODUCTION
+### Introduction
 
 SOC is a variant of the rich media SOB (super optimal broth) with catabolite repression. This means
 that glucose is supplemented in the media, allowing for optimal metabolic conditions for the bacteria.
@@ -164,7 +166,7 @@ recently undergone stress as result of having been made competent. Accordingly, 
 bacterial transformation to stabilize the cells and to increase transformation yields. Since SOC is high
 in nutrients, it is more easily contaminated than LB or King's B media.
 
-### SAFETY PRECAUTIONS
+### Safety Precautions
 
 **SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
 prepared to answer any questions regarding the information on these sheets.
@@ -177,7 +179,7 @@ and long hair should be tied back.
 **Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
 may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
 
-### MATERIALS AND EQUIPMENT
+### Materials and Equipment
 
 *Note: this recipe is for 500mL of SOC.*
 
@@ -201,9 +203,9 @@ may still be hot and should therefore be handled with caution. Be careful not to
 * 70% EtOH wash bottle
 * paper towels/wipes
 
-### LAB PROTOCOL
+### Lab Protocol
 
-**Part 1. Making the SOC broth**
+#### **Part 1. Making the SOC broth**
 
 *This step can be carried out at a regular lab bench.*
 
@@ -219,7 +221,7 @@ dH20. Recalibrate your scales in between measurements.
 
 **** The 1L autoclaved separately, as the contents will react if autoclaved together. ***
 
-** Part 2.  Autoclaving ONLY DONE BY EXECS**
+#### ** Part 2.  Autoclaving ONLY DONE BY EXECS**
 
 1. Lightly seal the top of the bottles with aluminium foil, or unscrew the caps. Label both with
 autoclave tape. Include a label with SOC – your name – date - iGEM 2015.
@@ -232,7 +234,7 @@ approximately 20mins.
 4. **The contents of the bottles will be hot after autoclaving, therefore take necessary measures
 to prevent burns. After autoclaving, allow the media too cool to 55oC before handling.**
 
-**Part 3**
+#### **Part 3**
 
 *This part should be done in room WB303, in sterile conditions close to a bunsen burner.*
 
@@ -244,7 +246,7 @@ and seal tightly to prevent contamination. Flame the cap before sealing.
 months. Flame the lip of the bottle each time the SOC is used. SOC should be handled carefully, as it is
 especially prone to contamination.
 
-### LEAVING THE LAB
+### Leaving the Lab
 
 Prior to leaving the lab, you should:
 
@@ -253,7 +255,7 @@ Prior to leaving the lab, you should:
 3. Ensure that all materials have been returned to their places, and that the plates have been properly
 stored in the fridge.
 
-### REFERENCES
+### References
 
 Cold Spring Harbour Protocols. SOC Medium for E.coli. From:
 <http://cshprotocols.cshlp.org/content/2012/6/pdb.rec069732.short>
@@ -267,7 +269,7 @@ ec02-4ced-aabe-dcd2a1061920&lang=en>
 ## King's B Protocol
 
 *Written by Katariina Jaenes*
-### INTRODUCTION
+### Introduction
 
 In order for bacteria to be successfully cultured, they must be grown in the appropriate media. King's B
 media, formulated by King et al,. Is a nonselective media that is a standard for culturing Pseudomonas
@@ -278,12 +280,12 @@ on petri dishes.
 We will be preparing our own King's B as well as our own King's B agar plates, which will be used to
 culture Pseudomonas putida F1.
 
-### BASIC TERMINOLOGY AND CONCEPTS
+### Basic Terminology and Concepts
 
 Agar vs. Agarose: Agar is used for making petri plates to culture organisms, while agarose is used for
 making gels, in the likes of SDS-PAGE and gel electrophoresis
 
-### SAFETY PRECAUTIONS
+### Safety Precautions
 
 **SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
 prepared to answer any questions regarding the information on these sheets.
@@ -296,7 +298,7 @@ and long hair should be tied back.
 **Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
 may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
 
-### MATERIALS AND EQUIPMENT
+### Materials and Equipment
 
 *Note: this recipe is for 500ml of LB, which makes approximately 18 plates. King's B can be kept for
 3-4 months*
@@ -320,11 +322,11 @@ Materials
 * paper towels/wipes
 * Bunsen burner/Ethanol burner
 
-### LAB PROTOCOL
+### Lab Protocol
 
 *makes 500mL of King's B, should be good for 3-4 months*
 
-**Part 1. Making King's B broth**
+#### **Part 1. Making King's B broth**
 
 This step can be carried out at a regular lab bench.
 
@@ -340,7 +342,7 @@ motion to mix. Remember to recalibrate your scales in between measurements.
 Record the amount added. Note that the contents do not necessarily need to be completely in solution
 before autoclaving.
 
-**Part 2. Autoclaving ***ONLY DONE BY EXECS***
+#### **Part 2. Autoclaving ***ONLY DONE BY EXECS***
 
 1. Lightly seal the top of the flask with aluminium foil, and label it with autoclave tape. Include King's
 B (agar) – your name – date - iGEM 2015.
@@ -357,7 +359,7 @@ autoclaving, the media will appear cloudy.
 6. The broth can be stored in sterile conditions at room temperature, and should be good for a 3-4
 months. Flame the lip of the bottle each time the media is used.
 
-**Part 3. Pouring the plates (if you are making agar plates)**
+#### **Part 3. Pouring the plates (if you are making agar plates)**
 
 *While pouring the plates it is crucial to maintain a sterile environment. This should be done in WB303, in sterile conditions provided by a lit bunsen burner. Alternatively, can be done in 403 with an Ethanol burner*
 
@@ -386,7 +388,7 @@ condensation forming on the agar. The plates can then be stacked and stored in p
 use the plastic bags that the plates come in.)
 9. The agar plates should be stored in a 4oC freezer, should be good for 1-2 months
 
-### LEAVING THE LAB
+### Leaving the Lab
 
 Prior to leaving the lab, you should:
 
@@ -395,7 +397,7 @@ Prior to leaving the lab, you should:
 3. Ensure that all materials have been returned to their places, and that the plates have been properly
 stored in the fridge.
 
-### REFERENCES
+### References
 
 From: Cold Springs Harbour Protocol. King's B Medium. From:
 <http://cshprotocols.cshlp.org/content/2009/7/pdb.rec11326.full?text_only=true>
@@ -403,7 +405,7 @@ From: Cold Springs Harbour Protocol. King's B Medium. From:
 Recipe for King's B medium. Received from Maggie Middleton, Lab technician at the David Guttman
 Lab.
 
-# Antibiotic Stock Preparation
+## Antibiotic Stock Preparation
 _Written by Tim Lee_
 
 ### **Background**
@@ -656,7 +658,7 @@ Syber green staining protocols: [http://www.lumiprobe.com/protocols/sybr-green-g
 - 5ml pipette
 
 ### Protocol
-**Part 1: TSS Buffer**
+#### **Part 1: TSS Buffer**
 
 To make 50 mL:
 
@@ -666,7 +668,7 @@ To make 50 mL:
 * Add LB to 50 mL
 * Filter sterilize (0.22 μm filter)
 
-**Part 2: Making Chemically Competent Cells**
+#### **Part 2: Making Chemically Competent Cells**
 
 1. Grow a 5ml overnight culture of cells in LB media. In the morning, dilute this culture
 back into 25-50ml of fresh LB media in a 200ml conical flask. You should aim to dilute
@@ -905,7 +907,7 @@ _This will create 10 mL of gel. Around 1.2 mL is needed for each gel. TEMED must
 
   no air bubbles. Wait until the gel solidifies (around 30-45 minutes).
 
-### **Running the SDS-PAGE gel**
+#### **Running the SDS-PAGE gel**
 1. Take out the gel (with the plates) from the casting apparatus and place it in the gel apparatus.
 2. Make sure that the short plate faces inwards to the apparatus. If only one gel is being run, make
 3. sure to close the other side of the apparatus with a dummy plate.
@@ -934,7 +936,7 @@ _This will create 10 mL of gel. Around 1.2 mL is needed for each gel. TEMED must
 26. The stacking gel should be removed by cutting with a spatula or razor blade. Try not to tear the
 27. resolving gel.
 
-### **Staining the SDS-PAGE gel**
+#### **Staining the SDS-PAGE gel**
 1. Fill a wide container with deionized water and separate the resolving gel from the glass plate. Leave the
 2. gel in the container.
 3. Rinse the gel with deionized water gently. Repeat 2-3 times.
@@ -981,28 +983,28 @@ with isopropanol to
 1
  volume of
  the PCR product (50–100 μL).
-Mix well.  
+Mix well.
 
 2. Remove a PureLink
 ®
  Spin Column in a Collection
-Tube from the package.  
+Tube from the package.
 
 3. Add the sample with the appropriate Binding
 Buffer (from step 1 of this procedure) to the
 PureLink
 ®
- Spin Column.  
+ Spin Column.
 
 4. Centrifuge the column at room temperature at
 13,000 ×
  g
-for 1 minute.   
+for 1 minute.
 
 5. Discard the flow through and place the spin
-column into the collection tube.  
+column into the collection tube.
 
-6. Add 650 μL of Wash Buffer with ethanol to the column.  
+6. Add 650 μL of Wash Buffer with ethanol to the column.
 
 7. Centrifuge th
 e column at
@@ -1011,7 +1013,7 @@ room temperature at
  g
 for 1 minute. Discard the flow through
 from the collection tube and place the column
-into the tube.  
+into the tube.
 
 8. Centrifuge the column at maximum speed (15, 000 x g)at
 room temperature for 2–3
@@ -1021,23 +1023,23 @@ residual Wash Buffer. Discard the collection tube.
 9. Place the spin column in a clean 1.7-mL
 PureLink
 ®
- Elution Tube supplied with the kit.  
+ Elution Tube supplied with the kit.
 
 10. Add 50 μL of Elution Bu
 ffer (10 mM Tris-HCl,
 pH 8.5) or sterile, distilled water (pH >7.0) to the
-center of the column.  
+center of the column.
 
 11. Incubate the column at room temperature for
 1 minute.  Centrifuge the column at maximum speed for
-2 minutes.  
+2 minutes.
 
 12. The elution tube contains the purified PCR product.
 Remove and discard the column. Store the purified PCR product at –20°C or use
 the PCR product for the desired downstream
-application.  
+application.
 
-### References
+### Reference
 
 PureLink® PCR Purification protocol. From: <http://tools.thermofisher.com/content/sfs/manuals/purelink_pcr_man.pdf>
 
@@ -1103,7 +1105,7 @@ Elute the DNA by centrifugation for 1 min at top speed.
 
 11. Discard the spin filter and store the eluted DNA at -20°. Make sure to label properly.
 
-### References
+### Reference
 
 Bio-Rad Quantum Prep Plasmid Miniprep Kit Instruction Manual. From: <http://www.bio-rad.com/webroot/web/pdf/lsr/literature/MS4100066F.pdf>
 
@@ -1204,11 +1206,11 @@ Protocol obtained from Synbiota: <https://synbiota.com/beta>
 ## BsaI Digestion Protocol
 *Written by Synbiota*
 
-### INTRODUCTION
+### Introduction
 
 The purpose of BsaI Digestion Protocol is to create RDP parts larger than 100bp using PCR. If you desire to create less than <100bp in length, refer to the Olgio-Based RDP Parts Creation Protocol
 
-### SAFETY PRECAUTIONS
+### Safety Precautions
 
 **SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
 prepared to answer any questions regarding the information on these sheets.
@@ -1221,7 +1223,7 @@ and long hair should be tied back.
 **Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
 may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
 
-### REAGENTS
+### Reagents
 
 * GeneRuler DNA LAdder Mix (Thermo Scientific)
 * TE Buffer
@@ -1233,20 +1235,20 @@ may still be hot and should therefore be handled with caution. Be careful not to
 * Cleaned up PCR product of RDP part DNA
 * Qiagen Quick cleanup PCR reagents (PB and PE buffers)
 
-### MATERIALS
+### Materials
 
 * Synbiota micro spin-columns
 * Qiagen Quick cleanup PCR spin-columns
 
-### LAB PROTOCOL
+### Lab Protocol
 
-Part 1: BsaI Digestion
+#### Part 1: BsaI Digestion
 
 1. Add 10&#956;L of NEB CutSmart Buffer and 2&#956;L of BsaI-HF (40 units) to cleaned up DNA
 2. Mix and centrifuge briefly to pull down any splashes and eliminate any surface bubbles
 3. Incubate at 37<sup>o</sup>C for 1-4 hours
 
-Part 2: DNA Cleanup
+#### Part 2: DNA Cleanup
 
 This is for inactivating and removing BsaI and the small flanking fragments that are released on cleavage
 
@@ -1260,7 +1262,7 @@ This is for inactivating and removing BsaI and the small flanking fragments that
 8. Repeats steps 1 to 3 by adding 0.5mL of PB to the DNA eluted in steps 7
 9. For the final elution step, add 25&#956;L of TE buffer to column and let stand for 1 minute then centrifuge for 1 minute. Repeat the elution with another 25&#956;L collected in same tube
 
-Part 3: Measuring and adjusting the part concentration
+#### Part 3: Measuring and adjusting the part concentration
 
 In the RDP assembly protocol, PCR parts are used at a concentration of 0.04 pm/&#956;L per reaction, for a total of 0.2pm in 5&#956;L. Concentrations of 0.02pm will work but doubling the ligation time is advised. Concentrations greater than 0.04pm pose no problem and may be advantageous. However, adding more means less sample for subsequent builds.
 
@@ -1286,7 +1288,7 @@ In the RDP assembly protocol, PCR parts are used at a concentration of 0.04 pm/&
 12. If minimum concentration of your sample significantly exceeds 0.04 pm/&#956;L then dilute it as described in a section step (4)
 13. Store the remaining RDP Part DNA at ~4<sup>o</sup>C and remember to centrifuge it briefly before each use
 
-Part 4: Part Validation
+#### Part 4: Part Validation
 
 To determine how well your park works in RDP assembly, incorporate your part into a simple RDP assembly that begins with an Anchor part and ends with a Cap part.
 
@@ -1298,7 +1300,7 @@ If your part is in the Z-X' format:
 * Start with **dA<sub>20</sub>-ChlrR-Z'**
 * Finish with **X-Ori.3-dT<sub>20</sub>**
 
-### LEAVING THE LAB
+### Leaving the Lab
 
 Prior to leaving the lab, you should:
 
@@ -1307,7 +1309,7 @@ Prior to leaving the lab, you should:
 3. Ensure that all materials have been returned to their places, and that the plates have been properly
 stored in the fridge.
 
-### REFERENCES
+### References
 
 Protocol obtained from Synbiota: <https://synbiota.com/beta>
 
@@ -1318,7 +1320,7 @@ Protocol obtained from Synbiota: <https://synbiota.com/beta>
 1. Obtain and refigerate the following buffers:
  * RDP Wash Buffer (10mL)
  * RDP Elution buffer (10mL)
- * RDP Storage buffer (10mL)       
+ * RDP Storage buffer (10mL)
 
  **Important:** all liquid reagents stored refrigerated in microcentrifuge tubes will evaporate overtime and condense on the lid. All microcentrifuge tubes should be pulsed down and mixed just prior to use.
 
@@ -1347,7 +1349,7 @@ Use the table provided for resuspension volumes.
 
     Each coupling reaction uses 5 μL of T4 DNA ligase at a final concentration of 0.2 Weiss units/μL in 1x ligase buffer. To calculate the volume (in μL) of ligase required, multiply the number of ligation steps in your build by 5 and prepare accordingly. NOTE: ThermoFisher ligase uses Weiss units NEB and Invitrogen use cohesive end units. 1 Weiss unit= ~70 CE units.
 
-### RDP Assembly protocol
+### RDP Assembly
 
 **NOTE:** Before beginning, briefly centrifuge all parts and solutions contained in microfuge tubes and mix thoroughly. Tubes that have sat in the fridge for a while will evaporate and condense liquid up at the cap. This step restores the original volume and concentration of the sample.
 
@@ -1425,7 +1427,7 @@ Protocol obtained from Synbiota: <https://synbiota.com/beta>
 ## Ligase Cycling Reaction Protocol
 *Modified from a protocol written by Naveen Venayak*
 
-### SAFETY PRECAUTIONS
+### Safety Precautions
 
 **SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
 prepared to answer any questions regarding the information on these sheets.
@@ -1438,7 +1440,7 @@ and long hair should be tied back.
 **Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
 may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
 
-### REAGENTS
+### Reagents
 
 * ~15&#956;L DNA Parts
 * 1.5&#956;M Bridging Olgios
@@ -1450,20 +1452,20 @@ may still be hot and should therefore be handled with caution. Be careful not to
 * 1&#956;L ATP
 * 1&#956;L T4 Polynucleotide Kinase
 
-### MATERIALS
+### Materials
 
 * Thermal Cycler
 
-### LAB PROTOCOL
+### Lab Protocol
 
-Part 1: Primer Design
+#### Part 1: Primer Design
 
 1. Design primers to amplify fragments and if required, add any additional features
 2. Bridging olgios designed with a 70<sup>o</sup>C melting temperature
 3. Inserts were designed with UNS sequences (unique nucleotide sequences) for primer design. Sequences provided by Naveen Venayak.
 
 
-Part 2: DNA Phosphorylation
+#### Part 2: DNA Phosphorylation
 
 1. Prepare 20&#956;L mix containing:
  * 100fmol of each purified DNA fragment
@@ -1472,7 +1474,7 @@ Part 2: DNA Phosphorylation
 2. Incubate at 37<sup>o</sup>C for 1 hour to phosphorylate 5' ends
 3. Incubate 65<sup>o</sup>C for 20min to inactivate enzymes
 
-Part 3: Ligase Cycling Reaction
+#### Part 3: Ligase Cycling Reaction
 
 1. Prepare master mix with:
 
@@ -1499,12 +1501,12 @@ Part 3: Ligase Cycling Reaction
  * Go to 2, 49 times
  * Hold 4<sup>o</sup>C forever
 
-Part 4: Transformation
+#### Part 4: Transformation
 
 1. Chemically competent cells sufficed for <8 pieces
 2. Screen ~2 resulting colonies
 
-### LEAVING THE LAB
+### Leaving the Lab
 
 Prior to leaving the lab, you should:
 
@@ -1513,8 +1515,6 @@ Prior to leaving the lab, you should:
 3. Ensure that all materials have been returned to their places, and that the plates have been properly
 stored in the fridge.
 
-### REFERENCES
+### Reference
 
 Protocol provided by Naveen Venayak
-
-
