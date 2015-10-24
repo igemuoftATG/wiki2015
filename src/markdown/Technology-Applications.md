@@ -6,9 +6,9 @@ The goal of our project is to sunthesize bacteria that can effectively degrade T
 * __Public engagement__ and education about our project(mentioned in community-outreach.md)
 * __A Novel bioreactor__ design that can efficiently use bacteria to degrade toluene while keeping it separate from the environment.
 
-
-
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/bioreactor%20updated%20design.jpg)
+<p class="image-wrapper">
+{{image "bioreactor updated design.jpg" directlink mode}}
+</p>
 
 ### Design:
 As shown in the image the middle chamber is the reaction chamber, separated into multiple shelves.	 Each shelf has a discrete colony of bacteria(shown in red) along with natural bacteria(shown in green) that originally degraded toluene in the environment. On each side of the shelves we have a 0.2 µm pore size membrane. The purpose of these membranes is to confine bacteria into each compartment. The inlets and outlets of water on each side of the shelves is guarded by automatic water shut off valves.
@@ -28,7 +28,7 @@ As shown in the image the middle chamber is the reaction chamber, separated into
 |                                   Challenges                                    |                                                                                                                              Proposed Solutions                                                                                                                              |
 |:-------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Direct air contact can allow __volatile toxins__ to escape into the environment | We check the amount of toxins in water to not surpass the saturation point(by obtaining the top layer of water resting above thick cake of toxins). Hence, least amount of vapors are released in the air, which turns out to be negligible amount as per __WHO standards__. |
-|                      __Flux__ through micro-pore membrane                       |                                                        To obtain high flux through the membranes we will need to use __light suction__. However, we can increase the coss-sectional are of the membrane to increase flux                                                         |
+|                      __Flux__ through micro-pore membrane                       |                                                      To obtain high flux through the membranes we will need to use __light suction__. However, we can increase the coss-sectional are of the membrane to increase flux                                                       |
 
 ### Conclusion:
 This novel design of bioreactor can confidently address the public concerns and safety issues of keeping synthetic bacteria separate from the water. Furthermore, it operates at lower cost while effectively degrading Toluene in comparison to conventional bioreactors.
@@ -40,4 +40,3 @@ This novel design of bioreactor can confidently address the public concerns and 
 * Montseny, Emmanuel. Control of fed-batch bioreactors models by means of dynamic time-scale transformation and operatorial parametrization
 * Gagliardo, P. Water reclamation with membrane bioreactors
 * Chang et al. Carbon nutrition of Escherichia coli in the mouse intestine. Proceedings of the National Academy of Sciences of the United States of America, 2004. 101:19,  pp. 7427-7432
-

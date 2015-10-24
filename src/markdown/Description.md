@@ -19,20 +19,36 @@ cFBA (community based flux-balance analysis) consists of FBA at the community le
 
 ## Math Behind the Code
 
-FBA computes the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with m unique compounds and n reactions, a stoichiometric matrix(S) with size m*n represents all the reaction set. Vector fluxes to be computed are represented by a vector v. An objective function (Z) is set to determine which flux to optimize in a given boundary. Hence following is computed linearly,
+FBA computes the flow of metabolites at steady state in which mass balance is not changing with time (i.e. (dx/dt)=0). In an FBA with *m* unique compounds and *n* reactions, a stoichiometric matrix(S) with size *m* \* *n* represents all the reaction set. Vector fluxes to be computed are represented by a vector v. An objective function (Z) is set to determine which flux to optimize in a given boundary. Hence following is computed linearly,
 
-                                                Maximize     c^Tv
-                                                Subject to   Sv=0
-                                                Boundaries   lowerbound<v<upperbound
+<div>
+     $$ \begin{array}{l l}
+        \textrm{Maximize} & c^Tv \\\\
+        \textrm{Subject to} & Sv=0 \\\\
+        \textrm{boundaries} & \textrm{lowerbound} < v < \textrm{upperbound}
+     \end{array} $$
+</div>
 
-(Insert Image: FBA_diagram.jpg)
+<!-- Maximize     c^Tv
+Subject to   Sv=0
+Boundaries   lowerbound<v<upperbound -->
+
+<p class="image-wrapper">
+{{image "FBA_diagram.jpg" directlink mode}}
+</p>
+
 Taken from:
-Title:What is flux balance analysis?
+
+Jeffrey D Orth, Ines Thiele, Bernhard Ø Palsson. What is flux balance analysis?
+Nature Biotechnology. Nature Publishing Group. Mar 1 2010. Copyright © 2010,
+Rights Managed by Nature Publishing Group
+
+<!-- Title:What is flux balance analysis?
 Author:Jeffrey D Orth, Ines Thiele, Bernhard Ø Palsson
 Publication:Nature Biotechnology
 Publisher:Nature Publishing Group
 Date:Mar 1, 2010
-Copyright © 2010, Rights Managed by Nature Publishing Group
+Copyright © 2010, Rights Managed by Nature Publishing Group -->
 
 Note: See software section for more
 

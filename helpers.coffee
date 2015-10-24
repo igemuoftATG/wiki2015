@@ -147,7 +147,7 @@ class Helpers
             else
                 return "#{linkName}.html"
 
-    navigation = (field, mode, active1, active2) ->
+    navigation = (field, mode, active1, active2, recursed) ->
         content = "<ul>\n"
 
         actives = new Array()
@@ -157,6 +157,11 @@ class Helpers
 
         for item, value of field
             isActive = false
+
+            if recursed
+                icon = ""
+            else
+                icon = "<i class=\"fa #{templateData.icons[item]}\"></i>"
 
             for active in actives
                 if item is active
@@ -170,24 +175,24 @@ class Helpers
 
             if typeof(value) is 'object'
                 if isActive
-                    # content += "<li class=\"active\"><a href=\"#\">#{item}</a>\n"
-                    content += "<li class=\"active\"><a href=\"#\"><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
+                    content += "<li class=\"active\"><a href=\"#\"><span>#{item}</span><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
+                    # content += "<li class=\"active\"><a href=\"#\"><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
                 else
-                    # content += "<li><a href=\"#\">#{item}</a>\n"
-                    content += "<li><a href=\"#\"><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
+                    content += "<li><a href=\"#\"><span>#{item}</span><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
+                    # content += "<li><a href=\"#\"><i class=\"fa #{templateData.icons[item]}\"></i></a>\n"
                 # content += "<div class=\"inner-menu\"><span>#{item}</span>"
-                content += navigation(value, mode, active1, active2)
+                content += navigation(value, mode, active1, active2, true)
                 # content += "</div></li>"
             else
                 # if item is 'index'
                 #     item = 'home'
                 if isActive
-                    # content += "<li class=\"active\"><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
-                    content += "<li class=\"active\"><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a>"
+                    content += "<li class=\"active\"><a href=\"#{link(item, mode)}\"><span>#{value}</span>#{icon}</a></li>\n"
+                    # content += "<li class=\"active\"><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a>"
                 else
-                    # content += "<li><a href=\"#{link(item, mode)}\">#{value}</a></li>\n"
-                    content += "<li><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a>"
-                content += "<span>#{item}</span>"
+                    content += "<li><a href=\"#{link(item, mode)}\"><span>#{value}</span>#{icon}</a></li>\n"
+                    # content += "<li><a href=\"#{link(item, mode)}\"><i class=\"fa #{templateData.icons[item]}\"></i></a>"
+                # content += "<span>#{item}</span>"
                 content += "</li>\n"
 
 
@@ -236,9 +241,9 @@ class Helpers
 
         content = '<div class="row">'
 
-        content += '<div class="col-lg-9 col-md-12"><div class="content-main">' + marked(handlebarsedMarkdown) + '</div></div>'
-        content += '<div id="toc" class="toc affix sidebar col-lg-3 visible-lg-3"><ul class="nav">' +
-                         marked(toc(handlebarsedMarkdown, {firsth1: false, maxdepth: 6}).content).slice(4) +
+        content += '<div class="col col-lg-9 col-md-12"><div class="content-main">' + marked(handlebarsedMarkdown) + '</div></div>'
+        content += '<div id="toc" class="toc affix sidebar col-lg-3 hidden-xs hidden-sm hidden-md visible-lg-3"><ul class="nav">' +
+                         marked(toc(handlebarsedMarkdown, {firsth1: false, maxdepth: 5}).content).slice(4) +
                      '</div>'
 
         content += "</div>"

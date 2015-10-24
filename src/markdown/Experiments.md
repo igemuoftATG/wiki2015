@@ -4,7 +4,7 @@
 ## Protocol for LB medium and LB agar plates
 *Written by Katariina Jaenes*
 
-###  Introduction
+###  LB Introduction  
 
 In order for bacteria to be successfully cultured, they must be grown in the appropriate media. LB, also
 known as Lysogeny broth, is a nutrient rich broth that is a standard for culturing Escherichia coli, as it
@@ -15,12 +15,12 @@ dishes.
 We will be preparing our own LB as well as our own LB agar plates, which will be used to culture
 E.coli K-12.
 
-### Basic Terminology and Concepts
+### LB Basic Terminology and Concepts
 
 Agar vs. Agarose: Agar is used for making petri plates to culture organisms, while agarose is used for
 making gels, in the likes of SDS-PAGE and gel electrophoresis
 
-### Safety Precautions
+### LB Safety Precautions
 
 **SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
 prepared to answer any questions regarding the information on these sheets.
@@ -33,12 +33,12 @@ and long hair should be tied back.
 **Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
 may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
 
-### Materials and Equipment
+### LB Materials and Equipment
 
 Note: this recipe is for 500ml of LB, which makes approximately 18 plates. LB can be kept for 3-4
 months
 
-### Reagents
+### LB Reagents
 
 * 5g NaCl
 * 5g Tryptone
@@ -46,7 +46,7 @@ months
 * 7.5g of agar **This is only necessary if you are making LB agar plates**
 * 500ml of dH20 (distilled water)
 
-### Materials
+### LB Materials
 
 * 1L pyrex bottle
 * 1L graduated cylinder
@@ -56,7 +56,7 @@ months
 * 70% EtOH wash bottle
 * paper towels/wipes
 
-### Lab Protocol
+### LB Lab Protocol
 
 #### **Part 1. Making the LB broth**
 
@@ -131,7 +131,7 @@ prevent condensation forming on the agar. The plates can then be stacked and sto
 (ideally re-use the plastic bags that the plates come in.)
 11. The LB agar plates should be stored in a 4oC freezer, should be good for 1-2 months
 
-### Leaving the lab
+### LB Leaving the lab
 
 Prior to leaving the lab, you should:
 
@@ -140,7 +140,7 @@ Prior to leaving the lab, you should:
 3. Ensure that all materials have been returned to their places, and that the plates have been properly
 stored in the fridge.
 
-### References
+### LB References
 
 Addgene: Protocol – Making LB Agar Plates for Bacteria. From: <https://www.addgene.org/plasmid-
 protocols/bacterial-plates/>
@@ -157,7 +157,7 @@ Bacteriology. 2007;189(23):8746-8749. doi:10.1128/JB.01368-07.
 
 *Written by Katariina Jaenes*
 
-### Introduction
+### SOC Introduction
 
 SOC is a variant of the rich media SOB (super optimal broth) with catabolite repression. This means
 that glucose is supplemented in the media, allowing for optimal metabolic conditions for the bacteria.
@@ -166,7 +166,7 @@ recently undergone stress as result of having been made competent. Accordingly, 
 bacterial transformation to stabilize the cells and to increase transformation yields. Since SOC is high
 in nutrients, it is more easily contaminated than LB or King's B media.
 
-### Safety Precautions
+### SOC Safety Precautions
 
 **SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
 prepared to answer any questions regarding the information on these sheets.
@@ -179,7 +179,7 @@ and long hair should be tied back.
 **Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
 may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
 
-### Materials and Equipment
+### SOC Materials and Equipment
 
 *Note: this recipe is for 500mL of SOC.*
 
@@ -203,7 +203,7 @@ may still be hot and should therefore be handled with caution. Be careful not to
 * 70% EtOH wash bottle
 * paper towels/wipes
 
-### Lab Protocol
+### SOC Lab Protocol
 
 #### **Part 1. Making the SOC broth**
 
@@ -246,7 +246,7 @@ and seal tightly to prevent contamination. Flame the cap before sealing.
 months. Flame the lip of the bottle each time the SOC is used. SOC should be handled carefully, as it is
 especially prone to contamination.
 
-### Leaving the Lab
+### SOC Leaving the Lab
 
 Prior to leaving the lab, you should:
 
@@ -255,7 +255,7 @@ Prior to leaving the lab, you should:
 3. Ensure that all materials have been returned to their places, and that the plates have been properly
 stored in the fridge.
 
-### References
+### SOC References
 
 Cold Spring Harbour Protocols. SOC Medium for E.coli. From:
 <http://cshprotocols.cshlp.org/content/2012/6/pdb.rec069732.short>
@@ -269,7 +269,7 @@ ec02-4ced-aabe-dcd2a1061920&lang=en>
 ## King's B Protocol
 
 *Written by Katariina Jaenes*
-### Introduction
+### KB Introduction
 
 In order for bacteria to be successfully cultured, they must be grown in the appropriate media. King's B
 media, formulated by King et al,. Is a nonselective media that is a standard for culturing Pseudomonas
@@ -280,12 +280,12 @@ on petri dishes.
 We will be preparing our own King's B as well as our own King's B agar plates, which will be used to
 culture Pseudomonas putida F1.
 
-### Basic Terminology and Concepts
+### KB  Basic Terminology and Concepts
 
 Agar vs. Agarose: Agar is used for making petri plates to culture organisms, while agarose is used for
 making gels, in the likes of SDS-PAGE and gel electrophoresis
 
-### Safety Precautions
+### KB Safety Precautions
 
 **SDS (safety data sheet)**: Refer to the SDS sheets for all listed materials before entering the lab. Be
 prepared to answer any questions regarding the information on these sheets.
@@ -298,7 +298,7 @@ and long hair should be tied back.
 **Autoclave**: The autoclave should only be handled by execs. **Note that any autoclaved materials
 may still be hot and should therefore be handled with caution. Be careful not to burn yourself.**
 
-### Materials and Equipment
+### KB Materials and Equipment
 
 *Note: this recipe is for 500ml of LB, which makes approximately 18 plates. King's B can be kept for
 3-4 months*
@@ -322,7 +322,7 @@ Materials
 * paper towels/wipes
 * Bunsen burner/Ethanol burner
 
-### Lab Protocol
+### KB Lab Protocol
 
 *makes 500mL of King's B, should be good for 3-4 months*
 
@@ -388,7 +388,7 @@ condensation forming on the agar. The plates can then be stacked and stored in p
 use the plastic bags that the plates come in.)
 9. The agar plates should be stored in a 4oC freezer, should be good for 1-2 months
 
-### Leaving the Lab
+### KB Leaving the Lab
 
 Prior to leaving the lab, you should:
 
@@ -397,7 +397,7 @@ Prior to leaving the lab, you should:
 3. Ensure that all materials have been returned to their places, and that the plates have been properly
 stored in the fridge.
 
-### References
+### KB References
 
 From: Cold Springs Harbour Protocol. King's B Medium. From:
 <http://cshprotocols.cshlp.org/content/2009/7/pdb.rec11326.full?text_only=true>

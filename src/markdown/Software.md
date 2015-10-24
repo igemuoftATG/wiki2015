@@ -1,3 +1,8 @@
+# ConsortiaFlux
+
+Our web application source code can be found on the iGEM Software Organization
+[Toronto-2015](https://github.com/igemsoftware/Toronto-2015) repository.
+
 ### Brief Description:
 
 Bacteria generally occur in communities, whether they be in dirt, in water, in the air, on skin or in the gut. In microbial communities, the survival of all species are interdependent; the biochemical and behavioral activities of one species provides the necessary metabolites and living environment for another<sup>[1]</sup>. Many approaches have been developed for predicting flux distributions in the metabolic network of one species using flux-balance analysis (FBA) in order to optimize for biomass or product formation<sup>[2,3]</sup>. Flux-balance analysis has been used for a variety of applications, including drug target identification by evaluation of gene essentiality, knowledge-gap filling of metabolic models and metabolic engineering of E. coli for lycopene synthesis<sup>[4,5,6]</sup>. However, algorithms to perform FBA at a community level have been rare and complex (often using non-linear programming and presenting high difficulty for solvers). In community FBA (cFBA), the exchange of metabolites between species, the biomass, relative fitness, and competitive ability of each species affects metabolic flux within the community as well as within each individual species<sup>[4,5,6]</sup>.

@@ -2,7 +2,9 @@
 
 Pseudomonas putida F1 species degrades toluene with the help of the tod operon. Toluene dioxygenase and toluene cis-dihydrodiol dehydroxygenase transcribed from todC1C2BA and todD genes, respectively, facilitate the breakdown of toluene to 3-methylcatechol. Gerben J. Zylstra et al. successfully constructed the plasmid pTDG602 containing todC1C2BAD genes. To achieve complete degradation of toluene down to carbon dioxide and water, we focused on designing a plasmid containing todE and todF genes. After cotransformation of DH10B cells with pTDG602 and our plasmid, E.Coli  should theoretically contain all the genes required to achieve complete degradation.
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/Pathway.png)
+<p class="image-wrapper">
+{{image "Pathway.png" directlink mode}}
+</p>
 
 ## Submitted Part: TodE BioBrick (BBa_K1760001)
 
@@ -10,19 +12,27 @@ Final submitted biobrick is a coding sequence that contains a TetO promoter, RBS
 
 This part is ordered in gene blocks and ligated by using Gibson Assembly by using . The design have been performed by Anthony Zhao, Seray Cicek, Umar Owadally, Katariina Jaenes, Matt D'lorio, ChungMin Lee, Drupad Rajyaguru who are wet lab team members of the iGEM Toronto 2015 team. See our part in the the registry: http://parts.igem.org/Part:BBa_K1760001
 
-[TodEpalsmid_new.png]
+<p class="image-wrapper">
+{{image "TodE-plasmid_new.jpg" directlink mode}}
+</p>
 
 ## Additional Designs in Progress
 
 In order to achieve complete degradation of toluene, we also constructed a codon optimized todF sequence. We tried to create a ligated plasmid containing  todE, todF, optimized Salis RBS calculator and a tunable promoter to determine optimum transcription for DH10B cells. We used Ligase Cycling Reaction(LCR) in this process. Unique Nucleotide Sequences are added to ligating blocks to facilitate assembly of the plasmid without a secondary structure interference.
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/biobrick%20plasmid.png)
+<p class="image-wrapper">
+{{image "biobrick plasmid.png" directlink mode}}
+</p>
 
 We also used BioBricks from the registry to design plasmids with different efficiencies by using RDP kit as shown below. In this process, we used promoter BBa_J23102 and RBS BBa_B0030.
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/TodEplasmid.png)
+<p class="image-wrapper">
+{{image "TodEplasmid.png" directlink mode}}
+</p>
 
-![alt text](https://github.com/igemuoftATG/wiki2015/blob/master/images/TodFplasmid.png)
+<p class="image-wrapper">
+{{image "TodFplasmid.png" directlink mode}}
+</p>
 
 Note: Links to iGem registry
 BBa_J23102: http://parts.igem.org/Part:BBa_J23102
@@ -62,5 +72,3 @@ agcaaacgcctgcatcattttatgctccaggcgaacggcatggatgatgtgggcctggcgtatgataagtttgatgcgga
 tgggccgccataccaacgatcatatgattagcttttatggcgcgaccccgagcggctttgcggtggaatatggctggggcgcgcgcgaagtgacccgcca
 ttggagcgtggtgcgctatgatcgcattagcatttggggccataaatttcaggcgccggcgtaataataacattactcgcatccattctcaggctgtctc
 g
-
-

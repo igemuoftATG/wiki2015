@@ -6,8 +6,43 @@ body {
 }
 
 body {
-    background-color: $bodyBG;
+    // background-color: $bodyBG;
     position: relative;
+}
+
+.team {
+    .toc {
+        display: none;
+    }
+
+    .col {
+        margin: 0 auto;
+    }
+}
+
+#homepage {
+    // background: url("../images/Alberta water homepage.jpg") left top no-repeat;
+    background-image: url("http://2015.igem.org/wiki/images/7/79/Toronto_2015_Alberta_water_homepage.jpg");
+    background-position: top left;
+    background-repear: no-repeat;
+    background-size: auto 100%;
+
+
+    text-align: center;
+
+    h1 span, h2 span{
+        display: inline-block;
+        background-color: rgba(0, 0, 0, 0.7);
+        color: $white;
+        font-size: 2em;
+        font-style: italic;
+        padding: 20px;
+
+        &:after {
+            content: '';
+            display: block;
+        }
+    }
 }
 
 .content {
@@ -19,6 +54,7 @@ body {
     // float. This trick is used in conjunction with #navigation{float: left;}
     // see: http://stackoverflow.com/questions/1260122/expand-div-to-take-remaining-width
     background-color: $contentBG;
+    margin-left: $navbarIconWidth;
     min-height: 100%;
     overflow: hidden;
     padding-bottom: 20px;
@@ -27,6 +63,7 @@ body {
 
     .toc {
         list-style: none;
+        margin-top: 20px;
         max-height: 100%;
         overflow-y: scroll;
         // position: fixed;
@@ -174,6 +211,7 @@ body {
 
     .content-main {
         // float: left;
+        font-family: 'proxima-nova', sans-serif;
         margin: 0 auto;
         max-width: 600px;
     }
@@ -182,11 +220,22 @@ body {
 // Navigation styles
 // We have a ul of li > a's, some of which may contain another ul of li > a's
 #navigation {
+    @include transform(translateX(calc(-100% + 50px)));
+    @include transition(all 500ms ease);
+    background-color: $sidebarBG;
+    border-bottom: 9999px solid $sidebarBG;
     // By setting display to inline-block, the div will expand its width
     // based on the contents. i.e. we can change the font size and this
     // will automatically readjust.
     display: inline-block;
-    float: left;
+    // float: left;
+    position: fixed;
+    z-index: 9000;
+
+    &:hover {
+        @include transform(translateX(0));
+        @include box-shadow(5px 0 5px rgba(0, 0, 0, 0.5));
+    }
 
     ul {
         margin: 0;
@@ -204,45 +253,71 @@ body {
                 background-color: $navLinkBG;
                 color: $navLinkColour;
                 display: block;
-                font-size: 2em;
+                font-size: 1em;
                 padding: 10px;
+                // height: 50px;
+                // line-height: 50px;
                 // padding-left: 20px;
                 // padding-right: 20px;
                 text-decoration: none;
                 text-transform: capitalize;
-            }
 
-            span {
-                @include border-radius(5px);
-                @include transform(translateY(-50%));
-                background-color: $black;
-                color: $white;
-                font-size: 1.2em;
-                left: -9999px;
-                padding: 10px;
-                position: absolute;
-                text-transform: capitalize;
+                span {
+                    margin-right: 50px;
+                }
 
-                &:before {
-                    @include transform(translateY(-50%));
-                    border-color: transparent $black transparent transparent;
-                    border-style: solid;
-                    border-width: $navigationTooltipTriangleHeight $navigationTooltipSpacing $navigationTooltipTriangleHeight 0;
-                    content: '';
-                    height: 0;
-                    left: -$navigationTooltipSpacing;
+                i {
+                    @include transform(translateY(-55%));
                     position: absolute;
+                    right: 0;
                     top: 50%;
-                    width: 0;
+                    font-size: 2em;
+                    width: 50px;
+                }
+
+                &:after {
+                    clear: both;
+                    content: '';
                 }
             }
 
+            // span {
+            //     @include border-radius(5px);
+            //     @include transform(translateY(-50%));
+            //     background-color: $black;
+            //     color: $white;
+            //     font-size: 1.2em;
+            //     left: -9999px;
+            //     padding: 10px;
+            //     position: absolute;
+            //     text-transform: capitalize;
+            //
+            //     &:before {
+            //         @include transform(translateY(-50%));
+            //         border-color: transparent $black transparent transparent;
+            //         border-style: solid;
+            //         border-width: $navigationTooltipTriangleHeight $navigationTooltipSpacing $navigationTooltipTriangleHeight 0;
+            //         content: '';
+            //         height: 0;
+            //         left: -$navigationTooltipSpacing;
+            //         position: absolute;
+            //         top: 50%;
+            //         width: 0;
+            //     }
+            // }
+
             ul {
                 // Hide inner navs offscreen for now
+                @include box-shadow(5px 0 5px rgba(0, 0, 0, 0.5));
                 left: -9999px;
                 line-height: 100%;
                 position: absolute;
                 z-index: 9000;
+
+                li a span {
+                    margin-right: 0;
+                    font-size: 1em;
+                }
 
                 ul {
                     background-color: $navLinkOuterHoverBG;
