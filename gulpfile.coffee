@@ -618,7 +618,7 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores,
                                 if name is 'a'
                                     currentHref = attr.href
                             ontext: (text) ->
-                                if text is 'Full resolution' or text is multiform['wpDestFile']
+                                if text is 'Full resolution' or text is multiform['wpDestFile'] or text is 'Original file'
                                     finalHref = currentHref
                         }, {decodeEntites: true}
 
@@ -641,17 +641,7 @@ postEdit = (url, file, page, type, multiform, jar, tryLogout, updateImageStores,
                     gutil.log('Request fail 4')
                     handleRequestError(err, httpResponse)
         else if httpResponse? and httpResponse.statusCode is 200
-            gutil.log('Upload failed for '.yellow + file + ', trying again.'.yellow)
-            # if type is 'page'
-            #     upload(link, 'page', jar, tryLogout)
-            # else if type is 'template'
-            #     upload(link, 'template', jar, tryLogout)
-            # else if type is 'stylesheet'
-            #     upload(link, 'stylesheet', jar, tryLogout)
-            # else if type is 'script'
-            #     upload(link, 'script', jar, tryLogout)
-            # else if type is 'image'
-            #     upload(link, 'image', jar, tryLogout, updateImageStores)
+            gutil.log('Upload failed for '.red + file + ', trying again.'.red)
             upload(link, type, jar, tryLogout, updateImageStores)
         else
             gutil.log('Request fail 5')
@@ -668,7 +658,7 @@ gulp.task 'push', ->
         templateData = JSON.parse(fs.readFileSync(files.template))
         stylesheets  = fs.readdirSync(dests.live.css)
         scripts      = fs.readdirSync(dests.live.js)
-        images       = fs.readdirSync('images')
+        # images       = fs.readdirSync('images')
 
         num = 0
         tryLogout = ->
@@ -676,13 +666,56 @@ gulp.task 'push', ->
             total = Object.keys(templateData.links).length +
                 Object.keys(templateData.templates).length +
                 stylesheets.length +
-                scripts.length +
-                images.length
+                scripts.length
+                # + images.length
 
             if '.DS_Store' in stylesheets
                 total -= 1
             if '.DS_Store' in scripts
                 total -= 1
+            # if '.DS_Store' in images
+            #     total -= 1
+
+            if num is total
+                logout(jar)
+
+        # imageStores = new Object()
+        # imageStoresFile = files.images
+        # updateImageStores = (imageStore) ->
+        #     key = Object.keys(imageStore)[0]
+        #     imageStores[key] = imageStore[key]
+        #
+        #     fs.writeFileSync(imageStoresFile, JSON.stringify(imageStores))
+        #
+        #     if '.DS_Store' in fs.readdirSync(files.imagesFolder)
+        #         len = images.length - 1
+        #     else
+        #         len = images.length
+        #
+        #     if Object.keys(imageStores).length is len
+        #         fs.writeFileSync(imageStoresFile, JSON.stringify(imageStores))
+        #         gutil.log('Full resolution links of images stored in'.green, "#{imageStoresFile}".magenta)
+
+        for link of templateData.links
+            upload(link, 'page', jar, tryLogout)
+        for template of templateData.templates
+            upload(template, 'template', jar, tryLogout)
+        for stylesheet in stylesheets
+            upload(stylesheet, 'stylesheet', jar, tryLogout)
+        for script in scripts
+            upload(script, 'script', jar, tryLogout)
+        # for image in images
+        #     upload(image, 'image', jar, tryLogout, updateImageStores)
+
+gulp.task 'push:images', ->
+    login (jar) ->
+        images = fs.readdirSync('images')
+
+        num = 0
+        tryLogout = ->
+            num += 1
+            total = images.length
+
             if '.DS_Store' in images
                 total -= 1
 
@@ -706,14 +739,6 @@ gulp.task 'push', ->
                 fs.writeFileSync(imageStoresFile, JSON.stringify(imageStores))
                 gutil.log('Full resolution links of images stored in'.green, "#{imageStoresFile}".magenta)
 
-        for link of templateData.links
-            upload(link, 'page', jar, tryLogout)
-        for template of templateData.templates
-            upload(template, 'template', jar, tryLogout)
-        for stylesheet in stylesheets
-            upload(stylesheet, 'stylesheet', jar, tryLogout)
-        for script in scripts
-            upload(script, 'script', jar, tryLogout)
         for image in images
             upload(image, 'image', jar, tryLogout, updateImageStores)
 
