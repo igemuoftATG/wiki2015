@@ -218,7 +218,8 @@ gulp.task 'bower:css', ->
         .src(mainBowerFiles('**/*.css'), { base: './bower_components'})
         .pipe(concat('vendor.css'))
         .pipe(cssmin())
-        .pipe(rename({suffix: '.min'}))
+        # .pipe(rename({suffix: '.min'}))
+        .pipe(rename('vendor_min_css'))
         .pipe(header(headerCreator('css')))
         .pipe(gulp.dest(dests.live.css))
 
@@ -230,7 +231,8 @@ gulp.task 'minify:css', ['bower', 'sass'], ->
         .src(globs.css)
         .pipe(concat('styles.css'))
         .pipe(cssmin())
-        .pipe(rename({suffix: '.min'}))
+        # .pipe(rename({suffix: '.min'}))
+        .pipe(rename('styles_min_css'))
         .pipe(header(headerCreator('css')))
         .pipe(gulp.dest(dests.live.css))
 

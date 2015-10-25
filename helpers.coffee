@@ -94,15 +94,21 @@ class Helpers
             content += "<!-- endbower -->\n\t"
 
         for stylesheet in styles
-            if path.extname(stylesheet) is '.css'
-                if mode is 'live' and stylesheet isnt 'vendor.min.css'
-                    content += "<link rel=\"stylesheet\" href=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/css/#{stylesheet}?action=raw&ctype=text/css\" type=\"text/css\" />\n\t"
-                else if stylesheet isnt 'vendor.min.css'
-                    content += "<link rel=\"stylesheet\" href=\"styles/#{stylesheet}\" type=\"text/css\" />\n\t"
+            # if path.extname(stylesheet) is '.css'
+            # if mode is 'live' and stylesheet isnt 'vendor.min.css'
+            if mode is 'live' and stylesheet isnt 'vendor_min_css'
+                content += "<link rel=\"stylesheet\" href=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/css/#{stylesheet}?action=raw&ctype=text/css\" type=\"text/css\" />\n\t"
+            # else if stylesheet isnt 'vendor.min.css'
+            else if stylesheet isnt 'vendor_min_css'
+                content += "<link rel=\"stylesheet\" href=\"styles/#{stylesheet}\" type=\"text/css\" />\n\t"
 
         for stylesheet in styles
-            if stylesheet is 'vendor.min.css'
+            # if stylesheet is 'vendor.min.css'
+            if stylesheet is 'vendor_min_css'
                 content = "<link rel=\"stylesheet\" href=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/css/#{stylesheet}?action=raw&ctype=text/css\" type=\"text/css\" />\n\t" + content
+
+        # potentially..
+        # <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
         return new hbs.SafeString(content)
 
