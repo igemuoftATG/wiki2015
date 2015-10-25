@@ -208,7 +208,8 @@ gulp.task 'bower:js', ->
         .src(mainBowerFiles('**/*.js'), { base: './bower_components'})
         .pipe(concat('vendor.js'))
         .pipe(uglify().on('error', gutil.log))
-        .pipe(rename({suffix: '.min'}))
+        # .pipe(rename({suffix: '.min'}))
+        .pipe(rename('vendor_min_js'))
         .pipe(header(headerCreator('js')))
         .pipe(gulp.dest(dests.live.js))
 
@@ -241,7 +242,8 @@ gulp.task 'uglify:js', ['bower', 'browserify'], ->
         .src(globs.js)
         .pipe(concat('bundle.js'))
         .pipe(uglify().on('error', gutil.log))
-        .pipe(rename({suffix: '.min'}))
+        # .pipe(rename({suffix: '.min'}))
+        .pipe(rename('bundle_min_js'))
         .pipe(header(headerCreator('js')))
         .pipe(gulp.dest(dests.live.js))
 

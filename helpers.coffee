@@ -59,18 +59,17 @@ class Helpers
                 content += "<script src=\"#{script}\"></script>\n\t"
             content += "<!-- endbower -->\n\t"
 
-
         for script in scripts
-            if path.extname(script) is '.js'
-                if mode is 'live' and script isnt 'vendor.min.js'
-                    content += "<script src=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/js/#{script}?action=raw&ctype=text/javascript\"></script>\n\t"
-                else
-                    if script isnt 'vendor.min.js'
-                        content += "<script src=\"js/#{script}\"></script>\n\t"
+            # if path.extname(script) is '.js'
+            if mode is 'live' and script isnt 'vendor_min_js'
+                content += "<script src=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/js/#{script}?action=raw&ctype=text/javascript\"></script>\n\t"
+            else
+                if script isnt 'vendor_min_js'
+                    content += "<script src=\"js/#{script}\"></script>\n\t"
 
         # Append 'vendor.min.js' after all other scripts for live build
         for script in scripts
-            if script is 'vendor.min.js'
+            if script is 'vendor_min_js'
                 content = "<script src=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/js/#{script}?action=raw&ctype=text/javascript\"></script>\n\t" + content
 
         return new hbs.SafeString(content)
