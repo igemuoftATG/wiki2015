@@ -63,7 +63,7 @@ class Helpers
         for script in scripts
             if path.extname(script) is '.js'
                 if mode is 'live' and script isnt 'vendor.min.js'
-                    content += "<script src=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/js/#{script}?action=raw&type=text/js\"></script>\n\t"
+                    content += "<script src=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/js/#{script}?action=raw&ctype=text/javascript\"></script>\n\t"
                 else
                     if script isnt 'vendor.min.js'
                         content += "<script src=\"js/#{script}\"></script>\n\t"
@@ -71,7 +71,7 @@ class Helpers
         # Append 'vendor.min.js' after all other scripts for live build
         for script in scripts
             if script is 'vendor.min.js'
-                content = "<script src=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/js/#{script}?action=raw&type=text/js\"></script>\n\t" + content
+                content = "<script src=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/js/#{script}?action=raw&ctype=text/javascript\"></script>\n\t" + content
 
         return new hbs.SafeString(content)
 
@@ -126,7 +126,9 @@ class Helpers
                 else if format is 'media'
                     fmt = 'Media'
 
-                content = "</html> [[#{fmt}:#{templateData.teamName}_#{templateData.year}_#{img}]] <html>"
+                # content = "</html> [[#{fmt}:#{templateData.teamName}_#{templateData.year}_#{img}]] <html>"
+                # Quick n' dirty fix
+                content = "</html> [[File:#{templateData.teamName}_#{templateData.year}_#{img}]] <html>"
         else
             if format isnt 'directlink'
                 content = "<img src=\"images/#{img}\" />"
