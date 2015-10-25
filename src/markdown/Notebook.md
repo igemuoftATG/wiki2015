@@ -251,35 +251,35 @@ all do our best."
 * PCR purification
 * Miniprep of RFP
 
-<!-- <p class="image-wrapper">
-{{image "gel todf synbiota aug 5.jpg" directlink mode}}
+<p class="image-wrapper">
+{{image "gel_todf_synbiota_aug_5.jpg" directlink mode}}
 </p>
 TodF Gel - Synbiota August 5
 
 <p class="image-wrapper">
-{{image "gel tode digested synbiota aug 5.jpg" directlink mode}}
+{{image "gel_tode_digested_synbiota_aug_5.jpg" directlink mode}}
 </p>
 TodE Gel - Synbiota August 5
 
 <p class="image-wrapper">
-{{image "gel synbiota backbone aug 5.jpg" directlink mode}}
+{{image "gel_synbiota_backbone_aug_5.jpg" directlink mode}}
 </p>
-Gel Backbone - Synbiota August 5 -->
+Gel Backbone - Synbiota August 5
 
 
 #### 06/08/15
 
 Gel electrophoresis of TodF, with IDT todF as a control
 
-<!-- <p class="image-wrapper">
-{{image "gel todf digested synbiota aug 6 (ladder-b-d-ladder-e-f-idtf).jpg" foo mode}}
+<p class="image-wrapper">
+{{image "gel_todf_digested_synbiota_aug_6_(ladder-b-d-ladder-e-f-idtf).jpg" foo mode}}
 </p>
 TodF Gel Digested - Synbiota August 6
 
 <p class="image-wrapper">
-{{image "gel todf synbiota aug 6 (ladder-b-d-ladder-e-f-idtf).jpg" directlink mode}}
+{{image "gel_todf_synbiota_aug_6_(ladder-b-d-ladder-e-f-idtf).jpg" directlink mode}}
 </p>
-TodF Gel - Synbiota August 6 -->
+TodF Gel - Synbiota August 6
 
 #### 07/08/15
 
@@ -409,9 +409,9 @@ Labour Day
 
 * gel electrophoresis for TodF of Gibson assembly
 
-<!-- <p class="image-wrapper">
+<p class="image-wrapper">
 {{image "TodF_gel_gibson_Sept-8.jpg" directlink mode}}
-</p> -->
+</p>
 TodF Gel - Gibson September 8th
 
 #### 09/09/15
@@ -420,9 +420,9 @@ TodF Gel - Gibson September 8th
 * Miniprep of RFP, TodE and aCP
 * Bacterial transformations with Gibson TodEF plasmids, Gibson todE plasmid, RFP and LCP products
 
-<!-- <p class="image-wrapper">
+<p class="image-wrapper">
 {{image "TodF_gel_gibson_TodE_Sept-9.jpg" directlink mode}}
-</p> -->
+</p>
 TodF Gel - Gibson TodE - September 9
 
 #### 10/09/15
@@ -440,9 +440,10 @@ TodF Gel - Gibson TodE - September 9
 
 * LCR of TodE and TodF
 
-<!-- <p class="image-wrapper">
+<p class="image-wrapper">
 {{image "TodE_gel_Sept-14.jpg" directlink mode}}
-</p> -->
+</p>
+TodE Gel Sep. 14
 
 #### 15/09/15
 

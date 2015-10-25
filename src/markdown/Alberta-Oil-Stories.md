@@ -1,17 +1,17 @@
-# Alberta Oil Stories 
+# Alberta Oil Stories
 
-Our research team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. In exploring the social and environmental connections of our project, particularly how our tool can be applied to bioremediation of Oil Sands tailings pond water in Alberta, we wanted to hear views directly from the most impacted people. The frontline communities dealing with issues of clean water accessibility in the area of Alberta's oil industry are largely indigenous communities who have experienced marginalization and injustice as a result of poor regulations. In August, our Policy and Practices team members went to Alberta to hear the stories of these communities. 
+Our research team operates at the University of Toronto on the traditional lands of the Anishinaabe, Haudenosaunee and Wendat people. In exploring the social and environmental connections of our project, particularly how our tool can be applied to bioremediation of Oil Sands tailings pond water in Alberta, we wanted to hear views directly from the most impacted people. The frontline communities dealing with issues of clean water accessibility in the area of Alberta's oil industry are largely indigenous communities who have experienced marginalization and injustice as a result of poor regulations. In August, our Policy and Practices team members went to Alberta to hear the stories of these communities.
 
 The main purpose of our exploration in Alberta's Athabasca watershed was to understand water management within the Oil Sands, and how such management affects the communities living downstream of industry and potential pollutants.  Throughout our research trip in Alberta, we kept a detailed blog of our experiences, in order to engage the wider public in both synthetic biology and environmental health. The goal of our blog was to provide a platform to share the stories of water-based interactions from those on the front lines of the Oil Sands industry – often these are First Nations communities, who are fighting for their right to a healthy environment through free, prior and informed consent of what developments are allowed on their lands.
 
-The blog can be found here: https://albertaoilstories.wordpress.com/
+The blog can be found here: [albertaoilstories.wordpress.com](https://albertaoilstories.wordpress.com/)
 
 ## Keepers of the Water Conference
 #### **"Money cannot be eaten, and we cannot drink oil!"**
 
-We were honoured to be invited to present our project and applications at the Keepers of the Water Conference in Bushe River, Alberta, hosted by the Dene Tha' and Beaver Cree First Nations. 
+We were honoured to be invited to present our project and applications at the Keepers of the Water Conference in Bushe River, Alberta, hosted by the Dene Tha' and Beaver Cree First Nations.
 
-### Day 1: 
+### Day 1:
 
 > As we arrived at the Keepers of the Water Gathering, we were truly shocked by the welcoming we received from the generous and hospitable Dene Tha First Nation, who are the host community this year.
 
@@ -26,18 +26,18 @@ We were honoured to be invited to present our project and applications at the Ke
 > The ability of our project to effectively clean the 77 square-kilometers of tailings pond water that already exists in Alberta would mean such hope, not only to the community members we were able to meet with, but also to the health of the watershed for their animals, relations, and future generations. Our project could mean an incredible amount of water being added back to the water system of Alberta, and after hearing the passionate pleas of the communities living at the forefront, producing this product to the greatest efficiency possible is our most important goal.
 
 <p class="image-wrapper">
-{{image "KOTW poster p+p.png" directlink mode}}
+{{image "KOTW_poster_p+p.png" directlink mode}}
 </p>
 
-### Day 2: 
+### Day 2:
 > As the Keepers of the Water Gathering IX in High Level comes to a close, we are filled with reflection on our short and intense time with the Dene Tha’ First Nation. The amount of information we have received about the state of the Athabasca watershed, and the people and animals who rely on it for life, is incredible and overwhelming.
 
 > Team member Joanna Dowdell stated "As a researcher in this project, I knew that what we are trying to do in tailings water purification could have very positive outcomes for people in the Athabasca region of Alberta as a whole. However, I was unprepared for the weight of responsibility and deep connection I would feel with the project after spending three days with the marginalized frontline communities living in the fight for clean water, and understanding what hope our project can offer in these disrupted areas."
 
-> As Nancy, the elder from Cold Lake First Nation, eloquently stated in response to the growing industrial development affecting her area of watershed, **“Money can’t be eaten, and we cannot drink oil!”** 
+> As Nancy, the elder from Cold Lake First Nation, eloquently stated in response to the growing industrial development affecting her area of watershed, **“Money can’t be eaten, and we cannot drink oil!”**
 
 <p class="image-wrapper">
-{{image "Screen Shot 2015-08-27 at 11.15.50 PM.jpg" directlink mode}}
+{{image "clean_water_poster.jpg" directlink mode}}
 </p>
 
 > Just before we left High Level and the Dene Tha, Nancy was kind enough to sit with us around the burning bonfire and perform a water prayer from her Nation’s traditional knowledge. The prayer was beautiful and heartfelt and I watched in awe as tears ran down her face while she prayed for the Creator to bring a solutions to the problems of the watershed. She paused only when a young baby in the group began to cry, at which point she stated a separate prayer that all the children of the group would live their lives in a world with clean water overflowing as it used to be.
@@ -47,11 +47,11 @@ We were honoured to be invited to present our project and applications at the Ke
 > iGEM researcher Joanna Dowdell was fortunate enough to be asked to join their board executive, which she gratefully accepted. We look forward to continuing with water purification research to aid watershed recovery in every way that we can, while remaining committed to justice advocacy through these networks.
 
 <p class="image-wrapper">
-{{image "Sam gargon and P+p.JPG" directlink mode}}
+{{image "Sam_gargon_and_P+p.jpg" directlink mode}}
 </p>
- 
+
 ##### Direct Discussions:  
-"I had to move to Fort McMurray, Alberta to find a job, and I worked in the oil sands industry. I never liked it, my dad and grandparents would call me and tell me they had no clean water and fewer and fewer animals to hunt locally, and I knew it was a result of the industry I worked in. After a while, I was laid off due to budget cuts and I moved back to the Dene Tha' land in High Level, Alberta. It's been difficult trying to find a job here without the oil industry, but honestly I'm still happier not working for them. I know what they're doing to our land. For me, it would be great to be able to be employed by something that is solving these problems." 
+"I had to move to Fort McMurray, Alberta to find a job, and I worked in the oil sands industry. I never liked it, my dad and grandparents would call me and tell me they had no clean water and fewer and fewer animals to hunt locally, and I knew it was a result of the industry I worked in. After a while, I was laid off due to budget cuts and I moved back to the Dene Tha' land in High Level, Alberta. It's been difficult trying to find a job here without the oil industry, but honestly I'm still happier not working for them. I know what they're doing to our land. For me, it would be great to be able to be employed by something that is solving these problems."
 -Clara, Dene Tha'   
 
 Many First Nations are employed by the oil sands industry but not necessarily in support of the industry. As Chief Allan Adam of Fort Chipewyan has said, many of these indigenous workers are  "economic hostages" of this industry.   
@@ -60,10 +60,10 @@ Many First Nations are employed by the oil sands industry but not necessarily in
 -Sam Gargan, former Chief of the DehCho First Nation
 
 ### Further Research Collaboration
-The leader of Treaty 8 First Nations of Alberta also asked us to follow up with research regarding a synthetic biology invention to detect water toxins and show their presence in a cost-effective design so all families could test their own water. 
+The leader of Treaty 8 First Nations of Alberta also asked us to follow up with research regarding a synthetic biology invention to detect water toxins and show their presence in a cost-effective design so all families could test their own water.
 
 ## University of Alberta Collaborations
-On our first day in Alberta(August 25, 2015), we met professors at __University of Alberta__ who are currently doing research on land reclamation of __Oil Sands Tailings Ponds__.We were honoured to acquire his deep insight about the liquid tailings ponds. The adverse effects of tailings ponds how they have affected our land, air and water are well-known facts. The major issue we come across when talking about oil sands tailings pond is their density. Tailings water is thick dark liquid filled primarily with organic toxins. The thickness of the liquid makes it hard to use and reclaim as clean water. 
+On our first day in Alberta(August 25, 2015), we met professors at __University of Alberta__ who are currently doing research on land reclamation of __Oil Sands Tailings Ponds__.We were honoured to acquire his deep insight about the liquid tailings ponds. The adverse effects of tailings ponds how they have affected our land, air and water are well-known facts. The major issue we come across when talking about oil sands tailings pond is their density. Tailings water is thick dark liquid filled primarily with organic toxins. The thickness of the liquid makes it hard to use and reclaim as clean water.
 
 <p class="image-wrapper">
 {{image "dr-thundat-and-dawood.jpg" directlink mode}}
@@ -71,7 +71,7 @@ On our first day in Alberta(August 25, 2015), we met professors at __University 
 
 Above picture shows __Dr. Thundat__ explaining his work with tailings water.
 
-__Professor Thomas Thundat__ along with his research team has stepped ahead to engage modern technology into __land reclamation__ by using liquid densification techniques. He gave us important insight about our project along with it's potential application in industry with the use of our membrane bioreactor, which mostly deals with __water reclamation__. 
+__Professor Thomas Thundat__ along with his research team has stepped ahead to engage modern technology into __land reclamation__ by using liquid densification techniques. He gave us important insight about our project along with it's potential application in industry with the use of our membrane bioreactor, which mostly deals with __water reclamation__.
 
 **Add UofA picture>Both Professors with our group**
 
@@ -100,14 +100,13 @@ According to the Alberta Energy Regulators, the Directive 074, which outlines �
 
 
 <p class="image-wrapper">
-{{image "crude oil.JPG" directlink mode}}
+{{image "crude_oil.JPG" directlink mode}}
 </p>
 
 <p class="image-wrapper">
-{{image "joanna and oil pump.JPG" directlink mode}}
+{{image "joanna_and_oil_pump.JPG" directlink mode}}
 </p>
 
 <p class="image-wrapper">
-{{image "Oil pumps.JPG" directlink mode}}
+{{image "Oil_pumps.JPG" directlink mode}}
 </p>
-

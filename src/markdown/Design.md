@@ -8,7 +8,7 @@ The goal of our project is to sunthesize bacteria that can effectively degrade T
 
 
 <p class="image-wrapper">
-{{image "bioreactor updated design.jpg" directlink mode}}
+{{image "bioreactor_updated_design.jpg" directlink mode}}
 </p>
 
 Above is the diagram for the membrane bioreactor.

@@ -21,7 +21,7 @@ This part is ordered in gene blocks and ligated by using Gibson Assembly by usin
 In order to achieve complete degradation of toluene, we also constructed a codon optimized todF sequence. We tried to create a ligated plasmid containing  todE, todF, optimized Salis RBS calculator and a tunable promoter to determine optimum transcription for DH10B cells. We used Ligase Cycling Reaction(LCR) in this process. Unique Nucleotide Sequences are added to ligating blocks to facilitate assembly of the plasmid without a secondary structure interference.
 
 <p class="image-wrapper">
-{{image "biobrick plasmid.png" directlink mode}}
+{{image "biobrick_plasmid.png" directlink mode}}
 </p>
 
 We also used BioBricks from the registry to design plasmids with different efficiencies by using RDP kit as shown below. In this process, we used promoter BBa_J23102 and RBS BBa_B0030.

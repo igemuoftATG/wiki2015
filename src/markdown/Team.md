@@ -120,7 +120,7 @@ Shivali completed her first year at the University of Toronto majoring in Molecu
 Pavel is a fifth year University of Toronto student in the social sciences. He joined iGEM Toronto to expand his knowledge of biology and to take part in the policy and practices part of the project. He is especially interested in the social aspects of the iGEM projects and explores various areas of bioethics.
 
 <p class="image-wrapper">
-{{image "Pavel 2.jpg" directlink mode}}
+{{image "Pavel_2.jpg" directlink mode}}
 </p>
 
 #### Joanna Dowdell
@@ -129,7 +129,7 @@ Pavel is a fifth year University of Toronto student in the social sciences. He j
 Joanna is entering her 4th year of study as a Biology specialist, major in Environmental Health and minor in Immunology. Her years of study have included experience in research teams in a variety of areas, and she has been fortunate to have articles published relating to environmental health. Joanna has served on two non-profit exexcutives in relation to Environmental Health, and is excited to work in promoting indigenous solidarity and frontline community awareness through iGEM.
 
 <p class="image-wrapper">
-{{image "joanna jd.jpg" directlink mode}}
+{{image "joanna_jd.jpg" directlink mode}}
 </p>
 
 #### Dawood Cheema
@@ -145,7 +145,7 @@ Dawood is an undergraduate researcher and specialist in mathematics and physics 
 Christine has entered her second year in Human Biology and Cell and Molecular Biology majors as well as a minor in Immunology. Creative writing is one of her passions and has won her awards in the past, but in her senior year Christine found a passion for research and biology. The University Health Network and Toronto District School Board Co-op Education Partnership awarded the Community of Learners Award for her charismatic and keen attitude to gain the most out of her Co-op position at Toronto General Hospital in 2014. Christine has since gained confidence in her lab skills as well as teambuilding efforts through iGEM.
 
 <p class="image-wrapper">
-{{image "Christine 1.jpg" directlink mode}}
+{{image "Christine_1.jpg" directlink mode}}
 </p>
 
 #### Matthew D’iorio
