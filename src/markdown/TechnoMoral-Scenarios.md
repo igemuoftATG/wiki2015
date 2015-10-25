@@ -1,14 +1,14 @@
 # TechnoMoral Scenarios for Product Application  
 
-### Statement of Application Considerations
+## Statement of Application Considerations
 As previously stated, "In order to explore the future prospects of our proposed solution to the tailing ponds crisis in Alberta, we articulated a specific vision for the future application of our synthetically engineered bacteria in the oil sands industry. Under the supervision of Synenergene, we explored the potential “hard” and “soft” impacts of the future use of our product in the context of the Albertan Athabasca region. “Hard” impacts broadly correspond to the intended and quantifiable consequences of technological application, such as direct effects on environmental health, regulatory changes, and redistribution of power and risk. “Soft” impacts are less visible, often unintended, social and cultural consequences of technological progress, such as changes in personal relationship patterns, emergence of novel social mobility opportunities, and adaptation of norms and values to the existence of the new technology (Smit & Oost, 1999)."
 
 Our TechnoMoral Scenarios aim to explore the soft impacts of our technology - the way that human-human and human-biosphere relationships will be affected by application of our designs.
 
-## Scenario One: 
+## Scenario One
 
 Natural scientists seek to understand natural reality by observing the parts that make it up separately. However, to fully understand human reality, individuals must examine the larger structures they are a part of. Individuals often develop an instinctual sense of others’ self by observing, using the individual's five senses, the signals provided by others’ behavior (Blackmore, 1999). Preference is developed as the quantity of signals between selves increases (Zajonc, 2001). Akin to the development of sensory memory, two “I”s learn each other and develop certain kinds of patterned relationships such as bonds (friendship, marriage), ranks (hierarchy, order), competitions (sport, market), and contracts (employment, fife) (Fiske, 1991). These patterned relations are the micro foundation of society, and serve specific functions in organizations, such as the family, community, and workplace, which form the meso level of society. In turn, organizations group to form more complex macro organizations - families group into tribes or ethnicities, communities group into cultures, and workplaces group into firms (Dopfer et al., 2004). Analogous to our genetically engineered bacterium, the three level of social relationship may be thought of as separate functional parts in the large cell we call “society”. We explored the effect our synthetically engineered bacterium may have on these different levels of society, by developing a hypothetical scenario to match each of the three level.
-	
+
 >	I am the mother of all things green that grow from the soil of this land. I have been reborn onto these lands, bringing fertile life and reclaiming these lakes of blackened ooze. Lakes that seeped from deep within earth and stone onto the surface of green and blue. I have seen time come and time not pass, time mired in stand still seconds, standing stiller in years and decades into eternities. Memories washed upon memories, memories primordial in the slumbering forests, memories etching itself into existence from the stirring present.  
 >	In the waking dawn of this once crimson land, I remember my birth bed a palette of rose petals blossoming overhead while the shifting red sands crept over land. As the cool winds mend the fiery red into a burning black, from burning black to cold dull earth.  Soon the earth turned to green when I took form, like the creatures who would come to live upon land I was not given a choice on whether I should come to be. Neither an origin I have known nor a purpose for what I am, only stark and naked existence.  
 >	Who are these but yellow, lumbering carrion eating at my backside? These creatures that bares the image of a progeny of my domain, whom tenderly graze within my consecrated groves, whom adorns a crown of horns. That which tears me from the earth, austere and cold as stone, moving lumbered and laboriously and with a soul that I cannot know. Steeds to animals that have arisen from another time, those that bare yellow shells upon their heads. Ought I to fear what awesome powers they hold? For in their wake they have turned the wheel of time against itself, having cast my sacramental green into cold earth. From cold earth they have turned into that burning black. Upon this burning black on which their beasts do so feed.  
@@ -16,15 +16,16 @@ Natural scientists seek to understand natural reality by observing the parts tha
 >	These lakes that fetter these sullens land, not made by the command of nature’s hands. I have seen my soul reclaim many a withered husks, but my appendages cannot extend across these blackened lakes. Neither treads the spirits of the clouds overhead, my paramour more ancient than I,  and neither treads our progeny the trees of these lands. Neither flies the heralds of the azure skies, neither swims the scaled progenitors of the beasts that stand.  
 >	Those who wear the feathers of the sky upon their heads, had long ago entered into my domain. They who have heard my voice echo and offered only their ears. Who hold reverence for both time that passes and time that does not, folding themselves into the fabric, the layers of these lands. Heeding to my own warnings, to neither disturb the cycles of life and death, of the timeless essence that governs this land. I have seen them come and go, as is the fate of all creatures born into time.  
 >  Oh these waterfalls that now dot these lands, nesting creatures invisible to the eyes of man. Like a fountain of life, they breath upon the murky blue, letting shimmer again the deep blue lakes. These creatures I cannot come to understand, with mastery over life that the spirits have command. Like the movement of the clouds, or the shining of the sun, their intentions neither good nor bad. Only to their ends do they serve, to not disturb the cycles that will harbinger their end. And now I can reclaim these lands once again, in unison with my eternal companion, the spirits of clouds that overhang. Bear to existence offspring of our union, the seeds of these lands, the forests immaculate shall once again stand.  
- 
+
 <p class="image-wrapper">
-{{image "Bay of the Brown Beaver.jpg" directlink mode}}
+{{image "Bay_of_the_Brown_Beaver.jpg" directlink mode}}
 </p>
- Traditional Anishnaabe artwork, "Bay of the Brown Beaver" from the Mountain Series Art Collection,
-Acrylic on Canvas, 24"x32", ©1985 James A. Simon. MISHIBINIJIMA.
+
+Traditional Anishnaabe artwork, "Bay of the Brown Beaver" from the Mountain Series Art Collection, Acrylic on Canvas, 24"x32", ©1985 James A. Simon. MISHIBINIJIMA.
 
 
-## Scenario Two: Father and Son from directly affected First Nation
+## Scenario Two
+### Father and Son from directly affected First Nation
 
 > Father: Son, your mother told me about it earlier today - you are going to be a father! That’s the reason I wanted to speak to you. You know our people always put our families first. Always first! You are my son, and protecting your future guides me more than being chief . I know that you will feel the same towards your son in time.  
 > Son: What do you mean, Dad?  
@@ -45,8 +46,12 @@ Acrylic on Canvas, 24"x32", ©1985 James A. Simon. MISHIBINIJIMA.
 > F: And it will always be...  
 
 <p class="image-wrapper">
-{{image "Indigenous art 1.jpg" directlink mode}}
+{{image "Indigenous_art_1.jpg" directlink mode}}
 </p>
+
+## Scenario Three
+
+<a href="http://2015.igem.org/wiki/images/8/88/Toronto_2015_Corporate_Story.pdf"> Corporate Presentation </a>
 
 ## References in order of appearance:    
 Smit, W., & Oost, E. (1999). De wederzijdse beïnvloeding van technologie en maatschappij: Een Technology Assessment-benadering. Bussum: Coutinho.   

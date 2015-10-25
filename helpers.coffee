@@ -92,6 +92,9 @@ class Helpers
                 content += "<link rel=\"stylesheet\" href=\"#{stylesheet}\" type=\"text/css\" />\n\t"
             content += "<!-- endbower -->\n\t"
 
+        if mode is 'live'
+            content += '<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">\n\t'
+
         for stylesheet in styles
             # if path.extname(stylesheet) is '.css'
             # if mode is 'live' and stylesheet isnt 'vendor.min.css'
@@ -105,9 +108,6 @@ class Helpers
             # if stylesheet is 'vendor.min.css'
             if stylesheet is 'vendor_min_css'
                 content = "<link rel=\"stylesheet\" href=\"http://#{templateData.year}.igem.org/Template:#{templateData.teamName}/css/#{stylesheet}?action=raw&ctype=text/css\" type=\"text/css\" />\n\t" + content
-
-        # potentially..
-        # <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
         return new hbs.SafeString(content)
 
