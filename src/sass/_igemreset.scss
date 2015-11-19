@@ -55,3 +55,12 @@ p {
 li {
     margin-bottom: 0;
 }
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul {
+    margin: 0;
+}

@@ -250,7 +250,7 @@ class Helpers
         content += '<div class="row">'
 
         content += '<div class="col col-lg-8 col-md-12"><div class="content-main">' + marked(handlebarsedMarkdown) + '</div></div>'
-        content += '<div id="toc" class="toc affix sidebar col-lg-4 hidden-xs hidden-sm hidden-md visible-lg-3"><ul class="nav">' +
+        content += '<div id="tableofcontents" class="tableofcontents affix sidebar col-lg-4 hidden-xs hidden-sm hidden-md visible-lg-3"><ul class="nav">' +
                          marked(toc(handlebarsedMarkdown, {firsth1: false, maxdepth: 5}).content).slice(4) +
                      '</div>'
 

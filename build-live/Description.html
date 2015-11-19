@@ -69,8 +69,7 @@
 </li>
 </ul>
 </div>
-<div class="content" id="content-main">
-<div class="row"><div class="col col-lg-9 col-md-12"><div class="content-main"><h1 id="consortiaflux">ConsortiaFlux</h1>
+<div class="content" id="content-main"><div class="row"><div class="col col-lg-8 col-md-12"><div class="content-main"><h1 id="consortiaflux">ConsortiaFlux</h1>
 <h2 id="introduction">Introduction</h2>
 <p>In nature, it is virtually impossible to find an isolated bacterial species on its own. Across most of the natural world, different bacterial species cluster together in ecologically crucial communities known as microbiomes. In constrast, synthetic biology laboratories often prepare isolated strains for later use in the natural environment. Experimentally, this would require either the creation or simulation of an isolated microbiome.</p>
 <p>Our iGEM team created the web-based tool &#39;ConsortiaFlux&#39; in order to run microbiome simulations. Our tool allows the user to visualize the effects of the addition of a synthetically engineered bacteria into a predefined microbiome. This visualization is generated through a process called community flux balance analysis (cFBA).</p>
@@ -175,7 +174,7 @@ Copyright © 2010, Rights Managed by Nature Publishing Group -->
 <p>The diagram above shows the plasmid that we designed. We used psB1C3, in green, for the backbone that we obtained from the iGEM registry. The plasmid includes both <em>todE</em> and <em>todF</em> that have been optimized for <em>E.coli</em> K-12 MG1655 strain. Each gene begins with a start codon followed by a His-Tag, and terminates with a stop codon. The purpose of the His-Tag is to confirm the synthesis of our enzymes once we transform <em>E.coli</em>. We added a Ribosomal binding site (RBS) before each gene and optimized it using the Salis RBS calculator. UNSs were also added before and after every gene to prevent the formation of a secondary structure.  </p>
 <h3 id="experimental-details">Experimental details</h3>
 <p>To create our plasmid, we used Synbiota’s Rapid Dna Prototyping (RDP) protocol in order to assemble our <em>todE</em> and <em>todF</em> constructs. We confirmed the identity of our constructs by using gel electrophoresis to compare our constructs against the <em>todE</em> and <em>todF</em> genes we purified from <em>P. putida F1</em>. Once the <em>todE</em> and <em>todF</em> genes were assembled, they were inserted into the psB1C3 backbone using the Ligase Chain Reaction (LCR) method. Following LCR, gel electrophoresis was once again used to ensure that our plasmid had been assembled correctly. Once our plasmid was assembled, we transformed <em>E.coli</em>, which we made chemically competent for transformation. Following the transformation, antibiotic selection was used to identify the transformed colonies. Further, to test for synthesis of the desired enzymes, the transformed colonies were lysed and tested via SDS-PAGE. After confirming enzyme production, the transformed <em>E.coli</em> was grown on media rich in 3-methylcatechol, and a colorimetric assay was used to confirm the formation of 2-hydroxy-6-keto-2,4-heptadienoate (substrate of <em>todE</em>) and 2-Hydroxy-2,4-pentadienoate (substrate of <em>todF</em>). As an aside, gas chromatography and mass spectrometry methods are also applicable to characterizing the activity of these enzymes, where time permits. Finally, we attempted to co-transform our bacteria with our custom-designed plasmid and pTDG602 in order to observe the complete degradation of toluene into carbon dioxide and water.</p>
-</div></div><div id="toc" class="toc affix sidebar col-lg-3 hidden-xs hidden-sm hidden-md visible-lg-3"><ul class="nav">
+</div></div><div id="tableofcontents" class="tableofcontents affix sidebar col-lg-4 hidden-xs hidden-sm hidden-md visible-lg-3"><ul class="nav">
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#what-is-fba-and-cfba-">What is FBA and cFBA?</a></li>
 <li><a href="#math-behind-the-code">Math Behind the Code</a></li>
@@ -194,8 +193,7 @@ Copyright © 2010, Rights Managed by Nature Publishing Group -->
 </ul>
 </li>
 </ul>
-</div></div>
-</div>
+</div></div></div>
 
 </html>
 {{Toronto/footer}}
