@@ -22,7 +22,8 @@
     "font-awesome": "fontawesome#~4.4.0",
     "highlightjs": "~8.7.0",
     "jquery": "~2.1.4",
-    "normalize-libsass": "~1.0.3"
+    "normalize-libsass": "~1.0.3",
+    "vivus": "~0.2.3"
   },
   "overrides": {
     "font-awesome": {

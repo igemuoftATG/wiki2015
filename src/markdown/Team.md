@@ -42,6 +42,14 @@ and learning foreign languages.
 {{image "ghazal.jpg" directlink mode}}
 </p>
 
+#### Sean Ihn
+##### Bioinformatics Team  
+Sean is a 2nd year student studying Neuroscience and Molecular Genetics. Through spending an amazing summer working as a part of the Bioinformatics team in iGEM U of T, he was able to redefine his passion for scientific research and computational biology. He is very excited to see and contribute to what iGEM U of T can create in the years to come!
+
+<p class="image-wrapper">
+{{image "sean.jpg" directlink mode}}
+</p>
+
 #### Mark Wang
 ##### Bioinformatics Team  
 Mark is a second year student studying Molecular Genetics at the University of Toronto. He is, as he put it, fortunate enough to meet and work alongside other dry lab team members, who are passionate about computational biology and motivated to finish the project. He is amazed at how computer can be used to model and analyze biological data. He is also equally passionate about photography in his free time.

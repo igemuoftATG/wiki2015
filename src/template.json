@@ -24,7 +24,9 @@
         "alberta-oil-stories"     : "Alberta-Oil-Stories",
         "community-outreach"      : "Community-Outreach",
         "technology-applications" : "Technology-Applications",
-        "technomoral-scenarios"   : "TechnoMoral-Scenarios"
+        "technomoral-scenarios"   : "TechnoMoral-Scenarios",
+        "demo"                    : "Demo",
+        "generator"               : "Generator"
     },
     "icons": {
         "index"                   : "fa-home",
@@ -80,7 +82,11 @@
         "safety"           : "safety",
         "modeling"         : "modeling",
         "measurement"      : "measurement",
-        "software"         : "software",
+        "_software"         : {
+            "software"  : "software",
+            "demo"      : "demo",
+            "generator" : "wiki generator"
+        },
         "entrepreneurship" : "entrepreneurship"
     },
     "templates": {
@@ -110,6 +116,7 @@
         "alberta-oil-stories"     : "Alberta-Oil-Stories",
         "community-outreach"      : "Community-Outreach",
         "technology-applications" : "Technology-Applications",
-        "technomoral-scenarios"   : "TechnoMoral-Scenarios"
+        "technomoral-scenarios"   : "TechnoMoral-Scenarios",
+        "generator"               : "Generator"
     }
 }
