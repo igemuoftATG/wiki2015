@@ -63,12 +63,7 @@
             "results"     : "results",
             "design"      : "design"
         },
-        "_parts": {
-            "parts"           : "parts",
-            "basic_part"      : "basic parts",
-            "composite_part"  : "composite parts",
-            "part_collection" : "part collection"
-        },
+        "parts"           : "parts",
         "notebook"         : "notebook",
         "attributions"     : "attributions",
         "collaborations"   : "collaborations",
@@ -80,8 +75,6 @@
             "technomoral-scenarios"   : "technoMoral scenarios"
         },
         "safety"           : "safety",
-        "modeling"         : "modeling",
-        "measurement"      : "measurement",
         "_software"         : {
             "software"  : "software",
             "demo"      : "demo",

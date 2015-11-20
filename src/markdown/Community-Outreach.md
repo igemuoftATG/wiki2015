@@ -1,17 +1,17 @@
 # Community Outreach  
 
-One of the biggest controversial issues of our project is the public perception and what our project poses to the environment and surrounding community. The limitations we face regarding this public risk will be solved through __Local__ and __National Outreach__. 
+One of the biggest controversial issues of our project is the public perception and what our project poses to the environment and surrounding community. The limitations we face regarding this public risk will be solved through __Local__ and __National Outreach__.
 
 ## Local Outreach
 
 ### iGEM’s First Summer Lab Camp
 
-UofT iGEM held our first summer lab camp for secondary school students from July 27th-31st 2015. 
+UofT iGEM held our first summer lab camp for secondary school students from July 27th-31st 2015.
 
 The purpose of this 4-day summer camp was to educate students about previous and current iGEM projects. The camp was designed to allow students to explore laboratory research methods and perform standard molecular biology laboratory experiments such as: DNA fingerprinting, PCR, Gel Electrophoresis, DNA transformation, RFP/GFP coloured Bacteria transformation, 3D Printing, and much more to further develop understanding of the scientific method. We collaborated with __DIYBio__, a non-profit organization which believes strongly in student learning and self-discovery. While educating young students, we are not only investing in growing iGEM as a team but also allowing students to explore what the world of synthetic biology has to offer.
 
 <p class="image-wrapper">
-{{image "20150731_175734.jpg" directlink mode}}
+<img src="{{image "20150731_175734.jpg" "directlink" mode}}" />
 </p>
 
 ### SiREM Labs  
